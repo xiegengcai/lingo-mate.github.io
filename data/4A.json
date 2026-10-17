@@ -1,0 +1,4482 @@
+{
+  "id": "4A",
+  "title": "四年级上册",
+  "subtitle": "上海教育出版社 · 沪教版",
+  "icon": "📕",
+  "units": [
+    {
+      "name": "Unit 1",
+      "title": "人们住哪里",
+      "icon": "🏙️",
+      "color": "#ff9800",
+      "en": "Where do people live?",
+      "vocab": [
+        {
+          "en": "city",
+          "cn": "城市"
+        },
+        {
+          "en": "building",
+          "cn": "建筑物；楼房"
+        },
+        {
+          "en": "flat",
+          "cn": "公寓"
+        },
+        {
+          "en": "street",
+          "cn": "大街；街道"
+        },
+        {
+          "en": "country",
+          "cn": "乡村"
+        },
+        {
+          "en": "farm",
+          "cn": "农场"
+        },
+        {
+          "en": "house",
+          "cn": "房屋；房子"
+        },
+        {
+          "en": "people",
+          "cn": "人；人们"
+        },
+        {
+          "en": "live",
+          "cn": "住；居住"
+        },
+        {
+          "en": "many",
+          "cn": "许多"
+        },
+        {
+          "en": "place",
+          "cn": "地方"
+        },
+        {
+          "en": "quiet",
+          "cn": "安静的"
+        },
+        {
+          "en": "all kinds of",
+          "cn": "各种各样的"
+        },
+        {
+          "en": "a lot of",
+          "cn": "许多"
+        }
+      ],
+      "read": [
+        {
+          "en": "People live in all kinds of homes.",
+          "cn": "人们住在各种各样的房子里。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.4"
+        },
+        {
+          "en": "Some live in flats and some live in houses.",
+          "cn": "有些人住在公寓里，有些人住在房子里。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.4"
+        },
+        {
+          "en": "Some homes are big, and some are small.",
+          "cn": "有些房子很大，有些很小。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.4"
+        },
+        {
+          "en": "Cities: There are a lot of people, streets and big buildings in cities.",
+          "cn": "城市：城市里有许多人、街道和高大的建筑物。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.4"
+        },
+        {
+          "en": "Many people live in flats.",
+          "cn": "许多人住在公寓里。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.4"
+        },
+        {
+          "en": "The country: In the country, there are farms.",
+          "cn": "乡村：乡村里有农场。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.5"
+        },
+        {
+          "en": "People live in houses.",
+          "cn": "人们住在房子里。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.5"
+        },
+        {
+          "en": "Homes are in neighbourhoods.",
+          "cn": "家都在社区（居住区）里。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.5"
+        },
+        {
+          "en": "Some neighbourhoods are in cities, and some are in the country.",
+          "cn": "有些社区在城市里，有些在乡村。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.5"
+        },
+        {
+          "en": "Where do you live, Ningning?",
+          "cn": "你住在哪里，宁宁？",
+          "st": "课文 · Where's your home?",
+          "sp": "p.4"
+        },
+        {
+          "en": "Ningning: I live in Shenzhen. Shenzhen is a big city.",
+          "cn": "宁宁：我住在深圳。深圳是一座大城市。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.4"
+        },
+        {
+          "en": "Where do you live, Kate?",
+          "cn": "你住在哪里，凯特？",
+          "st": "课文 · Where's your home?",
+          "sp": "p.5"
+        },
+        {
+          "en": "Kate: I live on a farm in the country.",
+          "cn": "凯特：我住在乡村的一个农场里。",
+          "st": "课文 · Where's your home?",
+          "sp": "p.5"
+        },
+        {
+          "en": "City Mouse (M1) lives in a city.",
+          "cn": "城市老鼠（M1）住在一座城市里。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "M1: There are too many people and cars here. Let me visit my friend in the country.",
+          "cn": "M1：这里的人和车太多了。让我去乡村看望我的朋友吧。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "City Mouse goes to visit his friend, Country Mouse (M2).",
+          "cn": "城市老鼠去看望他的朋友——乡村老鼠（M2）。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "M2: Welcome to my home!",
+          "cn": "M2：欢迎来到我家！",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "In the city, they eat some nice food.",
+          "cn": "在城市里，他们吃一些美味的食物。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "M1: Have some cheese.",
+          "cn": "M1：吃点奶酪吧。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "M2: Yummy, yummy!",
+          "cn": "M2：好吃，真好吃！",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "M1: A big cat! Run!",
+          "cn": "M1：一只大猫！快跑！",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "M2: Come with me to the country. It's safe there.",
+          "cn": "M2：跟我到乡下去吧。那里很安全。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Now they are safe. In the country, they eat apples for dinner.",
+          "cn": "现在他们安全了。在乡村，他们晚餐吃苹果。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "M1: It's quiet here, but it's not fun. Come with me to the city!",
+          "cn": "M1：这里很安静，可是没有意思。跟我到城里去吧！",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "M2: OK.",
+          "cn": "M2：好的。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "M1: Oh no. The country is good for you, but the city is good for me.",
+          "cn": "M1：哦，不。乡村适合你，可是城市才适合我。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "The two mice say goodbye. They go back to their homes.",
+          "cn": "两只老鼠道了别。他们各自回到自己的家。",
+          "st": "拓展阅读 · City Mouse and Country Mouse",
+          "sp": "p.10",
+          "sec": "拓展阅读"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "title": "动物住哪里",
+      "icon": "🦅",
+      "color": "#4caf50",
+      "en": "Where do animals live?",
+      "vocab": [
+        {
+          "en": "eagle",
+          "cn": "老鹰"
+        },
+        {
+          "en": "owl",
+          "cn": "猫头鹰"
+        },
+        {
+          "en": "honeybee",
+          "cn": "蜜蜂"
+        },
+        {
+          "en": "nest",
+          "cn": "巢穴"
+        },
+        {
+          "en": "their",
+          "cn": "他们的；她们的；它们的"
+        },
+        {
+          "en": "tree hole",
+          "cn": "树洞"
+        },
+        {
+          "en": "safe",
+          "cn": "安全的"
+        },
+        {
+          "en": "there",
+          "cn": "那里；在那里"
+        },
+        {
+          "en": "snake",
+          "cn": "蛇"
+        },
+        {
+          "en": "hive",
+          "cn": "蜂巢"
+        },
+        {
+          "en": "under",
+          "cn": "在……下面；小于；少于"
+        },
+        {
+          "en": "at night",
+          "cn": "晚上"
+        },
+        {
+          "en": "make honey",
+          "cn": "酿蜜"
+        }
+      ],
+      "read": [
+        {
+          "en": "Eagles live in big nests.",
+          "cn": "老鹰住在大大的巢穴里。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "Where are their nests?",
+          "cn": "它们的巢穴在哪里？",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "They are in the trees.",
+          "cn": "它们在树上。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "Some eagles are white and brown.",
+          "cn": "有些老鹰是白色和棕色的。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "They eat rabbits, frogs and birds.",
+          "cn": "它们吃兔子、青蛙和鸟。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "Where do owls live?",
+          "cn": "猫头鹰住在哪里？",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "They live in tree holes.",
+          "cn": "它们住在树洞里。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "They are safe there.",
+          "cn": "它们在那里很安全。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "Owls come out at night.",
+          "cn": "猫头鹰在晚上出来。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "They eat mice and snakes.",
+          "cn": "它们吃老鼠和蛇。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "Honeybees live in a hive.",
+          "cn": "蜜蜂住在蜂巢里。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "There, they make honey.",
+          "cn": "在那里，它们酿蜜。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "They have food in winter.",
+          "cn": "它们在冬天有食物。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "Honeybees have five eyes.",
+          "cn": "蜜蜂有五只眼睛。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "They can't see the colour red.",
+          "cn": "它们看不见红色。",
+          "st": "课文 · Animals' homes",
+          "sp": "p.13–15"
+        },
+        {
+          "en": "A panda mum has a baby in a panda centre.",
+          "cn": "熊猫妈妈在熊猫中心生了一个宝宝。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        },
+        {
+          "en": "People take care of him.",
+          "cn": "人们照顾他。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        },
+        {
+          "en": "They call him Taotao.",
+          "cn": "他们叫他桃桃。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        },
+        {
+          "en": "Taotao is one year old.",
+          "cn": "桃桃一岁了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        },
+        {
+          "en": "He loves his mum.",
+          "cn": "他爱他的妈妈。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        },
+        {
+          "en": "Where is Taotao?",
+          "cn": "桃桃在哪里？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        },
+        {
+          "en": "He is up in a tree.",
+          "cn": "他在树上。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        },
+        {
+          "en": "Taotao now lives in the wild.",
+          "cn": "桃桃现在生活在野外。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        },
+        {
+          "en": "That is amazing!",
+          "cn": "那真令人惊叹！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        },
+        {
+          "en": "Wow! Taotao is now a big, strong panda.",
+          "cn": "哇！桃桃现在是一只又大多强壮的熊猫。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Panda Taotao",
+          "sp": "p.20"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "title": "奇妙的数字",
+      "icon": "🔢",
+      "color": "#2196f3",
+      "en": "How do we use numbers?",
+      "vocab": [
+        {
+          "en": "plus",
+          "cn": "加；加号"
+        },
+        {
+          "en": "equal",
+          "cn": "等于"
+        },
+        {
+          "en": "answer",
+          "cn": "答案；回答"
+        },
+        {
+          "en": "minus",
+          "cn": "减；减号"
+        },
+        {
+          "en": "odd numbers",
+          "cn": "奇数"
+        },
+        {
+          "en": "even numbers",
+          "cn": "偶数"
+        },
+        {
+          "en": "use",
+          "cn": "使用"
+        },
+        {
+          "en": "help",
+          "cn": "帮助"
+        },
+        {
+          "en": "count",
+          "cn": "（按顺序）数数"
+        },
+        {
+          "en": "thing",
+          "cn": "东西；事物"
+        },
+        {
+          "en": "say",
+          "cn": "说"
+        },
+        {
+          "en": "every day",
+          "cn": "每天"
+        },
+        {
+          "en": "how many",
+          "cn": "（用于问数量）多少"
+        }
+      ],
+      "read": [
+        {
+          "en": "Look at the numbers.",
+          "cn": "看这些数字。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "Some numbers are even, and some numbers are odd.",
+          "cn": "有些数字是偶数，有些数字是奇数。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "The even numbers are blue, and the odd numbers are red.",
+          "cn": "偶数是蓝色的，奇数是红色的。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "We use numbers every day.",
+          "cn": "我们每天都用数字。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "They help us count things.",
+          "cn": "它们帮助我们数东西。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "You have five orange pencils.",
+          "cn": "你有五支橙色铅笔。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24"
+        },
+        {
+          "en": "I have six green pencils.",
+          "cn": "我有六支绿色铅笔。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24"
+        },
+        {
+          "en": "How many pencils do we have?",
+          "cn": "我们一共有多少支铅笔？",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24"
+        },
+        {
+          "en": "We have eleven pencils.",
+          "cn": "我们有十一支铅笔。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24"
+        },
+        {
+          "en": "We say, \"Five plus six equals eleven.\"",
+          "cn": "我们说：“五加六等于十一。”",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "You have five apples.",
+          "cn": "你有五个苹果。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.25"
+        },
+        {
+          "en": "Your sister comes and eats one apple.",
+          "cn": "你姐姐过来吃掉了其中一个苹果。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.25"
+        },
+        {
+          "en": "Now how many apples do you have?",
+          "cn": "现在你有多少个苹果？",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.25"
+        },
+        {
+          "en": "I have four apples now.",
+          "cn": "我现在有四个苹果。",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.25"
+        },
+        {
+          "en": "We say, \"Five minus one equals four.\"",
+          "cn": "我们说：“五减一等于四。”",
+          "st": "课文 · Numbers! Numbers!",
+          "sp": "p.25"
+        },
+        {
+          "en": "How old are you?",
+          "cn": "你几岁了？",
+          "st": "拓展阅读 · Numbers in our lives",
+          "sp": "p.30",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "What's the time?",
+          "cn": "现在几点了？",
+          "st": "拓展阅读 · Numbers in our lives",
+          "sp": "p.30",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "We use numbers all the time.",
+          "cn": "我们一直都在使用数字。",
+          "st": "拓展阅读 · Numbers in our lives",
+          "sp": "p.30",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "We use numbers to tell the time.",
+          "cn": "我们用数字来看时间。",
+          "st": "拓展阅读 · Numbers in our lives",
+          "sp": "p.30",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "The numbers on the clock help us know the time.",
+          "cn": "钟面上的数字帮助我们知道时间。",
+          "st": "拓展阅读 · Numbers in our lives",
+          "sp": "p.30",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "We call people on their phone numbers.",
+          "cn": "我们按别人的电话号码给他们打电话。",
+          "st": "拓展阅读 · Numbers in our lives",
+          "sp": "p.30",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Then we can talk to them on the phone.",
+          "cn": "然后我们就能和他们通电话了。",
+          "st": "拓展阅读 · Numbers in our lives",
+          "sp": "p.30",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "We use numbers in the supermarket.",
+          "cn": "我们在超市里使用数字。",
+          "st": "拓展阅读 · Numbers in our lives",
+          "sp": "p.30",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Everything in the supermarket has a price.",
+          "cn": "超市里的每样东西都有一个价格。",
+          "st": "拓展阅读 · Numbers in our lives",
+          "sp": "p.30",
+          "sec": "拓展阅读"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "title": "购物",
+      "icon": "🛒",
+      "color": "#9c27b0",
+      "en": "What do we buy?",
+      "vocab": [
+        {
+          "en": "supermarket",
+          "cn": "超市"
+        },
+        {
+          "en": "a bag of rice",
+          "cn": "一袋米"
+        },
+        {
+          "en": "a box of eggs",
+          "cn": "一盒鸡蛋"
+        },
+        {
+          "en": "a bottle of juice",
+          "cn": "一瓶果汁"
+        },
+        {
+          "en": "buy",
+          "cn": "购买"
+        },
+        {
+          "en": "sell",
+          "cn": "出售"
+        },
+        {
+          "en": "need",
+          "cn": "需要"
+        },
+        {
+          "en": "shopping list",
+          "cn": "购物单"
+        },
+        {
+          "en": "each",
+          "cn": "每个"
+        },
+        {
+          "en": "team",
+          "cn": "队；组"
+        },
+        {
+          "en": "faster",
+          "cn": "更快的"
+        },
+        {
+          "en": "candy",
+          "cn": "糖果；巧克力"
+        },
+        {
+          "en": "bread",
+          "cn": "面包"
+        },
+        {
+          "en": "win",
+          "cn": "获胜"
+        },
+        {
+          "en": "still",
+          "cn": "还；仍然"
+        },
+        {
+          "en": "share",
+          "cn": "分享"
+        },
+        {
+          "en": "water",
+          "cn": "水；给……浇水"
+        },
+        {
+          "en": "how much",
+          "cn": "多少钱；多少"
+        },
+        {
+          "en": "a bar of chocolate",
+          "cn": "一块巧克力"
+        },
+        {
+          "en": "All right.",
+          "cn": "好的。"
+        }
+      ],
+      "read": [
+        {
+          "en": "Mum: We need to buy some food.",
+          "cn": "妈妈：我们需要买一些食物。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Dad: Let's play a game. We have 60 yuan.",
+          "cn": "爸爸：我们来玩个游戏。我们有60元。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Dad: Here's the shopping list for each team.",
+          "cn": "爸爸：这是每队的购物单。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Dad: The faster team can buy some candy.",
+          "cn": "爸爸：快一点的那队可以买些糖果。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Mum: We need some bread and a box of eggs.",
+          "cn": "妈妈：我们需要一些面包和一盒鸡蛋。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Chen Lei: Here they are.",
+          "cn": "陈雷：给你（在这儿）。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Mum: How much are the eggs?",
+          "cn": "妈妈：鸡蛋多少钱？",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Chen Lei: They're 15 yuan. And the bread is 12 yuan.",
+          "cn": "陈雷：它们15元。面包12元。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Dad: We need some apples.",
+          "cn": "爸爸：我们需要一些苹果。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Chen Wei: Here they are.",
+          "cn": "陈伟：给你（在这儿）。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Dad: All right. And some carrots.",
+          "cn": "爸爸：好的。还要一些胡萝卜。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Chen Wei: OK!",
+          "cn": "陈伟：好的！",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.34"
+        },
+        {
+          "en": "Dad: Great. How much are they?",
+          "cn": "爸爸：太好了。它们多少钱？",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.35"
+        },
+        {
+          "en": "Chen Wei: This bag of apples is 12 yuan. This bag of carrots is 5 yuan.",
+          "cn": "陈伟：这袋苹果12元。这袋胡萝卜5元。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.35"
+        },
+        {
+          "en": "Chen Lei: We win, Mum!",
+          "cn": "陈雷：我们赢了，妈妈！",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.35"
+        },
+        {
+          "en": "Mum: We still have 16 yuan. What would you like, Chen Lei?",
+          "cn": "妈妈：我们还有16元。陈雷，你想要什么？",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.35"
+        },
+        {
+          "en": "Chen Lei: I'd like a bar of chocolate. I can share it with you all.",
+          "cn": "陈雷：我想要一块巧克力。我可以和大家一起分享。",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.35"
+        },
+        {
+          "en": "Chen Wei: Thanks!",
+          "cn": "陈伟：谢谢！",
+          "st": "课文 · Let's go shopping",
+          "sp": "p.35"
+        },
+        {
+          "en": "Farmer Thomas has a cow. It gives milk every day.",
+          "cn": "托马斯农夫有一头奶牛。它每天都产奶。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        },
+        {
+          "en": "His wife, Rosa, sells the milk.",
+          "cn": "他的妻子罗莎把奶卖掉。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        },
+        {
+          "en": "One day, Thomas asks Rosa to go to a dance.",
+          "cn": "一天，托马斯请罗莎去参加舞会。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        },
+        {
+          "en": "\"No,\" says Rosa, \"I don't have a dress.\"",
+          "cn": "\"不，\"罗莎说，\"我没有连衣裙。\"",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        },
+        {
+          "en": "Thomas has an idea. He sells the cow and buys a beautiful dress for Rosa.",
+          "cn": "托马斯有了个主意。他卖了奶牛，给罗莎买了一条漂亮的连衣裙。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        },
+        {
+          "en": "\"Look at the new dress, Rosa. We can go to the dance now,\" he says.",
+          "cn": "\"看这条新裙子，罗莎。我们现在可以去跳舞了，\"他说。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        },
+        {
+          "en": "Rosa is angry!",
+          "cn": "罗莎生气了！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        },
+        {
+          "en": "\"Our cow gives us milk every day. We sell the milk and buy food!",
+          "cn": "\"我们的奶牛每天给我们奶。我们卖了奶买食物！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        },
+        {
+          "en": "We can't eat the dress. We need our cow!\"",
+          "cn": "裙子不能吃。我们需要我们的奶牛！\"",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        },
+        {
+          "en": "Thomas buys his cow back.",
+          "cn": "托马斯把他的奶牛买了回来。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The farmer and the dress",
+          "sp": "p.40"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "title": "四季",
+      "icon": "🍂",
+      "color": "#8bc34a",
+      "en": "How are the seasons different?",
+      "vocab": [
+        {
+          "en": "spring",
+          "cn": "春天"
+        },
+        {
+          "en": "warm",
+          "cn": "温暖的"
+        },
+        {
+          "en": "summer",
+          "cn": "夏天"
+        },
+        {
+          "en": "hot",
+          "cn": "炎热的"
+        },
+        {
+          "en": "autumn",
+          "cn": "秋天"
+        },
+        {
+          "en": "cool",
+          "cn": "凉爽的"
+        },
+        {
+          "en": "winter",
+          "cn": "冬天"
+        },
+        {
+          "en": "cold",
+          "cn": "寒冷的"
+        },
+        {
+          "en": "parent",
+          "cn": "父亲（或母亲）"
+        },
+        {
+          "en": "season",
+          "cn": "季节"
+        },
+        {
+          "en": "year",
+          "cn": "年"
+        },
+        {
+          "en": "grow",
+          "cn": "（使）生长"
+        },
+        {
+          "en": "get",
+          "cn": "变得"
+        },
+        {
+          "en": "usually",
+          "cn": "通常"
+        },
+        {
+          "en": "after",
+          "cn": "在……之后"
+        },
+        {
+          "en": "fall",
+          "cn": "落下"
+        },
+        {
+          "en": "turn",
+          "cn": "（使）变成"
+        },
+        {
+          "en": "often",
+          "cn": "经常"
+        },
+        {
+          "en": "snow",
+          "cn": "下雪；雪"
+        },
+        {
+          "en": "then",
+          "cn": "然后"
+        },
+        {
+          "en": "begin",
+          "cn": "开始"
+        }
+      ],
+      "read": [
+        {
+          "en": "There are four seasons in a year: spring, summer, autumn and winter.",
+          "cn": "一年有四个季节：春天、夏天、秋天和冬天。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Spring is a season for growing.",
+          "cn": "春天是一个生长（万物生长）的季节。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "It gets warm.",
+          "cn": "天气变得温暖。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "It usually rains a lot.",
+          "cn": "通常下雨很多。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "The rain helps plants grow.",
+          "cn": "雨水帮助植物生长。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Summer comes after spring.",
+          "cn": "夏天在春天之后到来。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "It gets hot.",
+          "cn": "天气变得炎热。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "The days are long and the nights are short.",
+          "cn": "白天很长，夜晚很短。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "The sun helps fruit and flowers grow.",
+          "cn": "阳光帮助果实和花朵生长。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Autumn comes after summer.",
+          "cn": "秋天在夏天之后到来。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "It gets cool.",
+          "cn": "天气变得凉爽。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Leaves turn red, yellow and orange.",
+          "cn": "树叶变成红色、黄色和橙色。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Winter comes after autumn.",
+          "cn": "冬天在秋天之后到来。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "The days are short and the nights are long.",
+          "cn": "白天很短，夜晚很长。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "It gets cold and it often snows!",
+          "cn": "天气变冷，而且常常下雪！",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Many trees don't have leaves.",
+          "cn": "许多树都没有叶子了。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Then it's spring!",
+          "cn": "然后就又是春天了！",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "The seasons begin again.",
+          "cn": "季节又重新开始。",
+          "st": "课文 · The four seasons",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "My name is Arnold.",
+          "cn": "我叫阿诺德。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "I have an apple tree.",
+          "cn": "我有一棵苹果树。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "It's spring.",
+          "cn": "现在是春天。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "There are lots of flowers on my apple tree.",
+          "cn": "我的苹果树上有许多花儿。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Honeybees look for food.",
+          "cn": "蜜蜂在寻找食物。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "It's summer.",
+          "cn": "现在是夏天。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "I build a tree house in my apple tree.",
+          "cn": "我在我的苹果树上搭了一座树屋。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "I watch small apples grow.",
+          "cn": "我看着小苹果慢慢生长。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "It's autumn.",
+          "cn": "现在是秋天。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "My apple tree now has big, red apples.",
+          "cn": "我的苹果树现在结满了大大的红苹果。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "My family and I make apple pies.",
+          "cn": "我和家人一起做苹果派。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "It's winter.",
+          "cn": "现在是冬天。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "There is lots of snow.",
+          "cn": "地上有很多雪。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "I make a snowman.",
+          "cn": "我堆了一个雪人。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "There are no leaves on the apple tree now.",
+          "cn": "现在苹果树上一片叶子也没有了。",
+          "st": "拓展阅读 · The seasons of Arnold's apple tree",
+          "sp": "p.50",
+          "sec": "拓展阅读"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "title": "神奇植物",
+      "icon": "🌻",
+      "color": "#03a9f4",
+      "en": "What's amazing about plants?",
+      "vocab": [
+        {
+          "en": "flower",
+          "cn": "花"
+        },
+        {
+          "en": "fruit",
+          "cn": "果实；水果"
+        },
+        {
+          "en": "leaf",
+          "cn": "叶子"
+        },
+        {
+          "en": "soil",
+          "cn": "土壤"
+        },
+        {
+          "en": "sunflower",
+          "cn": "向日葵"
+        },
+        {
+          "en": "seed",
+          "cn": "种子"
+        },
+        {
+          "en": "put",
+          "cn": "放"
+        },
+        {
+          "en": "plant",
+          "cn": "植物"
+        },
+        {
+          "en": "root",
+          "cn": "根"
+        },
+        {
+          "en": "tall",
+          "cn": "高的"
+        },
+        {
+          "en": "round",
+          "cn": "圆形的"
+        },
+        {
+          "en": "oil",
+          "cn": "食用油"
+        },
+        {
+          "en": "amazing",
+          "cn": "令人惊叹的"
+        }
+      ],
+      "read": [
+        {
+          "en": "I have some small black sunflower seeds.",
+          "cn": "我有一些小小的黑色向日葵种子。",
+          "st": "课文 · My sunflower",
+          "sp": "p.54"
+        },
+        {
+          "en": "I put a seed in the soil.",
+          "cn": "我把一粒种子放进土壤里。",
+          "st": "课文 · My sunflower",
+          "sp": "p.54"
+        },
+        {
+          "en": "Mum waters it.",
+          "cn": "妈妈给它浇水。",
+          "st": "课文 · My sunflower",
+          "sp": "p.54"
+        },
+        {
+          "en": "Now the plant has some green leaves.",
+          "cn": "现在这株植物有一些绿色的叶子了。",
+          "st": "课文 · My sunflower",
+          "sp": "p.54"
+        },
+        {
+          "en": "But I can’t see the roots.",
+          "cn": "但是我看不见它的根。",
+          "st": "课文 · My sunflower",
+          "sp": "p.54"
+        },
+        {
+          "en": "They grow down.",
+          "cn": "根朝下生长。",
+          "st": "课文 · My sunflower",
+          "sp": "p.54"
+        },
+        {
+          "en": "Now my sunflower is tall with a big yellow flower.",
+          "cn": "现在我的向日葵长得很高，开着一朵大大的黄花。",
+          "st": "课文 · My sunflower",
+          "sp": "p.55"
+        },
+        {
+          "en": "The flower is round.",
+          "cn": "这朵花是圆形的。",
+          "st": "课文 · My sunflower",
+          "sp": "p.55"
+        },
+        {
+          "en": "My family love it.",
+          "cn": "我们全家都喜欢它。",
+          "st": "课文 · My sunflower",
+          "sp": "p.55"
+        },
+        {
+          "en": "My sunflower has a lot of seeds.",
+          "cn": "我的向日葵结了很多种子。",
+          "st": "课文 · My sunflower",
+          "sp": "p.55"
+        },
+        {
+          "en": "People can make oil from the seeds.",
+          "cn": "人们可以用这些种子榨油。",
+          "st": "课文 · My sunflower",
+          "sp": "p.55"
+        },
+        {
+          "en": "Sunflowers are amazing!",
+          "cn": "向日葵真令人惊叹！",
+          "st": "课文 · My sunflower",
+          "sp": "p.55"
+        },
+        {
+          "en": "Carrots are good to eat.",
+          "cn": "胡萝卜很好吃。",
+          "st": "拓展阅读 · Useful plants",
+          "sp": "p.60",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "We can make carrot juice and carrot cake.",
+          "cn": "我们可以做胡萝卜汁和胡萝卜蛋糕。",
+          "st": "拓展阅读 · Useful plants",
+          "sp": "p.60",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Carrots are good for our eyes.",
+          "cn": "胡萝卜对我们的眼睛有好处。",
+          "st": "拓展阅读 · Useful plants",
+          "sp": "p.60",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Many people like tomatoes.",
+          "cn": "很多人喜欢番茄。",
+          "st": "拓展阅读 · Useful plants",
+          "sp": "p.60",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Some people grow them at home.",
+          "cn": "有些人在家里种番茄。",
+          "st": "拓展阅读 · Useful plants",
+          "sp": "p.60",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "We can use tomatoes to make soup and salad.",
+          "cn": "我们可以用番茄做汤和沙拉。",
+          "st": "拓展阅读 · Useful plants",
+          "sp": "p.60",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Mint has a special taste.",
+          "cn": "薄荷有一种特别的味道。",
+          "st": "拓展阅读 · Useful plants",
+          "sp": "p.60",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "We can drink mint tea or eat mint candy.",
+          "cn": "我们可以喝薄荷茶或吃薄荷糖。",
+          "st": "拓展阅读 · Useful plants",
+          "sp": "p.60",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "We also have mint ice cream.",
+          "cn": "我们还有薄荷冰淇淋。",
+          "st": "拓展阅读 · Useful plants",
+          "sp": "p.60",
+          "sec": "拓展阅读"
+        }
+      ]
+    },
+    {
+      "name": "Unit 7",
+      "title": "道路安全",
+      "icon": "🚦",
+      "color": "#f44336",
+      "en": "How do we keep safe on the road?",
+      "vocab": [
+        {
+          "en": "green light",
+          "cn": "绿灯"
+        },
+        {
+          "en": "red light",
+          "cn": "红灯"
+        },
+        {
+          "en": "wait",
+          "cn": "等待"
+        },
+        {
+          "en": "cross",
+          "cn": "穿越"
+        },
+        {
+          "en": "Mr",
+          "cn": "先生"
+        },
+        {
+          "en": "way",
+          "cn": "路线；道路"
+        },
+        {
+          "en": "road",
+          "cn": "路；马路"
+        },
+        {
+          "en": "should",
+          "cn": "应该"
+        },
+        {
+          "en": "first",
+          "cn": "首先"
+        },
+        {
+          "en": "left",
+          "cn": "左边"
+        },
+        {
+          "en": "car",
+          "cn": "小汽车"
+        },
+        {
+          "en": "right",
+          "cn": "右边"
+        },
+        {
+          "en": "skate",
+          "cn": "滑（滑板）"
+        },
+        {
+          "en": "sorry",
+          "cn": "对不起"
+        },
+        {
+          "en": "kid",
+          "cn": "小孩；孩子"
+        },
+        {
+          "en": "late",
+          "cn": "迟到"
+        }
+      ],
+      "read": [
+        {
+          "en": "Dad: The light is green. Let's cross the road. What should we do first?",
+          "cn": "爸爸：绿灯了。我们过马路吧。我们应该先做什么？",
+          "st": "课文 · Our way to school",
+          "sp": "p.64"
+        },
+        {
+          "en": "Yaoyao: Look left! No cars.",
+          "cn": "瑶瑶：看左边！没有车。",
+          "st": "课文 · Our way to school",
+          "sp": "p.64"
+        },
+        {
+          "en": "Qiqi: Look right! No cars.",
+          "cn": "琪琪：看右边！没有车。",
+          "st": "课文 · Our way to school",
+          "sp": "p.64"
+        },
+        {
+          "en": "Yaoyao: It's safe to cross.",
+          "cn": "瑶瑶：过马路很安全。",
+          "st": "课文 · Our way to school",
+          "sp": "p.64"
+        },
+        {
+          "en": "Dad: Good job!",
+          "cn": "爸爸：做得好！",
+          "st": "课文 · Our way to school",
+          "sp": "p.64"
+        },
+        {
+          "en": "Qiqi: I like walking to school.",
+          "cn": "琪琪：我喜欢走路去学校。",
+          "st": "课文 · Our way to school",
+          "sp": "p.64"
+        },
+        {
+          "en": "Yaoyao: I don't like walking. Can I ride a bike to school?",
+          "cn": "瑶瑶：我不喜欢走路。我能骑自行车上学吗？",
+          "st": "课文 · Our way to school",
+          "sp": "p.64"
+        },
+        {
+          "en": "Dad: No. Children under 12 years old can't ride on the road.",
+          "cn": "爸爸：不行。12岁以下的儿童不能在道路上骑车。",
+          "st": "课文 · Our way to school",
+          "sp": "p.64"
+        },
+        {
+          "en": "Yaoyao: All right.",
+          "cn": "瑶瑶：好吧。",
+          "st": "课文 · Our way to school",
+          "sp": "p.64"
+        },
+        {
+          "en": "Yaoyao: Look! The light is green.",
+          "cn": "瑶瑶：看！绿灯了。",
+          "st": "课文 · Our way to school",
+          "sp": "p.65"
+        },
+        {
+          "en": "Qiqi: Hurry up!",
+          "cn": "琪琪：快点！",
+          "st": "课文 · Our way to school",
+          "sp": "p.65"
+        },
+        {
+          "en": "Dad: Don't run on the road, Qiqi.",
+          "cn": "爸爸：不要在马路上跑，琪琪。",
+          "st": "课文 · Our way to school",
+          "sp": "p.65"
+        },
+        {
+          "en": "Dad: Oh no! We're late!",
+          "cn": "爸爸：哦，不！我们要迟到了！",
+          "st": "课文 · Our way to school",
+          "sp": "p.65"
+        },
+        {
+          "en": "Yaoyao & Qiqi: Dad, walk! Don't run!",
+          "cn": "瑶瑶和琪琪：爸爸，走路！别跑！",
+          "st": "课文 · Our way to school",
+          "sp": "p.65"
+        },
+        {
+          "en": "Yaoyao: Dad, can I skate to school?",
+          "cn": "瑶瑶：爸爸，我能滑滑板去学校吗？",
+          "st": "课文 · Our way to school",
+          "sp": "p.65"
+        },
+        {
+          "en": "Qiqi: And can I skate?",
+          "cn": "琪琪：那我能滑滑板吗？",
+          "st": "课文 · Our way to school",
+          "sp": "p.65"
+        },
+        {
+          "en": "Dad: No, sorry, kids. We can't skate on the road. It's not safe.",
+          "cn": "爸爸：不行，抱歉，孩子们。我们不能在马路上滑滑板。那不安全。",
+          "st": "课文 · Our way to school",
+          "sp": "p.65"
+        },
+        {
+          "en": "Traffic signs keep us safe on the road.",
+          "cn": "交通标志保障我们在马路上的安全。",
+          "st": "拓展阅读 · Traffic signs around us",
+          "sp": "p.70",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "What do these signs mean?",
+          "cn": "这些标志是什么意思？",
+          "st": "拓展阅读 · Traffic signs around us",
+          "sp": "p.70",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Don't turn left.",
+          "cn": "不要左转。",
+          "st": "拓展阅读 · Traffic signs around us",
+          "sp": "p.70",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "Some people are working on the road. Go a different way.",
+          "cn": "有些人在马路上施工。请走另一条路。",
+          "st": "拓展阅读 · Traffic signs around us",
+          "sp": "p.70",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "There's a school here. Slow down and be careful.",
+          "cn": "这里有学校。减速慢行，注意安全。",
+          "st": "拓展阅读 · Traffic signs around us",
+          "sp": "p.70",
+          "sec": "拓展阅读"
+        },
+        {
+          "en": "You can cross the road here.",
+          "cn": "你可以在这里过马路。",
+          "st": "拓展阅读 · Traffic signs around us",
+          "sp": "p.70",
+          "sec": "拓展阅读"
+        }
+      ]
+    },
+    {
+      "name": "Unit 8",
+      "title": "祖父母日常",
+      "icon": "👵",
+      "color": "#673ab7",
+      "en": "What do our grandparents do?",
+      "vocab": [
+        {
+          "en": "go shopping",
+          "cn": "购物"
+        },
+        {
+          "en": "go for a walk",
+          "cn": "去散步"
+        },
+        {
+          "en": "use the internet",
+          "cn": "使用互联网"
+        },
+        {
+          "en": "do exercise",
+          "cn": "锻炼"
+        },
+        {
+          "en": "do housework",
+          "cn": "做家务"
+        },
+        {
+          "en": "do gardening",
+          "cn": "做园艺"
+        },
+        {
+          "en": "grandparent",
+          "cn": "祖父（母）；外祖父（母）"
+        },
+        {
+          "en": "week",
+          "cn": "星期；周"
+        },
+        {
+          "en": "work",
+          "cn": "工作"
+        },
+        {
+          "en": "always",
+          "cn": "总是"
+        },
+        {
+          "en": "vlog",
+          "cn": "视频博客"
+        },
+        {
+          "en": "watch",
+          "cn": "看；观看"
+        },
+        {
+          "en": "do tai chi",
+          "cn": "打太极拳"
+        },
+        {
+          "en": "tidy up",
+          "cn": "收拾；整理"
+        }
+      ],
+      "read": [
+        {
+          "unit": 8,
+          "en": "I'm Junjun.",
+          "cn": "我是军军。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "My sister and I are at our grandparents' house for a week.",
+          "cn": "我和妹妹在祖父母家待一个星期。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "Our grandparents don't work now.",
+          "cn": "我们的祖父母现在不工作了。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "Every morning, they go for a walk in the park.",
+          "cn": "每天早上，他们去公园散步。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "They often do tai chi with their friends there.",
+          "cn": "他们常和朋友们在那里打太极拳。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "Grandpa and Grandma do tai chi in the park.",
+          "cn": "爷爷和奶奶在公园打太极拳。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "Grandma and I go shopping.",
+          "cn": "奶奶和我去购物。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "It's Sunday morning.",
+          "cn": "现在是星期天早上。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "Grandma and I are in the supermarket.",
+          "cn": "奶奶和我在超市里。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "She always goes shopping on Sundays.",
+          "cn": "她星期天总是去购物。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "Grandpa likes gardening.",
+          "cn": "爷爷喜欢园艺。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "In the afternoon, Grandpa usually does gardening.",
+          "cn": "下午，爷爷通常做园艺。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "He has lots of plants.",
+          "cn": "他有很多植物。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "They look great.",
+          "cn": "它们看起来很棒。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "Grandma has a food vlog.",
+          "cn": "奶奶有一个美食视频博客。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "In the evening, Grandma shows us her food vlog.",
+          "cn": "晚上，奶奶给我们看她的美食视频博客。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "Lots of people watch it.",
+          "cn": "很多人观看它。",
+          "st": "课文 · Our grandparents",
+          "sp": "p.74–75"
+        },
+        {
+          "unit": 8,
+          "en": "This is a famous poem about the Double Ninth Festival.",
+          "cn": "这是一首关于重阳节的著名诗歌。",
+          "st": "拓展阅读 · The Double Ninth Festival",
+          "sp": "p.80",
+          "sec": "拓展阅读"
+        },
+        {
+          "unit": 8,
+          "en": "On this day, families climb mountains together.",
+          "cn": "在这一天，家人们一起登高。",
+          "st": "拓展阅读 · The Double Ninth Festival",
+          "sp": "p.80",
+          "sec": "拓展阅读"
+        },
+        {
+          "unit": 8,
+          "en": "They drink flower tea and eat Chongyang cakes.",
+          "cn": "他们喝菊花茶、吃重阳糕。",
+          "st": "拓展阅读 · The Double Ninth Festival",
+          "sp": "p.80",
+          "sec": "拓展阅读"
+        },
+        {
+          "unit": 8,
+          "en": "People also visit their parents or grandparents.",
+          "cn": "人们也去看望自己的父母或祖父母。",
+          "st": "拓展阅读 · The Double Ninth Festival",
+          "sp": "p.80",
+          "sec": "拓展阅读"
+        },
+        {
+          "unit": 8,
+          "en": "They bring them gifts and help them at home.",
+          "cn": "他们带礼物给他们，并在家帮助他们。",
+          "st": "拓展阅读 · The Double Ninth Festival",
+          "sp": "p.80",
+          "sec": "拓展阅读"
+        },
+        {
+          "unit": 8,
+          "en": "Then they have a family dinner.",
+          "cn": "然后他们吃一顿家庭晚餐。",
+          "st": "拓展阅读 · The Double Ninth Festival",
+          "sp": "p.80",
+          "sec": "拓展阅读"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "1": [
+      {
+        "type": "单词",
+        "q": "city — 哪个中文意思正确？",
+        "options": [
+          "城市",
+          "乡村",
+          "农场",
+          "街道"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "building — 哪个中文意思正确？",
+        "options": [
+          "街道",
+          "楼房；建筑物",
+          "公园",
+          "公寓"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "flat — 哪个中文意思正确？",
+        "options": [
+          "房屋",
+          "农场",
+          "公寓",
+          "街道"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "street — 哪个中文意思正确？",
+        "options": [
+          "地方",
+          "人；人们",
+          "城市",
+          "大街；街道"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "house — 哪个中文意思正确？",
+        "options": [
+          "房屋；房子",
+          "公寓",
+          "楼房",
+          "农场"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "quiet — 哪个中文意思正确？",
+        "options": [
+          "吵闹的",
+          "安静的",
+          "许多",
+          "大的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "place — 哪个中文意思正确？",
+        "options": [
+          "国家",
+          "人；人们",
+          "地方",
+          "住宅区"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“许多”可以说 many，还可以用哪个短语？",
+        "options": [
+          "on time",
+          "at school",
+          "how many",
+          "a lot of"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“乡村；农村”是哪个单词？",
+        "options": [
+          "country",
+          "city",
+          "farm",
+          "street"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“住；居住”是哪个单词？",
+        "options": [
+          "love",
+          "live",
+          "lake",
+          "name"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“人；人们”是哪个单词？",
+        "options": [
+          "place",
+          "photo",
+          "people",
+          "park"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“农场”是哪个单词？",
+        "options": [
+          "house",
+          "city",
+          "flat",
+          "farm"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“各种各样的”是哪个短语？",
+        "options": [
+          "all kinds of",
+          "a lot of",
+          "a few kinds",
+          "kind of"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "many — 哪个中文意思正确？",
+        "options": [
+          "地方",
+          "安静的",
+          "许多",
+          "各样的"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "— （ ） does Kate live? — She lives on a farm.",
+        "options": [
+          "What",
+          "Where",
+          "Who",
+          "How"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "— Where （ ） people live? — They live in all kinds of homes.",
+        "options": [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "My aunt （ ） in a flat in Shanghai.",
+        "options": [
+          "live",
+          "living",
+          "to live",
+          "lives"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Ningning lives （ ） a big city.",
+        "options": [
+          "on",
+          "at",
+          "in",
+          "to"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Kate lives （ ） a farm in the country.",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "of"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "There （ ） a lot of big buildings in the city.",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "Some homes are big, and some （ ） small.",
+        "options": [
+          "is",
+          "am",
+          "be",
+          "are"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Which sentence is correct?",
+        "options": [
+          "Many people lives in flat.",
+          "Many people live in flats.",
+          "Many peoples live in flats.",
+          "Many people live in flat."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "Some homes are in cities, and some are in the _____.",
+        "options": [
+          "city",
+          "street",
+          "country",
+          "flat"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "In cities, many people live in _____.",
+        "options": [
+          "flats",
+          "farms",
+          "streets",
+          "buildings"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "city",
+        "cn": "城市"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "building",
+        "cn": "建筑物；楼房"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "house",
+        "cn": "房屋；房子"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "quiet",
+        "cn": "安静的"
+      },
+      {
+        "type": "语音",
+        "q": "Find the word in which the letter a says a different sound.",
+        "options": [
+          "cat",
+          "apple",
+          "cake",
+          "bag"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "语音",
+        "q": "Which word has the letter a saying the same sound as in name?",
+        "options": [
+          "hand",
+          "hat",
+          "map",
+          "gate"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "A student reporter asks you, \"Where do you live?\" Which is the best answer?",
+        "options": [
+          "I live in a flat in Shenzhen.",
+          "Yes, I do.",
+          "I'm twelve years old.",
+          "It's nice."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "Your friend says, \"I live on a farm in the country.\" You want to know more. What do you ask?",
+        "options": [
+          "How much is it?",
+          "Is it quiet there?",
+          "What's this?",
+          "Who's that?"
+        ],
+        "answer": 1
+      }
+    ],
+    "2": [
+      {
+        "type": "单词",
+        "q": "“老鹰”用英语怎么说？",
+        "options": [
+          "owl",
+          "honeybee",
+          "eagle",
+          "snake"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "owl 的意思是？",
+        "options": [
+          "猫头鹰",
+          "蛇",
+          "老鹰",
+          "蜜蜂"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "honeybee 的意思是？",
+        "options": [
+          "巢穴",
+          "鸟",
+          "蜂巢",
+          "蜜蜂"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“巢穴”用英语怎么说？",
+        "options": [
+          "hive",
+          "nest",
+          "tree hole",
+          "home"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "their 的意思是？",
+        "options": [
+          "我们的",
+          "你的",
+          "他们的；她们的；它们的",
+          "它的"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“树洞”用英语怎么说？",
+        "options": [
+          "tree hole",
+          "tree leaf",
+          "big nest",
+          "green grass"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“安全的”用英语怎么说？",
+        "options": [
+          "slow",
+          "sky",
+          "snake",
+          "safe"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "there 的意思是？",
+        "options": [
+          "这里",
+          "那里；在那里",
+          "哪里",
+          "现在"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“蛇”用英语怎么说？",
+        "options": [
+          "snake",
+          "eagle",
+          "frog",
+          "lion"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“蜂巢”用英语怎么说？",
+        "options": [
+          "nest",
+          "hole",
+          "hive",
+          "house"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "under 的意思是？",
+        "options": [
+          "在……上面",
+          "在……之间",
+          "在……旁边",
+          "在……下面"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "at night 的意思是？",
+        "options": [
+          "白天",
+          "晚上",
+          "清晨",
+          "中午"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“酿蜜”用英语怎么说？",
+        "options": [
+          "make honey",
+          "come out",
+          "eat rabbits",
+          "live in"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "snake",
+        "cn": "蛇"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "hive",
+        "cn": "蜂巢"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "under",
+        "cn": "在……下面"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "nest",
+        "cn": "巢穴"
+      },
+      {
+        "type": "句型",
+        "q": "—______ the eagle? —It's in the tree.",
+        "options": [
+          "Where's",
+          "Where are",
+          "What's",
+          "How's"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "Where are the baby eagles?",
+        "options": [
+          "It's in the nest.",
+          "There is a nest.",
+          "They're in the nest.",
+          "They like their nest."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Where's the frog?",
+        "options": [
+          "It's in the water.",
+          "They're in the water.",
+          "It's under the water.",
+          "They're under the tree."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "Where do owls live?",
+        "options": [
+          "They live in the sky.",
+          "They live in tree holes.",
+          "It lives in a hive.",
+          "They live in the water."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "What do some eagles eat?",
+        "options": [
+          "Mice and snakes.",
+          "Rabbits, frogs and birds.",
+          "Honey.",
+          "Only grass."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "When do owls come out?",
+        "options": [
+          "In the morning.",
+          "At noon.",
+          "In the afternoon.",
+          "At night."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Are the honeybees in the hive?",
+        "options": [
+          "No, it isn't.",
+          "Yes, it is.",
+          "No, they aren't.",
+          "Yes, they are."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Honeybees live in a hive. There, they ____ honey.",
+        "options": [
+          "makes",
+          "make",
+          "making",
+          "made"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "How many eyes do honeybees have?",
+        "options": [
+          "Two.",
+          "Four.",
+          "Five.",
+          "Ten."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Which sentence means “它们的巢穴在树上。”？",
+        "options": [
+          "There are in the trees.",
+          "Their are in the trees.",
+          "They are in the trees.",
+          "They is in the trees."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "语音",
+        "q": "Which word has the same letter 'i' sound as in 'big'?",
+        "options": [
+          "kite",
+          "pig",
+          "hive",
+          "ice"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "Which word does NOT have the short 'i' sound /ɪ/ as in 'sit'?",
+        "options": [
+          "sit",
+          "six",
+          "hive",
+          "hit"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "老师问 “Where do the birds live?”，你应该回答：",
+        "options": [
+          "It's red.",
+          "I like birds very much.",
+          "They can fly.",
+          "They live in the nest."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "你想告诉同伴自己喜欢猫头鹰，而且它们住在树洞里，你说：",
+        "options": [
+          "I like owls. They live in tree holes.",
+          "Where are the owls?",
+          "Do you like owls?",
+          "Owls come out at night."
+        ],
+        "answer": 0
+      }
+    ],
+    "3": [
+      {
+        "type": "单词",
+        "q": "plus — 哪个中文意思正确？",
+        "options": [
+          "加；加号",
+          "等于",
+          "减；减号",
+          "答案；回答"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "minus — 哪个中文意思正确？",
+        "options": [
+          "加；加号",
+          "答案；回答",
+          "等于",
+          "减；减号"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "equal — 哪个中文意思正确？",
+        "options": [
+          "答案；回答",
+          "使用",
+          "说",
+          "等于"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "answer — 哪个中文意思正确？",
+        "options": [
+          "答案；回答",
+          "东西；事物",
+          "每天",
+          "（按顺序）数数"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“奇数”是哪个短语？",
+        "options": [
+          "odd numbers",
+          "even numbers",
+          "plus",
+          "minus"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“偶数”是哪个短语？",
+        "options": [
+          "odd numbers",
+          "how many",
+          "even numbers",
+          "every day"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“（按顺序）数数”是哪个单词？",
+        "options": [
+          "say",
+          "use",
+          "thing",
+          "count"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“使用”是哪个单词？",
+        "options": [
+          "help",
+          "say",
+          "use",
+          "count"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“帮助”是哪个单词？",
+        "options": [
+          "use",
+          "say",
+          "thing",
+          "help"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“东西；事物”是哪个单词？",
+        "options": [
+          "think",
+          "thing",
+          "them",
+          "three"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“说”是哪个单词？",
+        "options": [
+          "see",
+          "say",
+          "so",
+          "sad"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“每天”是哪个短语？",
+        "options": [
+          "all the time",
+          "at school",
+          "every day",
+          "every night"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "（用于问数量）“多少”是哪个短语？",
+        "options": [
+          "how much",
+          "how many",
+          "how old",
+          "how long"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "— ________ pencils do we have? — We have eleven pencils.",
+        "options": [
+          "How much",
+          "How many",
+          "How old",
+          "What"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "How many apples ________ we have?",
+        "options": [
+          "does",
+          "is",
+          "do",
+          "are"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "We ________ eleven pencils.",
+        "options": [
+          "has",
+          "say",
+          "has got",
+          "have"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "I ________ ten apples. I have four.",
+        "options": [
+          "doesn't have",
+          "don't have",
+          "not",
+          "no"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "They ________ ten apples. They have two.",
+        "options": [
+          "don't have",
+          "doesn't have",
+          "not have",
+          "has no"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "Twelve plus seven ________ nineteen.",
+        "options": [
+          "equal",
+          "are",
+          "equals",
+          "is"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "There are ________ numbers and ________ numbers.",
+        "options": [
+          "plus, minus",
+          "odd, even",
+          "big, small",
+          "blue, red"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "Five ________ one equals four.",
+        "options": [
+          "plus",
+          "equal",
+          "count",
+          "minus"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Numbers help us ________ things.",
+        "options": [
+          "count",
+          "to count",
+          "counting",
+          "counts"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "plus",
+        "cn": "加；加号"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "minus",
+        "cn": "减；减号"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "count",
+        "cn": "（按顺序）数数"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "answer",
+        "cn": "答案；回答"
+      },
+      {
+        "type": "语音",
+        "q": "Find the word in which the letter e says a different sound.",
+        "options": [
+          "he",
+          "she",
+          "me",
+          "bed"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "语音",
+        "q": "Which word has the letter e saying the same sound as in \"red\"?",
+        "options": [
+          "these",
+          "he",
+          "pen",
+          "she"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "You and your friend are making a fruit salad. You want ten apples but only have four. Your friend asks, \"How many apples do we have?\" You say, \"________\"",
+        "options": [
+          "How much is the salad?",
+          "I don't have ten. I have four.",
+          "I like apples very much.",
+          "Yes, we do."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "交际",
+        "q": "At the class party, Lanlan asks, \"How many apples do we have?\" You know you have four and Junjun has six. You answer, \"________\"",
+        "options": [
+          "Yes, I do.",
+          "It's ten yuan.",
+          "We have ten apples.",
+          "How old are you?"
+        ],
+        "answer": 2
+      }
+    ],
+    "4": [
+      {
+        "type": "单词",
+        "q": "“超市”的英文是哪个？",
+        "options": [
+          "factory",
+          "library",
+          "supermarket",
+          "classroom"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“一盒鸡蛋”用英语怎么说？",
+        "options": [
+          "a bag of eggs",
+          "a box of eggs",
+          "a bottle of eggs",
+          "a bar of eggs"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“一袋米”用英语怎么说？",
+        "options": [
+          "a bottle of rice",
+          "a bar of rice",
+          "a box of rice",
+          "a bag of rice"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“一瓶果汁”用英语怎么说？",
+        "options": [
+          "a bottle of juice",
+          "a box of juice",
+          "a bag of juice",
+          "a bar of juice"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“更快的”的英文是哪个？",
+        "options": [
+          "slow",
+          "tall",
+          "faster",
+          "older"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“每个”的英文是哪个？",
+        "options": [
+          "every",
+          "each",
+          "all",
+          "both"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“队；组”的英文是哪个？",
+        "options": [
+          "class",
+          "family",
+          "team",
+          "lesson"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“购物单”的英文是哪个？",
+        "options": [
+          "shopping list",
+          "packing box",
+          "reading room",
+          "class plan"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“糖果；巧克力”的英文是哪个？",
+        "options": [
+          "bread",
+          "water",
+          "rice",
+          "candy"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“分享”的英文是哪个？",
+        "options": [
+          "sell",
+          "share",
+          "win",
+          "need"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“出售”的英文是哪个？",
+        "options": [
+          "buy",
+          "need",
+          "lend",
+          "sell"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“还；仍然”的英文是哪个？",
+        "options": [
+          "still",
+          "always",
+          "never",
+          "often"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“水；给……浇水”的英文是哪个？",
+        "options": [
+          "juice",
+          "milk",
+          "water",
+          "soup"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“获胜”的英文是哪个？",
+        "options": [
+          "run",
+          "win",
+          "lose",
+          "fly"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "—What would you like? —___",
+        "options": [
+          "I'd like a bar of chocolate.",
+          "I like swimming.",
+          "It's ten yuan.",
+          "They're 15 yuan."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "—How much are the eggs? —___ 15 yuan.",
+        "options": [
+          "It's",
+          "They're",
+          "This is",
+          "That is"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "“这些胡萝卜多少钱？”应该问：",
+        "options": [
+          "How many are the carrots?",
+          "How much is the carrots?",
+          "What are the carrots?",
+          "How much are the carrots?"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "“这家商店卖风筝。”应该说：",
+        "options": [
+          "The shop buy kites.",
+          "The shop sells kites.",
+          "The shop is kites.",
+          "The shop selling kites."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "“我想要两瓶牛奶。”应该说：",
+        "options": [
+          "I'd like two bag of milk.",
+          "I'd like two box of milk.",
+          "I'd like two bottles of milk.",
+          "I'd like two bars of milk."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "“我们还需要一些面包。”应该说：",
+        "options": [
+          "We still need some bread.",
+          "We need still some breads.",
+          "We also needs some bread.",
+          "We want no bread."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "I am thirsty. I buy a ____ of water and drink it all.",
+        "options": [
+          "box",
+          "bag",
+          "bar",
+          "bottle"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "There are ten eggs in each ____, so I buy two ____ of eggs.",
+        "options": [
+          "bag; bags",
+          "bottle; bottles",
+          "box; boxes",
+          "bar; bars"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "“一块巧克力多少钱？”应该问：",
+        "options": [
+          "How much is a bar of chocolate?",
+          "How many is a bar of chocolate?",
+          "What is a bar of chocolate?",
+          "Where is a bar of chocolate?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "bread",
+        "cn": "面包"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "shopping list",
+        "cn": "购物单"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "need",
+        "cn": "需要"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "sell",
+        "cn": "出售"
+      },
+      {
+        "type": "语音",
+        "q": "Sound: o — 哪一项中字母 o 的读音与其他三个不同？",
+        "options": [
+          "shop",
+          "hot",
+          "on",
+          "so"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "语音",
+        "q": "Sound: o — 找出划线部分 o 读音不同的单词。",
+        "options": [
+          "box",
+          "no",
+          "dog",
+          "hot"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "交际",
+        "q": "同学邀请你一起去买东西，你欣然同意，说：",
+        "options": [
+          "You're welcome.",
+          "No, thank you.",
+          "All right.",
+          "Excuse me."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "At the shops: — How much is this bag of rice? — ___",
+        "options": [
+          "They're thirty yuan.",
+          "It's thirty yuan.",
+          "Thirty time.",
+          "Yes, please."
+        ],
+        "answer": 1
+      }
+    ],
+    "5": [
+      {
+        "type": "单词",
+        "q": "「春天」对应的英文单词是？",
+        "options": [
+          "summer",
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "单词 warm 的意思是？",
+        "options": [
+          "寒冷的",
+          "炎热的",
+          "温暖的",
+          "凉爽的"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "下列哪个单词表示「秋天」？",
+        "options": [
+          "spring",
+          "summer",
+          "winter",
+          "autumn"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "单词 cold 的意思是？",
+        "options": [
+          "寒冷的",
+          "温暖的",
+          "凉爽的",
+          "炎热的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "表示「季节」的英文单词是？",
+        "options": [
+          "year",
+          "parent",
+          "season",
+          "grow"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "单词 parent 的意思是？",
+        "options": [
+          "（使）变成",
+          "父亲（或母亲）",
+          "年",
+          "开始"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "下列哪个单词的意思是「（使）生长」？",
+        "options": [
+          "grow",
+          "turn",
+          "fall",
+          "begin"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "单词 usually 的意思是？",
+        "options": [
+          "经常",
+          "然后",
+          "在……之后",
+          "通常"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「在……之后」用哪个英文单词表示？",
+        "options": [
+          "then",
+          "after",
+          "often",
+          "get"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "树叶从树上落下，「落下」对应的单词是？",
+        "options": [
+          "turn",
+          "snow",
+          "fall",
+          "grow"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "「Leaves turn red, yellow and orange.」这句中 turn 的意思是？",
+        "options": [
+          "（使）变成",
+          "开始",
+          "落下",
+          "变得"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "下列哪个单词表示「开始」？",
+        "options": [
+          "often",
+          "cold",
+          "snow",
+          "begin"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「炎热的」是哪个单词？",
+        "options": [
+          "cool",
+          "hot",
+          "warm",
+          "cold"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「凉爽的」用英语说是？",
+        "options": [
+          "cool",
+          "hot",
+          "cold",
+          "snow"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "你想说「天气变得炎热」，应该是：",
+        "options": [
+          "It gets hot.",
+          "It get hot.",
+          "It gets cold.",
+          "He is hot days."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "「春天天气变暖。」用英语怎么说？",
+        "options": [
+          "It get warm in spring.",
+          "It gets warm in spring.",
+          "Warm is it in spring.",
+          "It gets cold in spring."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "「冬天经常下雪。」下列哪句正确？",
+        "options": [
+          "It often snow in winter.",
+          "It often snowing in winter.",
+          "It often snows in winter.",
+          "It does often snows in winter."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "「夏天不下雪。」正确的说法是：",
+        "options": [
+          "It doesn't snow in summer.",
+          "It don't snow in summer.",
+          "It doesn't snows in summer.",
+          "It not snow in summer."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "「夏天天气不冷。」可以说：",
+        "options": [
+          "It doesn't getting cold in summer.",
+          "It not gets cold in summer.",
+          "It don't get cold in summer.",
+          "It doesn't get cold in summer."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "「夏天在春天之后到来。」正确的是：",
+        "options": [
+          "Summer comes after spring.",
+          "Summer comes before spring.",
+          "Spring comes after summer.",
+          "Summer come after spring."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "「秋天树叶变红、变黄、变橙色。」正确的是：",
+        "options": [
+          "Leaves turns red, yellow and orange in autumn.",
+          "Leaf turn red, yellow and orange in autumn.",
+          "Leaves turn red, yellow and orange in autumn.",
+          "Leaves fall red, yellow and orange in autumn."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "根据Unit 5内容填空：In spring, the rain helps plants ____.",
+        "options": [
+          "turn",
+          "snow",
+          "fall",
+          "grow"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "根据Unit 5内容填空：There are four seasons in a ____.",
+        "options": [
+          "year",
+          "day",
+          "week",
+          "month"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "「许多树都没有叶子了。」用英语怎么说？",
+        "options": [
+          "Many trees don't have leaves.",
+          "Much trees doesn't have leaves.",
+          "Many leafs don't have trees.",
+          "Trees not have many leaves."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "autumn",
+        "cn": "秋天"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "season",
+        "cn": "季节"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "usually",
+        "cn": "通常"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "snow",
+        "cn": "下雪；雪"
+      },
+      {
+        "type": "语音",
+        "q": "Sound: u — 下列单词中字母 u 的读音与 summer 中 u 相同的是？",
+        "options": [
+          "cool",
+          "autumn",
+          "use",
+          "cute"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "Sound: u — 哪一组单词中字母 u 的读音相同？",
+        "options": [
+          "bus, cup",
+          "fun, use",
+          "cut, cute",
+          "student, sun"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "同学问 What's your favourite season? 你最喜欢春天，可以回答：",
+        "options": [
+          "Yes, I do.",
+          "It's nine.",
+          "My favourite season is spring.",
+          "You're welcome."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "同学问 What do you do in spring? 你应该回答：",
+        "options": [
+          "It's spring. It gets warm.",
+          "I often go to the park. It's fun.",
+          "No, it doesn't.",
+          "Thank you."
+        ],
+        "answer": 1
+      }
+    ],
+    "6": [
+      {
+        "type": "单词",
+        "q": "flower — 哪个中文意思正确？",
+        "options": [
+          "花",
+          "果实；水果",
+          "叶子",
+          "土壤"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "fruit — 哪个中文意思正确？",
+        "options": [
+          "花",
+          "叶子",
+          "果实；水果",
+          "根"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "leaf — 哪个中文意思正确？",
+        "options": [
+          "果实；水果",
+          "叶子",
+          "种子",
+          "高的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "soil — 哪个中文意思正确？",
+        "options": [
+          "根",
+          "花",
+          "种子",
+          "土壤"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“向日葵”是哪个单词？",
+        "options": [
+          "sunflower",
+          "soil",
+          "seed",
+          "flower"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“种子”是哪个单词？",
+        "options": [
+          "soil",
+          "oil",
+          "plant",
+          "seed"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“放”是哪个单词？",
+        "options": [
+          "plant",
+          "put",
+          "pet",
+          "pull"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“植物”是哪个单词？",
+        "options": [
+          "part",
+          "pencil",
+          "plant",
+          "put"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“根”是哪个单词？",
+        "options": [
+          "root",
+          "fruit",
+          "leaf",
+          "round"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“高的”是哪个单词？",
+        "options": [
+          "tall",
+          "round",
+          "short",
+          "long"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“圆形的”是哪个单词？",
+        "options": [
+          "tall",
+          "round",
+          "small",
+          "long"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“食用油”是哪个单词？",
+        "options": [
+          "ear",
+          "oil",
+          "air",
+          "soil"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“令人惊叹的”是哪个单词？",
+        "options": [
+          "amazing",
+          "orange",
+          "round",
+          "tall"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "Now the plant ________ some green leaves.",
+        "options": [
+          "have",
+          "has",
+          "is",
+          "likes"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "Here is a little brown seed. It ________ roots or leaves.",
+        "options": [
+          "doesn't have",
+          "don't have",
+          "not have",
+          "have no"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "My sunflower ____ tall. It ____ a big round flower.",
+        "options": [
+          "has; is",
+          "are; have",
+          "is; has",
+          "is; have"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "The flowers are very small. They ________ little seeds.",
+        "options": [
+          "makes",
+          "make",
+          "making",
+          "is"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "The yellow flower has a lot of ________.",
+        "options": [
+          "leaves",
+          "seeds",
+          "roots",
+          "soil"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "People can make ________ from sunflower seeds.",
+        "options": [
+          "leaf",
+          "soil",
+          "fruit",
+          "oil"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "I ________ the seed in the soil.",
+        "options": [
+          "puts",
+          "putting",
+          "to put",
+          "put"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Look! My sunflower is very ________.",
+        "options": [
+          "tall",
+          "round",
+          "oil",
+          "soil"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "flower",
+        "cn": "花"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "seed",
+        "cn": "种子"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "soil",
+        "cn": "土壤"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "sunflower",
+        "cn": "向日葵"
+      },
+      {
+        "type": "语音",
+        "q": "Find the word in which the letter a says a different sound.",
+        "options": [
+          "cat",
+          "hat",
+          "cake",
+          "bag"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "语音",
+        "q": "Which word has the letter e saying a different sound from the others?",
+        "options": [
+          "bed",
+          "he",
+          "red",
+          "ten"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "交际",
+        "q": "同学问 What do the carrots look like? 你这样回答",
+        "options": [
+          "Yes, they do.",
+          "It's ten yuan.",
+          "They have green leaves and orange roots.",
+          "I like carrots very much."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "老师问 What is in the school garden? 你想说花园里有胡萝卜和番茄",
+        "options": [
+          "The garden is big.",
+          "They're carrots.",
+          "How many tomatoes?",
+          "There are carrots and tomatoes in the school garden."
+        ],
+        "answer": 3
+      }
+    ],
+    "7": [
+      {
+        "type": "单词",
+        "q": "green light — 哪个中文意思正确？",
+        "options": [
+          "绿灯",
+          "红灯",
+          "等待",
+          "穿越"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "red light — 哪个中文意思正确？",
+        "options": [
+          "路线；道路",
+          "穿越",
+          "红灯",
+          "迟到"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "wait — 哪个中文意思正确？",
+        "options": [
+          "滑（滑板）",
+          "等待",
+          "应该",
+          "首先"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "cross — 哪个中文意思正确？",
+        "options": [
+          "路；马路",
+          "小孩；孩子",
+          "迟到",
+          "穿越"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "should — 哪个中文意思正确？",
+        "options": [
+          "可以",
+          "必须",
+          "将要",
+          "应该"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "first — 哪个中文意思正确？",
+        "options": [
+          "首先",
+          "最后",
+          "左边",
+          "右边"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“左边”是哪个单词？",
+        "options": [
+          "right",
+          "late",
+          "left",
+          "light"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“右边”是哪个单词？",
+        "options": [
+          "road",
+          "ride",
+          "read",
+          "right"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "skate — 哪个中文意思正确？",
+        "options": [
+          "骑自行车",
+          "走路",
+          "滑（滑板）",
+          "跑步"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "late — 哪个中文意思正确？",
+        "options": [
+          "迟到",
+          "早的",
+          "快的",
+          "慢的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "way — 哪个中文意思正确？",
+        "options": [
+          "马路",
+          "路线；道路",
+          "街道",
+          "交通"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "road — 哪个中文意思正确？",
+        "options": [
+          "河流",
+          "桥",
+          "路；马路",
+          "车站"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "读短文选词：Look at the traffic light. The light is red. We should ____. When the light turns green, let's ____ the road.",
+        "options": [
+          "wait, cross",
+          "cross, wait",
+          "play, run",
+          "skate, go"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "读短文选词：The school bus is coming. ____ up! But don't ____ on the road.",
+        "options": [
+          "Hurry, skate",
+          "Hurry, run",
+          "Run, hurry",
+          "Wait, cross"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "____ for the green light.",
+        "options": [
+          "Waits",
+          "Waiting",
+          "Wait",
+          "To wait"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Don't ____ football on the road.",
+        "options": [
+          "playing",
+          "plays",
+          "to play",
+          "play"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "— ____ I skate to school, Dad? — No, sorry.",
+        "options": [
+          "Can",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "The light is green. ____ cross the road.",
+        "options": [
+          "Let",
+          "Let's",
+          "Lets",
+          "To let"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "We ____ look left and right first.",
+        "options": [
+          "must to",
+          "are",
+          "should",
+          "do"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "It's safe ____ cross the road.",
+        "options": [
+          "for",
+          "at",
+          "in",
+          "to"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Children under 12 years old ____ ride on the road.",
+        "options": [
+          "don't",
+          "can't",
+          "not",
+          "isn't"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "green light",
+        "cn": "绿灯"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "red light",
+        "cn": "红灯"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "sorry",
+        "cn": "对不起"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "kid",
+        "cn": "小孩；孩子"
+      },
+      {
+        "type": "语音",
+        "q": "Find the word in which the letter i says a different sound.",
+        "options": [
+          "bike",
+          "ride",
+          "light",
+          "kids"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "语音",
+        "q": "Find the word in which the letter o says a different sound.",
+        "options": [
+          "cross",
+          "go",
+          "slow",
+          "home"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "Your friend wants to run across the road, but the light is red. You say, \"____\"",
+        "options": [
+          "Hurry up!",
+          "Good job!",
+          "Wait for the green light. Don't run.",
+          "Let's cross the road now."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "You see some kids playing in the middle of the road. What safety tip do you give? \"____\"",
+        "options": [
+          "Cross the road fast.",
+          "Don't play on the road.",
+          "Skate here, please.",
+          "The light is green."
+        ],
+        "answer": 1
+      }
+    ],
+    "8": [
+      {
+        "type": "单词",
+        "q": "go shopping — 哪个中文意思正确？",
+        "options": [
+          "购物",
+          "散步",
+          "锻炼",
+          "园艺"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "do exercise — 哪个中文意思正确？",
+        "options": [
+          "购物",
+          "锻炼",
+          "做家务",
+          "使用互联网"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "use the internet — 哪个中文意思正确？",
+        "options": [
+          "使用电脑",
+          "做家务",
+          "使用互联网",
+          "去购物"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“视频博客”的英文是？",
+        "options": [
+          "TV",
+          "video",
+          "news",
+          "vlog"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“做家务”的英文是？",
+        "options": [
+          "do housework",
+          "do gardening",
+          "do exercise",
+          "do tai chi"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“做园艺”的英文是？",
+        "options": [
+          "go shopping",
+          "tidy up",
+          "do housework",
+          "do gardening"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“打太极拳”的英文是？",
+        "options": [
+          "do exercise",
+          "go for a walk",
+          "watch TV",
+          "do tai chi"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“去散步”的英文是？",
+        "options": [
+          "go shopping",
+          "go to work",
+          "go for a walk",
+          "do exercise"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“祖父（母）；外祖父（母）”的英文是？",
+        "options": [
+          "parents",
+          "cousin",
+          "grandparent",
+          "neighbour"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“工作”的英文是？",
+        "options": [
+          "work",
+          "walk",
+          "word",
+          "week"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“星期；周”的英文是？",
+        "options": [
+          "world",
+          "walk",
+          "work",
+          "week"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "watch — 哪个中文意思正确？",
+        "options": [
+          "看；观看",
+          "听；倾听",
+          "睡；睡觉",
+          "洗；清洗"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“总是”的中文意思是？",
+        "options": [
+          "常常",
+          "总是",
+          "通常",
+          "从不"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "“收拾；整理”的英文短语是？",
+        "options": [
+          "tidy up",
+          "get up",
+          "look up",
+          "stand up"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "— Where ____ your grandparents live? — They live in a quiet town.",
+        "options": [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "— Where does Kate live? — She ____ on a farm.",
+        "options": [
+          "live",
+          "to live",
+          "lives",
+          "living"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Our grandparents ____ work now. They are at home every day.",
+        "options": [
+          "doesn't",
+          "isn't",
+          "not",
+          "don't"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "How ____ people watch Grandma's food vlog?",
+        "options": [
+          "long",
+          "often",
+          "much",
+          "many"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "My grandpa ____ lots of plants in his garden.",
+        "options": [
+          "have",
+          "has",
+          "is",
+          "like"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "In the ____, it gets cold. I often ____ my grandparents.",
+        "options": [
+          "spring; visits",
+          "winter; visits",
+          "cold; visit",
+          "winter; visit"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "____ cross the road when the light is red.",
+        "options": [
+          "Doesn't",
+          "Not",
+          "Don't",
+          "No"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "— What would you like, Grandma? — ____ like some tea.",
+        "options": [
+          "I'd",
+          "He'd",
+          "She'd",
+          "You'd"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "There are ____ plants in Grandpa's garden.",
+        "options": [
+          "many a",
+          "a lot of",
+          "lot of",
+          "a many"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "Which question fits the answer: \"They often do tai chi in the park.\"?",
+        "options": [
+          "Where do your grandparents live?",
+          "How many parks are there?",
+          "What do your grandparents do?",
+          "Why do they go to the park?"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "grandparent",
+        "cn": "祖父（母）；外祖父（母）"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "week",
+        "cn": "星期；周"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "always",
+        "cn": "总是"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "tidy up",
+        "cn": "收拾；整理"
+      },
+      {
+        "type": "语音",
+        "q": "Find the word in which the letter u says a different sound.",
+        "options": [
+          "bus",
+          "cup",
+          "use",
+          "sun"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "语音",
+        "q": "Which word has the letter u saying the same sound as in use?",
+        "options": [
+          "cup",
+          "student",
+          "bus",
+          "fun"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "交际",
+        "q": "Tongtong asks you, \"What do your grandparents like doing?\" The best answer is ________.",
+        "options": [
+          "They live near a big park.",
+          "They like doing tai chi in the park.",
+          "Yes, I do.",
+          "It's Sunday morning."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "交际",
+        "q": "It's the Double Ninth Festival. Grandma makes a big family dinner for you. You say, \"________\"",
+        "options": [
+          "You're welcome.",
+          "Thank you, Grandma! It's delicious.",
+          "I don't like dinner.",
+          "See you tomorrow."
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

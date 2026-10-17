@@ -1,0 +1,5958 @@
+{
+  "id": "5A",
+  "title": "五年级上册",
+  "subtitle": "上海教育出版社 · 沪教版",
+  "icon": "📗",
+  "units": [
+    {
+      "name": "Unit 1",
+      "title": "周末计划",
+      "icon": "🏃",
+      "color": "#ff9800",
+      "en": "What do we do at the weekend?",
+      "vocab": [
+        {
+          "en": "go jogging",
+          "cn": "去慢跑"
+        },
+        {
+          "en": "go fishing",
+          "cn": "去钓鱼"
+        },
+        {
+          "en": "do chores",
+          "cn": "做家务"
+        },
+        {
+          "en": "watch TV",
+          "cn": "看电视"
+        },
+        {
+          "en": "play with friends",
+          "cn": "和朋友一起玩"
+        },
+        {
+          "en": "have a picnic",
+          "cn": "野餐"
+        },
+        {
+          "en": "busy",
+          "cn": "忙碌的"
+        },
+        {
+          "en": "weekend",
+          "cn": "周末"
+        },
+        {
+          "en": "plan",
+          "cn": "计划"
+        },
+        {
+          "en": "early",
+          "cn": "早的"
+        },
+        {
+          "en": "catch",
+          "cn": "抓住"
+        },
+        {
+          "en": "any",
+          "cn": "任何"
+        },
+        {
+          "en": "robot",
+          "cn": "机器人"
+        },
+        {
+          "en": "sock",
+          "cn": "袜子"
+        },
+        {
+          "en": "sweep",
+          "cn": "打扫；清扫"
+        },
+        {
+          "en": "warm up",
+          "cn": "热身"
+        }
+      ],
+      "read": [
+        {
+          "en": "I'm Li Sha.",
+          "cn": "我是李莎。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "Today is Saturday.",
+          "cn": "今天是星期六。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "I have a busy day.",
+          "cn": "我的一天过得很忙碌。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "In the morning, I do chores with my family.",
+          "cn": "早上，我和家人一起做家务。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "I clean my bedroom and walk my dog.",
+          "cn": "我打扫卧室并遛狗。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "In the afternoon, I have a painting class.",
+          "cn": "下午，我上绘画课。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "Then I play basketball with my friends.",
+          "cn": "然后我和朋友们打篮球。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "After dinner, I read a story to my brother.",
+          "cn": "晚饭后，我给弟弟读故事。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "People do fun activities at the weekend.",
+          "cn": "人们在周末做有趣的活动。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "What are these children going to do this weekend?",
+          "cn": "这些孩子这个周末打算做什么？",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "This weekend, I'm going to go jogging with my family in the park.",
+          "cn": "这个周末，我打算和家人去公园慢跑。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "We must get up early on Sunday morning and warm up.",
+          "cn": "我们必须在星期天早上早起热身。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "It's going to be fun!",
+          "cn": "一定会很有趣！",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "This weekend, my dad and I are going to go fishing at Blue Lake.",
+          "cn": "这个周末，我和爸爸打算去蓝湖钓鱼。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "I can't wait to catch more fish than my dad!",
+          "cn": "我迫不及待地想钓得比爸爸多！",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "I'm going to have a picnic with my family this weekend.",
+          "cn": "这个周末我打算和家人去野餐。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "We can fly a kite in the park.",
+          "cn": "我们可以在公园里放风筝。",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "Hurry up, Saturday!",
+          "cn": "快点吧，星期六！",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "Do you have any plans for the weekend?",
+          "cn": "你有什么周末计划吗？",
+          "st": "课文 · Weekend plans",
+          "sp": "p.3–5"
+        },
+        {
+          "en": "Dad: Today is a busy day! We're all going to do chores.",
+          "cn": "爸爸：今天是忙碌的一天！我们都要做家务。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Mum: Xiaoliang, you're going to wash the dishes. Xiaoyue, you're going to dust the shelves. I'm going to clean the windows.",
+          "cn": "妈妈：小亮，你要洗碗。小悦，你要给架子除尘。我要擦窗户。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Dad: And I'm going to water the plants and walk the dog.",
+          "cn": "爸爸：我还要给植物浇水和遛狗。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Xiaoliang: Why are you using a newspaper, Mum?",
+          "cn": "小亮：妈妈，你为什么在用报纸？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Mum: It makes the window shiny and clean!",
+          "cn": "妈妈：它让窗户又亮又干净！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Xiaoliang: That's amazing!",
+          "cn": "小亮：太神奇了！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Xiaoyue: I can't do this. The dust is going everywhere!",
+          "cn": "小悦：我做不了这个。灰尘到处飞！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Dad: Xiaoyue, use this.",
+          "cn": "爸爸：小悦，用这个。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Xiaoyue: Thanks, Dad.",
+          "cn": "小悦：谢谢你，爸爸。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Xiaoyue: Dad, when does a plant need water?",
+          "cn": "小悦：爸爸，植物什么时候需要浇水？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Dad: You must feel the soil. Does it feel dry?",
+          "cn": "爸爸：你要摸摸土壤。它摸起来干吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Xiaoyue: Yes, it does!",
+          "cn": "小悦：是的，很干！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Dad: Then it needs water.",
+          "cn": "爸爸：那它就需要浇水。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Dad: Now where's the lead?",
+          "cn": "爸爸：现在牵引绳到哪儿去了？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Xiaoyue: Look, Dad!",
+          "cn": "小悦：看，爸爸！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Dad: Clever dog! Bye!",
+          "cn": "爸爸：聪明的狗狗！再见！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        },
+        {
+          "en": "Xiaoyue: Bye!",
+          "cn": "小悦：再见！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A busy Sunday",
+          "sp": "p.10–11"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "title": "健康习惯",
+      "icon": "🍎",
+      "color": "#4caf50",
+      "en": "How do we stay healthy?",
+      "vocab": [
+        {
+          "en": "do exercise",
+          "cn": "做运动"
+        },
+        {
+          "en": "eat healthy food",
+          "cn": "吃健康的食物"
+        },
+        {
+          "en": "drink a lot of water",
+          "cn": "多喝水"
+        },
+        {
+          "en": "get enough sleep",
+          "cn": "保证充足的睡眠"
+        },
+        {
+          "en": "strong",
+          "cn": "强壮的"
+        },
+        {
+          "en": "poster",
+          "cn": "海报"
+        },
+        {
+          "en": "about",
+          "cn": "关于"
+        },
+        {
+          "en": "habit",
+          "cn": "习惯"
+        },
+        {
+          "en": "junk food",
+          "cn": "垃圾食品"
+        },
+        {
+          "en": "must",
+          "cn": "必须"
+        },
+        {
+          "en": "less",
+          "cn": "更少的"
+        },
+        {
+          "en": "hard",
+          "cn": "难的"
+        },
+        {
+          "en": "try",
+          "cn": "尝试"
+        },
+        {
+          "en": "lie",
+          "cn": "躺"
+        },
+        {
+          "en": "stay",
+          "cn": "保持；待；暂住"
+        },
+        {
+          "en": "ill",
+          "cn": "生病的"
+        },
+        {
+          "en": "a glass of",
+          "cn": "一杯"
+        }
+      ],
+      "read": [
+        {
+          "en": "Tingting: Look at this poster, Xiaowen. It's about healthy habits.",
+          "cn": "婷婷：看这张海报，小文。它是关于健康习惯的。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Xiaowen: Cool. Let's see. How much water do you drink every day, Tingting?",
+          "cn": "小文：真酷。我们看看。婷婷，你每天喝多少水？",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Tingting: I drink very little water. I need to drink more.",
+          "cn": "婷婷：我喝水很少。我需要多喝点。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Xiaowen: Me too.",
+          "cn": "小文：我也是。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Tingting: Xiaowen, we eat too much junk food! We must eat less.",
+          "cn": "婷婷：小文，我们吃了太多垃圾食品！我们必须少吃。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Xiaowen: That's hard! But we can try.",
+          "cn": "小文：那很难！但我们可以试试。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Tingting: I think I get enough exercise. I do a lot of sport.",
+          "cn": "婷婷：我想我运动量够了。我做很多运动。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Xiaowen: I need to do more exercise.",
+          "cn": "小文：我需要多做运动。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Tingting: Let's go to the park.",
+          "cn": "婷婷：我们去公园吧。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Xiaowen: Great! We can lie on the grass and enjoy the sun.",
+          "cn": "小文：太好了！我们可以躺在草地上享受阳光。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Tingting: Uh ... No. We're going for a run.",
+          "cn": "婷婷：呃……不。我们要去跑步。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Xiaowen: I'm tired! I'm going home for dinner.",
+          "cn": "小文：我累了！我要回家吃晚饭。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Tingting: Me too. What are you going to eat?",
+          "cn": "婷婷：我也是。你打算吃什么？",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Xiaowen: I'm going to eat some tomatoes and carrots with rice.",
+          "cn": "小文：我打算吃些西红柿和胡萝卜配米饭。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "Tingting: That's nice. I'm going to eat some healthy food too.",
+          "cn": "婷婷：那真好。我也打算吃些健康的食物。",
+          "st": "课文 · Healthy or not?",
+          "sp": "p.16–17"
+        },
+        {
+          "en": "I'm Jim. Look at me. I'm strong and healthy.",
+          "cn": "我是吉姆。看看我。我又强壮又健康。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "I'm Matt. I like cheese. I like chocolate.",
+          "cn": "我是马特。我喜欢奶酪。我喜欢巧克力。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Jim and Matt live in a small hole in the wall.",
+          "cn": "吉姆和马特住在墙上的一个小洞里。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Jim eats healthy food and does some exercise every day.",
+          "cn": "吉姆每天吃健康的食物，还做些运动。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "He is strong and healthy.",
+          "cn": "他又强壮又健康。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Matt always eats too much.",
+          "cn": "马特总是吃得太多。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "He never does any exercise.",
+          "cn": "他从不做任何运动。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "He is fat and not healthy.",
+          "cn": "他很胖，也不健康。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Don't eat too much junk food. You're getting too fat.",
+          "cn": "别吃太多垃圾食品。你变得越来越胖了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "You should eat healthy food and do some exercise too.",
+          "cn": "你也应该吃健康的食物，做些运动。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Thank you. But I love junk food.",
+          "cn": "谢谢你。可是我喜欢垃圾食品。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Matt eats more and more. He still does not do any exercise.",
+          "cn": "马特吃得越来越多。他仍然不做任何运动。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Jim talks to him. But Matt does not listen.",
+          "cn": "吉姆劝他。但马特不听。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "The cat is coming. Run, Matt! Run!",
+          "cn": "（吉姆喊）猫来了。快跑，马特！快跑！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Wow! Two little mice. I'm hungry.",
+          "cn": "（猫说）哇！两只小老鼠。我饿了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Don't eat me, please! Help! Help!",
+          "cn": "（马特喊）求你别吃我！救命！救命！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "One day, Jim and Matt are in the kitchen. A cat comes.",
+          "cn": "一天，吉姆和马特在厨房里。一只猫来了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Jim runs into the hole in the wall. He is safe there.",
+          "cn": "吉姆跑进墙上的洞里。他在那里很安全。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        },
+        {
+          "en": "Matt runs to the hole too, but he cannot run fast. What happens next?",
+          "cn": "马特也朝洞口跑去，可他跑不快。接下来会发生什么？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jim and Matt",
+          "sp": "p.22–23"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "title": "不同国家",
+      "icon": "🌍",
+      "color": "#2196f3",
+      "en": "What do you know about different countries?",
+      "vocab": [
+        {
+          "en": "north",
+          "cn": "北方"
+        },
+        {
+          "en": "south",
+          "cn": "南方"
+        },
+        {
+          "en": "east",
+          "cn": "东方"
+        },
+        {
+          "en": "west",
+          "cn": "西方"
+        },
+        {
+          "en": "capital",
+          "cn": "首都"
+        },
+        {
+          "en": "museum",
+          "cn": "博物馆"
+        },
+        {
+          "en": "palace",
+          "cn": "王宫；宫殿"
+        },
+        {
+          "en": "tourist",
+          "cn": "游客"
+        },
+        {
+          "en": "visit",
+          "cn": "参观；拜访"
+        },
+        {
+          "en": "northwest",
+          "cn": "西北"
+        },
+        {
+          "en": "across",
+          "cn": "穿过"
+        },
+        {
+          "en": "fish and chips",
+          "cn": "炸鱼薯条"
+        },
+        {
+          "en": "popular",
+          "cn": "流行的；受欢迎的"
+        },
+        {
+          "en": "wine",
+          "cn": "葡萄酒"
+        },
+        {
+          "en": "on foot",
+          "cn": "步行"
+        }
+      ],
+      "read": [
+        {
+          "en": "China is in the east of Asia.",
+          "cn": "中国在亚洲的东部。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "Beijing is the capital of China.",
+          "cn": "北京是中国的首都。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "You can find museums, palaces and parks there.",
+          "cn": "在那里你可以看到博物馆、宫殿和公园。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "Most tourists like visiting these places.",
+          "cn": "大多数游客喜欢参观这些地方。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "They like visiting the Great Wall too.",
+          "cn": "他们也喜欢参观长城。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "People in Beijing love eating Beijing roast duck.",
+          "cn": "北京人爱吃北京烤鸭。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "The UK is in the northwest of Europe.",
+          "cn": "英国在欧洲的西北部。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "London is the capital of the UK.",
+          "cn": "伦敦是英国的首都。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "In London, you can find many museums and old buildings.",
+          "cn": "在伦敦，你可以看到许多博物馆和古老的建筑。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "Tourists like walking across Tower Bridge and visiting the British Museum.",
+          "cn": "游客喜欢步行穿过塔桥，还喜欢参观大英博物馆。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "Fish and chips is popular in London.",
+          "cn": "炸鱼薯条在伦敦很受欢迎。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "France is in the west of Europe.",
+          "cn": "法国在欧洲的西部。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "Paris is the capital of France.",
+          "cn": "巴黎是法国的首都。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "In Paris, you can find many museums.",
+          "cn": "在巴黎，你可以看到许多博物馆。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "Tourists like visiting the Louvre Museum and the Eiffel Tower.",
+          "cn": "游客喜欢参观卢浮宫和埃菲尔铁塔。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "Bread and wine are popular in Paris.",
+          "cn": "面包和葡萄酒在巴黎很受欢迎。",
+          "st": "课文 · Countries around the world",
+          "sp": "p.28–29"
+        },
+        {
+          "en": "My name is Li Wei.",
+          "cn": "我叫李伟。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "I'm 12 years old.",
+          "cn": "我12岁了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "I live in Chengdu.",
+          "cn": "我住在成都。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "It's in the southwest of China.",
+          "cn": "它在中国的西南方。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "There are lots of things to do here.",
+          "cn": "这里有很多可以做的事情。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We like going to the teahouses.",
+          "cn": "我们喜欢去茶馆。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We sometimes go to see the pandas at the panda base.",
+          "cn": "我们有时去熊猫基地看熊猫。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We love the cute pandas.",
+          "cn": "我们喜爱这些可爱的熊猫。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "I'm in Grade Five.",
+          "cn": "我上五年级。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "There's a Sichuan Opera club in our school.",
+          "cn": "我们学校有一个川剧俱乐部。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "I learn Sichuan Opera in the club after school.",
+          "cn": "放学后我在俱乐部学川剧。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "My sister and I love hot pot.",
+          "cn": "我和妹妹都爱吃火锅。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "My name is Adam and I'm from Canada.",
+          "cn": "我叫亚当，来自加拿大。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "I live in Vancouver.",
+          "cn": "我住在温哥华。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "It's in the west of Canada.",
+          "cn": "它在加拿大的西部。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "There are mountains near here.",
+          "cn": "这附近有一些山。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We often go skiing there in winter.",
+          "cn": "冬天我们经常去那里滑雪。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "I like hockey.",
+          "cn": "我喜欢冰球。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "Sometimes my parents and I go to a game together.",
+          "cn": "有时我和父母一起去观看比赛。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "My favourite food is pancakes.",
+          "cn": "我最喜欢的食物是薄煎饼。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Life in different countries",
+          "sp": "p.34–35"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "title": "假日计划",
+      "icon": "🏔️",
+      "color": "#9c27b0",
+      "en": "What's interesting about holidays?",
+      "vocab": [
+        {
+          "en": "mountain",
+          "cn": "山"
+        },
+        {
+          "en": "cave",
+          "cn": "洞穴"
+        },
+        {
+          "en": "waterfall",
+          "cn": "瀑布"
+        },
+        {
+          "en": "hotel",
+          "cn": "酒店"
+        },
+        {
+          "en": "holiday",
+          "cn": "假期"
+        },
+        {
+          "en": "will",
+          "cn": "将；将要"
+        },
+        {
+          "en": "soon",
+          "cn": "很快；马上"
+        },
+        {
+          "en": "shall",
+          "cn": "（表示将来的可能性）将"
+        },
+        {
+          "en": "high-speed train",
+          "cn": "高铁"
+        },
+        {
+          "en": "explore",
+          "cn": "探索"
+        },
+        {
+          "en": "pagoda",
+          "cn": "塔"
+        },
+        {
+          "en": "cave house",
+          "cn": "窑洞"
+        },
+        {
+          "en": "famous",
+          "cn": "著名的"
+        },
+        {
+          "en": "deep-fried cake",
+          "cn": "油炸糕"
+        },
+        {
+          "en": "wonderful",
+          "cn": "令人惊叹的；令人赞叹的"
+        },
+        {
+          "en": "view",
+          "cn": "景色；风景"
+        }
+      ],
+      "read": [
+        {
+          "en": "It'll be the school holiday soon! Where shall we go?",
+          "cn": "学校假期马上就到了！我们去哪儿？",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Let's go to Yan'an.",
+          "cn": "我们去延安吧。",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "How will we get there?",
+          "cn": "我们怎么去那儿？",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "We'll take the high-speed train.",
+          "cn": "我们乘高铁去。",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "I love trains! What will we do there?",
+          "cn": "我最喜欢火车了！我们在那儿会做什么？",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "We can explore Yan'an Revolutionary Memorial Hall.",
+          "cn": "我们可以探索延安革命纪念馆。",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "We'll visit the pagoda on Pagoda Hill.",
+          "cn": "我们会参观宝塔山上的宝塔。",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "We'll take a bus to visit the Hukou Waterfall.",
+          "cn": "我们会乘公共汽车去参观壶口瀑布。",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "It'll take us about three hours.",
+          "cn": "那大约要花我们三个小时。",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Where will we stay in Yan'an?",
+          "cn": "我们在延安会住在哪里？",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "We'll stay in a cave house!",
+          "cn": "我们会住窑洞！",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Wow! Will there be good food?",
+          "cn": "哇！会有好吃的吗？",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Yan'an is famous for deep-fried cakes.",
+          "cn": "延安以油炸糕闻名。",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "It sounds great. I can't wait to go!",
+          "cn": "听起来太棒了。我等不及要去了！",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Yan'an is in Shaanxi Province. It is a wonderful city.",
+          "cn": "延安在陕西省。它是一座精彩的城市。",
+          "st": "课文 · A holiday plan",
+          "sp": "p.44–45"
+        },
+        {
+          "en": "Mountains are tall and beautiful.",
+          "cn": "高山又高又美。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "Many people like to visit them on their holidays.",
+          "cn": "许多人喜欢在假期游览高山。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "Here are three amazing mountains.",
+          "cn": "这里有三座神奇的大山。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "Mount Taishan is a wonderful mountain in China.",
+          "cn": "泰山是中国一座奇妙的大山。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "Visitors can see caves and waterfalls.",
+          "cn": "游客可以看到洞穴和瀑布。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "The tallest peak is Jade Emperor Peak.",
+          "cn": "最高的山峰是玉皇顶。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "Visitors climb it to watch the sunrise.",
+          "cn": "游客登上玉皇顶观看日出。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "Mont Blanc is in France and Italy.",
+          "cn": "勃朗峰位于法国和意大利。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "In summer, visitors hike in the mountains.",
+          "cn": "夏天，游客在山中徒步。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "In winter, visitors go skiing on the snow.",
+          "cn": "冬天，游客在雪地上滑雪。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "Mount Qomolangma is in China and Nepal.",
+          "cn": "珠穆朗玛峰位于中国和尼泊尔。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "It is the world's tallest mountain.",
+          "cn": "它是世界最高的山。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "It is very hard to climb.",
+          "cn": "攀登它非常艰难。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        },
+        {
+          "en": "Would you like to spend your holidays in these mountains?",
+          "cn": "你想在这些大山里度假吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Holidays up high",
+          "sp": "p.46–47"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "title": "生物世界",
+      "icon": "🌱",
+      "color": "#8bc34a",
+      "en": "What are living things?",
+      "vocab": [
+        {
+          "en": "get sunlight",
+          "cn": "获取阳光"
+        },
+        {
+          "en": "get food and water",
+          "cn": "获取食物和水"
+        },
+        {
+          "en": "grow",
+          "cn": "生长"
+        },
+        {
+          "en": "change",
+          "cn": "变化"
+        },
+        {
+          "en": "move",
+          "cn": "移动"
+        },
+        {
+          "en": "living",
+          "cn": "有生命的"
+        },
+        {
+          "en": "non-living",
+          "cn": "无生命的"
+        },
+        {
+          "en": "thing",
+          "cn": "东西"
+        },
+        {
+          "en": "air",
+          "cn": "空气"
+        },
+        {
+          "en": "by themselves",
+          "cn": "独自地；无需外力地"
+        },
+        {
+          "en": "important",
+          "cn": "重要的"
+        },
+        {
+          "en": "by itself",
+          "cn": "独自地；无需外力地"
+        },
+        {
+          "en": "look around",
+          "cn": "环顾"
+        }
+      ],
+      "read": [
+        {
+          "en": "A living thing can grow and change.",
+          "cn": "生物可以生长和变化。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "A plant is a living thing.",
+          "cn": "植物是生物。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "An animal is a living thing.",
+          "cn": "动物是生物。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "You are a living thing!",
+          "cn": "你是一个生物！",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "Living things need air, food and water.",
+          "cn": "生物需要空气、食物和水。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "People and animals can move.",
+          "cn": "人和动物可以移动。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "They can get food and water from different places.",
+          "cn": "它们能从不同的地方获得食物和水。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "Plants cannot move by themselves.",
+          "cn": "植物不能自己移动。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "They make their food from sunlight, water and air.",
+          "cn": "它们用阳光、水和空气制造食物。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "What living things do you see every day?",
+          "cn": "你每天看到哪些生物？",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "A non-living thing does not need air, food or water.",
+          "cn": "非生物不需要空气、食物或水。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "A toy is a non-living thing.",
+          "cn": "玩具是非生物。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "A non-living thing does not grow, but it can change.",
+          "cn": "非生物不会生长，但它会变化。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "Look at the shoes.",
+          "cn": "看这双鞋子。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "How are they different?",
+          "cn": "它们有什么不同？",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "A ball can move.",
+          "cn": "球可以移动。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "Is it a living thing?",
+          "cn": "它是生物吗？",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "No, it isn't.",
+          "cn": "不，它不是。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "It cannot move by itself.",
+          "cn": "它不能自己移动。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "It does not grow.",
+          "cn": "它不会生长。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "Look around you.",
+          "cn": "看看你的周围。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "What non-living things do you see?",
+          "cn": "你看到了哪些非生物？",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "All living and non-living things in our world are important.",
+          "cn": "我们世界上所有的生物和非生物都很重要。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "We should take care of them.",
+          "cn": "我们应该爱护它们。",
+          "st": "课文 · Living and non-living things",
+          "sp": "p.52–53"
+        },
+        {
+          "en": "Wheat grows in fields.",
+          "cn": "小麦生长在田地里。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "Farmers cut the wheat.",
+          "cn": "农民收割小麦。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "It becomes straw.",
+          "cn": "小麦变成了稻草。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "The sun dries the straw.",
+          "cn": "太阳把稻草晒干。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "People can make a hat with the straw.",
+          "cn": "人们可以用稻草做一顶帽子。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "Straw begins as a living thing: wheat.",
+          "cn": "稻草起初是有生命的：小麦。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "People make it into a hat.",
+          "cn": "人们把它做成了帽子。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "The wheat becomes a non-living thing.",
+          "cn": "小麦变成了没有生命的东西。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "Bamboo can grow very tall.",
+          "cn": "竹子能长得非常高。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "People cut down the bamboo.",
+          "cn": "人们把竹子砍倒。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "People cut the bamboo into pieces.",
+          "cn": "人们把竹子切成片。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "People turn the bamboo pieces into a steamer.",
+          "cn": "人们把竹片做成蒸笼。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "Bamboo begins as a living thing.",
+          "cn": "竹子起初是有生命的。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "People make a steamer with the bamboo pieces.",
+          "cn": "人们用竹片做了一个蒸笼。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        },
+        {
+          "en": "The bamboo becomes a non-living thing.",
+          "cn": "竹子变成了没有生命的东西。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Living to non-living",
+          "sp": "p.58–59"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "title": "保护地球",
+      "icon": "🌏",
+      "color": "#03a9f4",
+      "en": "Why should we take care of the Earth?",
+      "vocab": [
+        {
+          "en": "smoke",
+          "cn": "烟"
+        },
+        {
+          "en": "dirty",
+          "cn": "脏的"
+        },
+        {
+          "en": "rubbish",
+          "cn": "垃圾"
+        },
+        {
+          "en": "recycle",
+          "cn": "回收利用"
+        },
+        {
+          "en": "reduce",
+          "cn": "减少"
+        },
+        {
+          "en": "natural resources",
+          "cn": "自然资源"
+        },
+        {
+          "en": "call",
+          "cn": "把……叫作"
+        },
+        {
+          "en": "wood",
+          "cn": "木材"
+        },
+        {
+          "en": "land",
+          "cn": "土地"
+        },
+        {
+          "en": "why",
+          "cn": "为什么"
+        },
+        {
+          "en": "clean",
+          "cn": "干净的"
+        },
+        {
+          "en": "hurt",
+          "cn": "伤害"
+        },
+        {
+          "en": "factory",
+          "cn": "工厂"
+        },
+        {
+          "en": "near",
+          "cn": "在……附近"
+        },
+        {
+          "en": "those",
+          "cn": "那些"
+        },
+        {
+          "en": "turn off",
+          "cn": "关掉"
+        }
+      ],
+      "read": [
+        {
+          "en": "The Earth gives us important things.",
+          "cn": "地球给予我们重要的东西。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "We call these things natural resources.",
+          "cn": "我们把这些东西称为自然资源。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Air, water, wood and land are all natural resources.",
+          "cn": "空气、水、木材和土地都是自然资源。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Living things need clean air and clean water to live.",
+          "cn": "生物需要清洁的空气和水才能生存。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Plants need water and land to grow, and we need plants for food.",
+          "cn": "植物需要水和土地生长，我们需要植物作为食物。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "We also make a lot of things with wood, like paper, chairs and houses.",
+          "cn": "我们还用木材制造很多东西，比如纸、椅子和房子。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "We should not hurt our natural resources.",
+          "cn": "我们不应该伤害我们的自然资源。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "We need them to live.",
+          "cn": "我们需要它们来生存。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Smoke from cars and factories makes air dirty.",
+          "cn": "汽车和工厂排放的烟使空气变脏。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Dirty air can make people sick.",
+          "cn": "污浊的空气会让人生病。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Rubbish makes the land and water dirty.",
+          "cn": "垃圾使土地和水变脏。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "We cannot drink dirty water, and we cannot use dirty land.",
+          "cn": "我们不能喝脏水，也不能使用被污染的土地。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "We should all take care of the Earth's natural resources.",
+          "cn": "我们都应该爱护地球的自然资源。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Use things longer.",
+          "cn": "更长久地使用东西。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Reduce the things we use.",
+          "cn": "减少我们所使用的东西。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Recycle our rubbish.",
+          "cn": "回收我们的垃圾。",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "What can we do today?",
+          "cn": "今天我们能做些什么？",
+          "st": "课文 · Natural resources",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "I'm an orange juice carton! I'm in a supermarket now!",
+          "cn": "我是一盒橙汁纸盒！我现在在一家超市里！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "How great! A little girl takes me!",
+          "cn": "太好了！一个小女孩把我拿走了！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "I think she's going to have a picnic.",
+          "cn": "我想她要去野餐。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "The little girl leaves me on the grass.",
+          "cn": "小女孩把我留在了草地上。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "No! She should put me in the bin!",
+          "cn": "不！她应该把我放进垃圾桶！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "Now, the wind blows me into the lake.",
+          "cn": "现在，风把我吹进了湖里。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "I shouldn't be here.",
+          "cn": "我不该待在这里。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "A man sees me, and he puts me in his boat with a plastic bottle.",
+          "cn": "一个男人看见了我，他把我放进他的船里，还有一只塑料瓶。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "Yeah! We aren't rubbish now!",
+          "cn": "耶！我们现在不是垃圾了！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "I'm in a bin with other cartons!",
+          "cn": "我和其他纸盒一起在垃圾桶里！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "Where's my plastic bottle friend?",
+          "cn": "我的塑料瓶朋友在哪儿？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "Oh, he's in a bin with other plastic bottles.",
+          "cn": "哦，它和其他塑料瓶一起在垃圾桶里。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "I think this is a good place.",
+          "cn": "我觉得这是个好地方。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "Now I'm in a shop! Yes, people recycled me into a notebook!",
+          "cn": "现在我在一家商店里！是的，人们把我回收做成了一个笔记本！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        },
+        {
+          "en": "I'm very happy and excited.",
+          "cn": "我非常开心，也很兴奋。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · A juice carton's journey",
+          "sp": "p.70–71"
+        }
+      ]
+    },
+    {
+      "name": "Unit 7",
+      "title": "节日文化",
+      "icon": "🏮",
+      "color": "#f44336",
+      "en": "How do we celebrate festivals?",
+      "vocab": [
+        {
+          "en": "aunt",
+          "cn": "阿姨；姑母；姨母；伯母；舅母；婶母"
+        },
+        {
+          "en": "uncle",
+          "cn": "舅父；叔父；伯父；姑父；姨父"
+        },
+        {
+          "en": "together",
+          "cn": "一起"
+        },
+        {
+          "en": "celebrate",
+          "cn": "庆祝"
+        },
+        {
+          "en": "main",
+          "cn": "主要的"
+        },
+        {
+          "en": "eve",
+          "cn": "前夕"
+        },
+        {
+          "en": "stocking",
+          "cn": "长筒袜"
+        },
+        {
+          "en": "visit relatives",
+          "cn": "拜访亲戚；探亲"
+        },
+        {
+          "en": "eat mooncakes",
+          "cn": "吃月饼"
+        },
+        {
+          "en": "have a dragon boat race",
+          "cn": "进行龙舟比赛"
+        },
+        {
+          "en": "watch lanterns",
+          "cn": "赏花灯"
+        },
+        {
+          "en": "next month",
+          "cn": "下个月"
+        },
+        {
+          "en": "make jiaozi",
+          "cn": "包饺子"
+        },
+        {
+          "en": "watch a lion dance",
+          "cn": "观看舞狮表演"
+        },
+        {
+          "en": "have a big meal",
+          "cn": "吃大餐"
+        },
+        {
+          "en": "put up",
+          "cn": "搭建；张贴；挂起"
+        }
+      ],
+      "read": [
+        {
+          "en": "I'm very excited.",
+          "cn": "我很兴奋。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "It'll be the Spring Festival next month.",
+          "cn": "下个月就是春节了。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "We'll clean our house.",
+          "cn": "我们要打扫房子。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "This is hard work, but it'll bring good luck.",
+          "cn": "这是辛苦的工作，但它会带来好运。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "I'll help my grandmother make jiaozi.",
+          "cn": "我要帮奶奶包饺子。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "It's my favourite food.",
+          "cn": "它是我最喜欢的食物。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "Then I'll watch a lion dance with my family.",
+          "cn": "然后我会和家人一起看舞狮。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "And we'll visit my aunt and uncle.",
+          "cn": "我们还要去拜访我的阿姨和叔叔。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "We'll have a big meal together.",
+          "cn": "我们会一起吃一顿丰盛的饭。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "What festivals do you celebrate?",
+          "cn": "你们庆祝哪些节日？",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "The Spring Festival sounds fun!",
+          "cn": "春节听起来真有趣！",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "In the UK, our main festival is Christmas.",
+          "cn": "在英国，我们主要的节日是圣诞节。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "About one month before Christmas, we put up a Christmas tree at home.",
+          "cn": "圣诞节前大约一个月，我们在家竖起一棵圣诞树。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "On Christmas Eve, I always put a stocking by my bed.",
+          "cn": "平安夜，我总是把一只长袜放在床边。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "The next morning, there are gifts in it!",
+          "cn": "第二天早上，里面有礼物！",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "My grandparents come on Christmas Day.",
+          "cn": "我的外祖父母在圣诞节那天来。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "First, we open our gifts.",
+          "cn": "首先，我们打开礼物。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "Then, we eat a big meal.",
+          "cn": "然后，我们吃一顿大餐。",
+          "st": "课文 · Important festivals（两封信）",
+          "sp": "p.78–79"
+        },
+        {
+          "en": "It will be New Year's Day in two days.",
+          "cn": "两天后就是元旦了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "How will you celebrate it?",
+          "cn": "你们会怎样庆祝它呢？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "Let's find out how people around the world celebrate the New Year.",
+          "cn": "让我们来了解一下世界各地的人们是如何庆祝新年的。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "It is always fun and exciting!",
+          "cn": "那总是有趣而令人兴奋的！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "In China, we celebrate New Year's Day with our family and friends.",
+          "cn": "在中国，我们和家人朋友一起庆祝元旦。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "We relax and have fun.",
+          "cn": "我们放松心情，尽情玩乐。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "We hope to have a good year.",
+          "cn": "我们希望能有一个好年景。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "In the USA, people watch fireworks on New Year's Eve.",
+          "cn": "在美国，人们在除夕夜观看烟花。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "On New Year's Day, many people watch American football matches.",
+          "cn": "元旦那天，许多人观看美式橄榄球比赛。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "In Scotland, people visit their family and friends.",
+          "cn": "在苏格兰，人们拜访家人和朋友。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "They bring a piece of coal for good luck.",
+          "cn": "他们会带上一块煤，祈求好运。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "In Spain, people wait for the clock to ring at midnight.",
+          "cn": "在西班牙，人们等待午夜的钟声敲响。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        },
+        {
+          "en": "They eat 12 grapes—one for each chime.",
+          "cn": "他们会吃12颗葡萄——每响一声钟吃一颗。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · New Year's Day around the world",
+          "sp": "p.82–83"
+        }
+      ]
+    },
+    {
+      "name": "Unit 8",
+      "title": "音乐感受",
+      "icon": "🎵",
+      "color": "#673ab7",
+      "en": "How does music make us feel?",
+      "vocab": [
+        {
+          "en": "fast",
+          "cn": "快的"
+        },
+        {
+          "en": "slow",
+          "cn": "慢的"
+        },
+        {
+          "en": "excited",
+          "cn": "兴奋的"
+        },
+        {
+          "en": "unhappy",
+          "cn": "不开心的"
+        },
+        {
+          "en": "feel",
+          "cn": "觉得；感到"
+        },
+        {
+          "en": "feeling",
+          "cn": "感情；情绪"
+        },
+        {
+          "en": "relaxed",
+          "cn": "放松的"
+        },
+        {
+          "en": "person",
+          "cn": "人"
+        },
+        {
+          "en": "imagination",
+          "cn": "想象；想象力"
+        },
+        {
+          "en": "imagine",
+          "cn": "想象"
+        },
+        {
+          "en": "all over the world",
+          "cn": "世界各地"
+        }
+      ],
+      "read": [
+        {
+          "en": "People around the world enjoy music.",
+          "cn": "世界各地的人都喜欢音乐。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "Some music is fast, and some is slow.",
+          "cn": "有些音乐很快，有些很慢。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "Listen to this piano music.",
+          "cn": "听这段钢琴音乐。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "Is it fast or slow?",
+          "cn": "它是快的还是慢的？",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "Different music makes us have different feelings.",
+          "cn": "不同的音乐让我们有不同的感受。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "Slow music may make us feel relaxed, and fast music may make us feel excited.",
+          "cn": "慢音乐可能让我们感到放松，快音乐可能让我们感到兴奋。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "The same music can make one person feel happy and another unhappy.",
+          "cn": "同一段音乐可能让一个人感到快乐，让另一个人感到不快。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "Music can help us imagine things.",
+          "cn": "音乐能帮助我们想象事物。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "With fast music, we may imagine an animal running.",
+          "cn": "听着快音乐，我们可能想象一只动物在奔跑。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "With slow music, we may imagine an animal sleeping.",
+          "cn": "听着慢音乐，我们可能想象一只动物在睡觉。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "Listen.",
+          "cn": "听。",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "What do you imagine the animals are doing?",
+          "cn": "你想象这些动物在做什么？",
+          "st": "课文 · How music makes us feel",
+          "sp": "p.88–89"
+        },
+        {
+          "en": "Lisa goes to school early for their big concert.",
+          "cn": "丽莎很早就去学校，因为他们有一场大型音乐会。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Her music teacher finds her.",
+          "cn": "她的音乐老师找到了她。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Mr White: Eric is sick.",
+          "cn": "怀特老师：埃里克病了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Mr White: You’re going to play his part tonight.",
+          "cn": "怀特老师：今晚你要演奏他的部分。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Lisa is very worried.",
+          "cn": "丽莎非常担心。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Lisa: Eric is so good.",
+          "cn": "丽莎：埃里克演奏得太好了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Mr White: Eric plays well, and so do you.",
+          "cn": "怀特老师：埃里克演奏得好，你也是一样。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Lisa closes her eyes and plays.",
+          "cn": "丽莎闭上眼睛吹奏。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "But the fast notes are difficult to play.",
+          "cn": "但那些快速的音符很难演奏。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Lisa: I can’t play like Eric.",
+          "cn": "丽莎：我吹不出埃里克那样的水平。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Mr White plays some music on his computer.",
+          "cn": "怀特老师在电脑上播放了一些音乐。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "The fast notes sound like birds or rain.",
+          "cn": "那些快速的音符听起来像鸟鸣或雨声。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Lisa: That’s beautiful.",
+          "cn": "丽莎：那真美。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Lisa: I’ll play like that one day!",
+          "cn": "丽莎：总有一天我也会那样演奏！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Mr White smiles.",
+          "cn": "怀特老师笑了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Mr White: Lisa, that’s you playing!",
+          "cn": "怀特老师：丽莎，那是你在演奏！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Lisa: Really?",
+          "cn": "丽莎：真的吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Mr White laughs.",
+          "cn": "怀特老师哈哈大笑。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Mr White: You work hard and play well, but don’t forget to enjoy the music.",
+          "cn": "怀特老师：你练习刻苦，演奏出色，但别忘了享受音乐。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        },
+        {
+          "en": "Mr White: You’re a great musician.",
+          "cn": "怀特老师：你是一位出色的音乐家。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Lisa's flute",
+          "sp": "p.94–95"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "1": [
+      {
+        "type": "单词",
+        "q": "\"do chores\" 的中文意思是？",
+        "options": [
+          "放风筝",
+          "做家务",
+          "去野餐",
+          "和朋友玩"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"have a picnic\" 的中文意思是？",
+        "options": [
+          "看电视",
+          "和朋友玩",
+          "去野餐",
+          "做园艺"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"water the plants\" 的中文意思是？",
+        "options": [
+          "给植物浇水",
+          "给植物施肥",
+          "修剪花草",
+          "种树"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"wash the dishes\" 的中文意思是？",
+        "options": [
+          "洗衣服",
+          "洗碗",
+          "扫地",
+          "擦窗户"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"dust the shelves\" 的中文意思是？",
+        "options": [
+          "擦窗户",
+          "洗碗",
+          "擦拭架子上的灰尘",
+          "遛狗"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"warm up\" 的中文意思是？",
+        "options": [
+          "热身",
+          "暖和起来",
+          "加热",
+          "醒来"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"catch\" 的中文意思是？",
+        "options": [
+          "追逐",
+          "抓住；捕捉",
+          "喂养",
+          "寻找"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「去钓鱼」的英文是？",
+        "options": [
+          "go jogging",
+          "go swimming",
+          "go shopping",
+          "go fishing"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「看电视」的英文是？",
+        "options": [
+          "watch a film",
+          "watch TV",
+          "watch a match",
+          "watch a show"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「和朋友玩」的英文是？",
+        "options": [
+          "play football",
+          "play games",
+          "play with friends",
+          "play the piano"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "「放风筝」的英文是？",
+        "options": [
+          "fly a plane",
+          "fly a bird",
+          "fly a flag",
+          "fly a kite"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「早起」的英文是？",
+        "options": [
+          "get up early",
+          "get up late",
+          "wake up early",
+          "stand up early"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "「赶快；快点」的英文是？",
+        "options": [
+          "get up",
+          "hurry up",
+          "warm up",
+          "dress up"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"do gardening\" 的中文意思是？",
+        "options": [
+          "做运动",
+          "做家务",
+          "做园艺",
+          "种树"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"do tai chi\" 的中文意思是？",
+        "options": [
+          "打太极",
+          "做瑜伽",
+          "跳舞",
+          "练武术"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "「擦窗户」的英文是？",
+        "options": [
+          "clean the rooms",
+          "wash the windows",
+          "dust the windows",
+          "clean the windows"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「遛狗」的英文是？",
+        "options": [
+          "walk the dogs",
+          "walk the dog",
+          "walk a dog",
+          "walk with the dog"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"make a robot\" 的中文意思是？",
+        "options": [
+          "修理机器人",
+          "机器人模型",
+          "制作机器人",
+          "制造玩具"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"early\" 的中文意思是？",
+        "options": [
+          "晚地；迟地",
+          "慢慢地",
+          "匆忙地",
+          "早地；提早地"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「做家务」的英文是？",
+        "options": [
+          "do chores",
+          "do gardening",
+          "do homework",
+          "do tai chi"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "「给植物浇水」的英文是？",
+        "options": [
+          "wash the plants",
+          "water the plants",
+          "watch the plants",
+          "water the flowers"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"go jogging\" 的中文意思是？",
+        "options": [
+          "去钓鱼",
+          "去游泳",
+          "去慢跑",
+          "去散步"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "\"这个周末我打算去钓鱼。\" 的正确英文是？",
+        "options": [
+          "I am going to go fishing this weekend.",
+          "I go fishing this weekend.",
+          "I am go fishing this weekend.",
+          "I going to fish this weekend."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：He ___ going to play basketball this weekend.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：We ___ have a picnic this weekend.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的 be going to 句子：",
+        "options": [
+          "She is going to do tai chi.",
+          "She going to do tai chi.",
+          "She are going to do tai chi.",
+          "She is go to do tai chi."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：I ___ going to watch TV this weekend.",
+        "options": [
+          "is",
+          "are",
+          "be",
+          "am"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"He / She is going to play basketball this weekend.\" 的中文意思是？",
+        "options": [
+          "他/她这个周末打算打篮球。",
+          "他/她这个周末正在打篮球。",
+          "他/她这个周末打了篮球。",
+          "他/她这个周末打算打网球。"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "课文中 Luo Jie 说：My dad and I ___ going to go fishing at Blue Lake.",
+        "options": [
+          "am",
+          "are",
+          "is",
+          "be"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "\"We are going to have a picnic this weekend.\" 的中文意思是？",
+        "options": [
+          "我们这个周末正在野餐。",
+          "我们这个周末去钓鱼了。",
+          "我们这个周末打算去野餐。",
+          "我们这个周末打算看电视。"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Luo Jie 说：I can't wait to ___ more fish than my dad!",
+        "options": [
+          "watch",
+          "feed",
+          "keep",
+          "catch"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"Hurry up, Saturday!\" 的中文意思是？",
+        "options": [
+          "星期六，快来吧！",
+          "星期六，快起床！",
+          "星期六，快跑吧！",
+          "星期六，快做完！"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "go jogging",
+        "cn": "去慢跑"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "walk the dog",
+        "cn": "遛狗"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "fly a kite",
+        "cn": "放风筝"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "make a robot",
+        "cn": "制作机器人"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "hurry up",
+        "cn": "赶快；快点"
+      },
+      {
+        "type": "语音",
+        "q": "字母 c 在单词 \"cat\" 中发什么音？",
+        "options": [
+          "/s/",
+          "/k/",
+          "/tʃ/",
+          "/ʒ/"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "下列哪个单词中的字母 g 发 /g/ 音？",
+        "options": [
+          "orange",
+          "page",
+          "gym",
+          "girl"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "在听力 Different weekend plans 中，Zhang Qi 这个周末打算和家人做什么？",
+        "options": [
+          "去野餐（have a picnic）",
+          "去钓鱼（go fishing）",
+          "看电视（watch TV）",
+          "做园艺（do gardening）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "在口语 Your weekend plan 中，Peter 一家谁打算做园艺（do gardening）？",
+        "options": [
+          "爸爸（Dad）",
+          "妈妈（Mum）",
+          "奶奶（Grandma）",
+          "爷爷（Grandpa）"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "拓展",
+        "q": "在拓展阅读 A busy Sunday 中，星期天全家人一起做什么？",
+        "options": [
+          "一起做家务（do chores）",
+          "一起去钓鱼",
+          "一起去野餐",
+          "一起看电视"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "拓展",
+        "q": "拓展阅读 A busy Sunday 中的单词 \"newspaper\" 的中文意思是？",
+        "options": [
+          "杂志",
+          "灰尘",
+          "土壤",
+          "报纸"
+        ],
+        "answer": 3
+      }
+    ],
+    "2": [
+      {
+        "type": "单词",
+        "q": "\"healthy\" 的中文意思是？",
+        "options": [
+          "健康的",
+          "疲劳的",
+          "不健康的",
+          "困倦的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"unhealthy\" 的中文意思是？",
+        "options": [
+          "健康的",
+          "高兴的",
+          "不健康的",
+          "强壮的"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"tired\" 的中文意思是？",
+        "options": [
+          "兴奋的",
+          "口渴的",
+          "疲劳的",
+          "饥饿的"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"eat less\" 的中文意思是？",
+        "options": [
+          "多吃",
+          "少吃",
+          "好吃",
+          "慢吃"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"lie on the grass\" 的中文意思是？",
+        "options": [
+          "躺在草地上",
+          "站在草地上",
+          "坐在椅子上",
+          "走在马路上"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"have breakfast\" 的中文意思是？",
+        "options": [
+          "吃早餐",
+          "吃晚餐",
+          "吃零食",
+          "做早操"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "junk food",
+        "cn": "垃圾食品"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "do more exercise",
+        "cn": "做更多运动"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "get enough sleep",
+        "cn": "得到充足的睡眠"
+      },
+      {
+        "type": "句型",
+        "q": "\"What are you going to do?\" 的正确回答是？",
+        "options": [
+          "We are going to eat healthy food.",
+          "We going to eat healthy food.",
+          "We is going to eat healthy food.",
+          "We are eat healthy food."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"他打算做更多运动。\" 的正确英文是？",
+        "options": [
+          "He is going to do more exercise.",
+          "He are going to do more exercise.",
+          "He going to do exercise.",
+          "He is do more exercise."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"你每天喝多少水？\" 的正确英文是？",
+        "options": [
+          "How much water do you drink every day?",
+          "How many water do you drink every day?",
+          "How much water you drink every day?",
+          "What water do you drink every day?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "We eat too much junk food! We must ___.",
+        "options": [
+          "eat less",
+          "eat more",
+          "drink more",
+          "sleep more"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"do exercise\" 的中文意思是？",
+        "options": [
+          "做早操",
+          "做运动",
+          "做家务",
+          "去野餐"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"eat healthy food\" 的中文意思是？",
+        "options": [
+          "吃很多零食",
+          "多吃垃圾食品",
+          "吃健康的食物",
+          "喝大量的水"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"drink a lot of water\" 的中文意思是？",
+        "options": [
+          "喝一点点水",
+          "按时喝水",
+          "喝很少的水",
+          "喝大量的水"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"get enough sleep\" 的中文意思是？",
+        "options": [
+          "早起跑步",
+          "每天锻炼",
+          "得到充足的睡眠",
+          "按时完成作业"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"junk food\" 的中文意思是？",
+        "options": [
+          "垃圾食品",
+          "健康食品",
+          "新鲜水果",
+          "营养早餐"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"do more exercise\" 的中文意思是？",
+        "options": [
+          "少吃零食",
+          "做更多运动",
+          "早睡早起",
+          "多喝牛奶"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"enjoy the sun\" 的中文意思是？",
+        "options": [
+          "怕晒太阳",
+          "在阳光下跑步",
+          "享受阳光",
+          "躲开太阳"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"吃早餐\" 的正确英文是？",
+        "options": [
+          "have a breakfast",
+          "having breakfast",
+          "have the breakfast",
+          "have breakfast"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"做运动\" 的正确英文是？",
+        "options": [
+          "do a exercise",
+          "doing exercise",
+          "do exercising",
+          "do exercise"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"吃健康的食物\" 的正确英文是？",
+        "options": [
+          "eat health food",
+          "eat healthy food",
+          "eat healthy foods",
+          "eating healthy food"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"喝大量的水\" 的正确英文是？",
+        "options": [
+          "drink lot of water",
+          "drink many water",
+          "drink a lot of water",
+          "drinking a lot of water"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"垃圾食品\" 的正确英文是？",
+        "options": [
+          "healthy food",
+          "fast food",
+          "nice food",
+          "junk food"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"健康的\" 的正确英文是？",
+        "options": [
+          "health",
+          "healthy",
+          "healthily",
+          "unhealthy"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"疲劳的\" 的正确英文是？",
+        "options": [
+          "tiring",
+          "tire",
+          "tired",
+          "tiredly"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"做更多运动\" 的正确英文是？",
+        "options": [
+          "do much exercise",
+          "do more exercises",
+          "doing more exercise",
+          "do more exercise"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"享受阳光\" 的正确英文是？",
+        "options": [
+          "enjoy sun",
+          "enjoy the sun",
+          "enjoying the sun",
+          "enjoy the sunny"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "do exercise",
+        "cn": "做运动"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "have breakfast",
+        "cn": "吃早餐"
+      },
+      {
+        "type": "句型",
+        "q": "\"What is she going to do?\" 的正确回答是？",
+        "options": [
+          "She are going to do more exercise.",
+          "She is going to do more exercise.",
+          "She is going do more exercise.",
+          "She going to do more exercise."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "课文对话 Healthy or not? 中，Tingting 说 \"I drink very little water.\" 她接着说？",
+        "options": [
+          "I need to eat less.",
+          "I need to get up early.",
+          "I need to drink more.",
+          "I need to sleep more."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "课文对话 Healthy or not? 中，Xiaowen 觉得自己需要做什么？",
+        "options": [
+          "I need to eat less junk food.",
+          "I need to drink more water.",
+          "I need to get enough sleep.",
+          "I need to do more exercise."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"我累了！我要回家吃晚饭。\" 的正确英文是？",
+        "options": [
+          "I tired! I'm going home to dinner.",
+          "I'm tiring! I go home for dinner.",
+          "I'm tired! I'm going home for dinner.",
+          "I'm tired! I going home for dinner."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "续篇对话中，Xiaowen 说 \"We can ___ and enjoy the sun.\" 空格处应填？",
+        "options": [
+          "run in the park",
+          "have a picnic",
+          "go for a walk",
+          "lie on the grass"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"我们打算每天喝大量的水。\" 的正确英文是？",
+        "options": [
+          "We are going to drink many water every day.",
+          "We are going to drink a lot of waters every day.",
+          "We going to drink a lot of water every day.",
+          "We are going to drink a lot of water every day."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "语音",
+        "q": "Sounds: th 中，字母组合 \"th\" 在 \"think\" 里发什么音？",
+        "options": [
+          "/ð/ 浊音",
+          "/θ/ 清音",
+          "/s/",
+          "/f/"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "下列单词中，\"th\" 发清音 /θ/ 的是？",
+        "options": [
+          "mother",
+          "this",
+          "healthy",
+          "weather"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "听力 Health tips by Doctor Li 中，Doctor Li 建议孩子们每晚睡几个小时？",
+        "options": [
+          "3-4 小时",
+          "5-6 小时",
+          "8-10 小时",
+          "11-12 小时"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "口语活动 A survey about living habits 中，只勾选 0-3 个 ✓ 表示什么？",
+        "options": [
+          "没有很多健康习惯",
+          "有很多健康习惯",
+          "生活习惯非常好",
+          "应该立刻去看医生"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "拓展",
+        "q": "拓展阅读 Jim and Matt 中，Jim 为什么又壮又健康？",
+        "options": [
+          "He eats a lot of junk food.",
+          "He sleeps all day.",
+          "He never does any exercise.",
+          "He eats healthy food and does some exercise every day."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "拓展",
+        "q": "拓展阅读 Jim and Matt 中，猫来的时候 Matt 怎么了？",
+        "options": [
+          "He runs into the hole in the wall first.",
+          "He catches the cat.",
+          "He runs very fast and escapes.",
+          "He cannot run fast."
+        ],
+        "answer": 3
+      }
+    ],
+    "3": [
+      {
+        "type": "单词",
+        "q": "\"palace\" 的中文意思是？",
+        "options": [
+          "宝塔",
+          "公园",
+          "宫殿",
+          "港口"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"tourist\" 的中文意思是？",
+        "options": [
+          "导游",
+          "游客",
+          "商人",
+          "学生"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"north\" 的中文意思是？",
+        "options": [
+          "东方",
+          "南方",
+          "北方",
+          "西方"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"across\" 的中文意思是？",
+        "options": [
+          "在……附近",
+          "横穿；穿过",
+          "在……后面",
+          "远离"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"fish and chips\" 的中文意思是？",
+        "options": [
+          "鱼丸",
+          "面条",
+          "炸鱼薯条",
+          "米饭"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"Tower Bridge\" 的中文意思是？",
+        "options": [
+          "大本钟",
+          "伦敦塔桥",
+          "巴黎铁桥",
+          "金门大桥"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"popular\" 的中文意思是？",
+        "options": [
+          "受欢迎的；流行的",
+          "稀有的",
+          "昂贵的",
+          "危险的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"UK\" 的中文意思是？",
+        "options": [
+          "法国",
+          "美国",
+          "德国",
+          "英国"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"中国\" 的英文是？",
+        "options": [
+          "China",
+          "Japan",
+          "Korea",
+          "Thailand"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"France\" 的中文意思是？",
+        "options": [
+          "芬兰",
+          "德国",
+          "法国",
+          "英国"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"east\" 的中文意思是？",
+        "options": [
+          "西方",
+          "北方",
+          "南方",
+          "东方"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"south\" 的中文意思是？",
+        "options": [
+          "南方",
+          "东方",
+          "西方",
+          "北方"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"west\" 的中文意思是？",
+        "options": [
+          "东方",
+          "南方",
+          "北方",
+          "西方"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"capital\" 的中文意思是？",
+        "options": [
+          "城市",
+          "首都",
+          "国家",
+          "省份"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"museum\" 的中文意思是？",
+        "options": [
+          "剧院",
+          "图书馆",
+          "体育馆",
+          "博物馆"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"park\" 的中文意思是？",
+        "options": [
+          "公园",
+          "广场",
+          "花园",
+          "停车场"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"visit\" 的中文意思是？",
+        "options": [
+          "旅游",
+          "到达",
+          "参观",
+          "离开"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"roast duck\" 的中文意思是？",
+        "options": [
+          "烤鸭",
+          "烤鸡",
+          "烧鹅",
+          "烤鱼"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"British Museum\" 在哪个城市？",
+        "options": [
+          "Paris",
+          "London",
+          "New York",
+          "Rome"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"Louvre Museum\" 在哪个城市？",
+        "options": [
+          "Berlin",
+          "Madrid",
+          "London",
+          "Paris"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"Eiffel Tower\" 的中文意思是？",
+        "options": [
+          "伦敦塔",
+          "比萨斜塔",
+          "凯旋门",
+          "埃菲尔铁塔"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"Eiffel Tower\" 在哪个城市？",
+        "options": [
+          "London",
+          "Paris",
+          "Beijing",
+          "Rome"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "capital",
+        "cn": "首都"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "museum",
+        "cn": "博物馆"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "roast duck",
+        "cn": "烤鸭"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "palace",
+        "cn": "宫殿"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "tourist",
+        "cn": "游客"
+      },
+      {
+        "type": "句型",
+        "q": "\"中国在亚洲的东部。\" 的正确英文是？",
+        "options": [
+          "China is in the east of Asia.",
+          "China is in the west of Asia.",
+          "China is the east of Asia.",
+          "China in the east of Asia."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"北京在中国北部。\" 的正确英文是？",
+        "options": [
+          "Beijing is in the north of China.",
+          "Beijing is in the south of China.",
+          "Beijing is north in China.",
+          "Beijing in the north of China."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：The UK is ___ of Europe.",
+        "options": [
+          "in the northwest",
+          "in the northwest in",
+          "on the northwest",
+          "at northwest of"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：France is in the ___ of Europe.",
+        "options": [
+          "east",
+          "south",
+          "west",
+          "north"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "\"意大利在欧洲南部。\" 的正确英文是？",
+        "options": [
+          "Italy is in the east of Europe.",
+          "Italy is the south of Europe.",
+          "Italy is in the south Europe.",
+          "Italy is in the south of Europe."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"日本在亚洲东部。\" 的正确英文是？",
+        "options": [
+          "Japan is in the east in Asia.",
+          "Japan is east of Asia.",
+          "Japan is in the east of Asia.",
+          "Japan in the east of Asia."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "\"加拿大在北美北部。\" 的正确英文是？",
+        "options": [
+          "Canada is in the south of North America.",
+          "Canada is in the north of North America.",
+          "Canada is the north of North America.",
+          "Canada is in the north in North America."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "根据歌谣，南宁（Nanning）在中国的哪个方位？",
+        "options": [
+          "北部",
+          "南部",
+          "东部",
+          "西部"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "根据歌谣，拉萨（Lhasa）在中国的哪个方位？",
+        "options": [
+          "东部",
+          "南部",
+          "西部",
+          "北部"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：Paris is the ___ of France.",
+        "options": [
+          "capital",
+          "country",
+          "town",
+          "museum"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "语音",
+        "q": "字母组合 \"ss\" 在单词中通常发什么音？",
+        "options": [
+          "/s/",
+          "/z/",
+          "/ʃ/",
+          "/ʒ/"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "语音",
+        "q": "下列哪个单词中含有字母组合 \"ss\"？",
+        "options": [
+          "sea",
+          "sun",
+          "grass",
+          "fish"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "根据听力明信片，来自 Paris, France 的明信片介绍了哪个景点？",
+        "options": [
+          "Big Ben",
+          "Tower Bridge",
+          "The British Museum",
+          "The Eiffel Tower"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "根据听力明信片，来自 London, UK 的明信片介绍了哪个景点？",
+        "options": [
+          "The Eiffel Tower",
+          "The Louvre Museum",
+          "Big Ben",
+          "Tower Bridge"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "拓展",
+        "q": "根据阅读练习，威尼斯（Venice）是哪个国家的城市？",
+        "options": [
+          "France",
+          "the UK",
+          "China",
+          "Italy"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "拓展",
+        "q": "根据阅读练习，下面关于威尼斯的说法正确的是？",
+        "options": [
+          "威尼斯有许多马路",
+          "人们只能开汽车出行",
+          "人们步行或坐船出行",
+          "威尼斯没有桥"
+        ],
+        "answer": 2
+      }
+    ],
+    "4": [
+      {
+        "type": "单词",
+        "q": "\"waterfall\" 的中文意思是？",
+        "options": [
+          "山洞",
+          "瀑布",
+          "山",
+          "酒店"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"cave\" 的中文意思是？",
+        "options": [
+          "洞穴",
+          "瀑布",
+          "酒店",
+          "高山"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"mountain\" 的中文意思是？",
+        "options": [
+          "山",
+          "河",
+          "森林",
+          "沙漠"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"hotel\" 的中文意思是？",
+        "options": [
+          "旅馆；酒店",
+          "餐厅",
+          "车站",
+          "商店"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"high-speed train\" 的中文意思是？",
+        "options": [
+          "普通火车",
+          "长途汽车",
+          "高铁",
+          "飞机"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"deep-fried cakes\" 的中文意思是？",
+        "options": [
+          "面条",
+          "饺子",
+          "油炸糕",
+          "月饼"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"province\" 的中文意思是？",
+        "options": [
+          "国家",
+          "城市",
+          "省；省份",
+          "街道"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "cave house",
+        "cn": "窑洞"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "pagoda",
+        "cn": "宝塔"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "explore",
+        "cn": "探索"
+      },
+      {
+        "type": "句型",
+        "q": "\"你将怎样到那里？\" 的正确英文是？",
+        "options": [
+          "How will you get there?",
+          "How do you get there?",
+          "What will you get there?",
+          "Where will you get there?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：I ___ get there by train.",
+        "options": [
+          "will",
+          "am",
+          "is",
+          "go"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"Where will you stay?\" 的中文意思是？",
+        "options": [
+          "你将在哪里住？",
+          "你将去哪里？",
+          "你将做什么？",
+          "你什么时候去？"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"我们将在那里做什么？\" 的正确英文是？",
+        "options": [
+          "What will we do there?",
+          "Where will we do there?",
+          "How will we do there?",
+          "When will we do there?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"holiday\" 的中文意思是？",
+        "options": [
+          "生日聚会",
+          "季节",
+          "月份",
+          "假日；假期"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"plan\" 的中文意思是？",
+        "options": [
+          "飞机",
+          "计划",
+          "植物",
+          "盘子"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"explore\" 的中文意思是？",
+        "options": [
+          "解释",
+          "表达",
+          "探索",
+          "爆炸"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"famous\" 的中文意思是？",
+        "options": [
+          "著名的",
+          "家庭的",
+          "美味的",
+          "可怕的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"瀑布\" 的英文是？",
+        "options": [
+          "waterfool",
+          "watterfall",
+          "waterfalls",
+          "waterfall"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"洞穴\" 的英文是？",
+        "options": [
+          "cav",
+          "cavee",
+          "cave",
+          "caves"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"高铁\" 的英文是？",
+        "options": [
+          "high speed train",
+          "high-speed train",
+          "high-spead train",
+          "highspeed train"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"省；省份\" 的英文是？",
+        "options": [
+          "provence",
+          "province",
+          "provance",
+          "provinse"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"宝塔\" 的英文是？",
+        "options": [
+          "panda",
+          "pagode",
+          "pagoda",
+          "palace"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"革命的\" 的英文是？",
+        "options": [
+          "revolution",
+          "revision",
+          "revolve",
+          "revolutionary"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"纪念馆\" 的英文是？",
+        "options": [
+          "memorial house",
+          "memorial hall",
+          "memory hall",
+          "memorial hotel"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"窑洞\" 的英文是？",
+        "options": [
+          "cave home",
+          "house cave",
+          "cave hole",
+          "cave house"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"deep-fried\" 的意思是？",
+        "options": [
+          "水煮的",
+          "蒸熟的",
+          "烤制的",
+          "油炸的"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"high-speed train\" 中 \"speed\" 的意思是？",
+        "options": [
+          "火车",
+          "速度",
+          "车站",
+          "座位"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "下列哪个词与 \"mountain\" 同属自然景物？",
+        "options": [
+          "hotel",
+          "station",
+          "waterfall",
+          "museum"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "\"你将在那里待多久？\" 的正确英文是？",
+        "options": [
+          "How long will you stay?",
+          "How long will you stay there?",
+          "How will you stay there?",
+          "How long do you stay there?"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的回答：— Will there be good food? —",
+        "options": [
+          "Yes, there is.",
+          "Yes, it will.",
+          "Yes, there are.",
+          "Yes, there will."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"I'll\" 是哪两个词的缩写？",
+        "options": [
+          "I would",
+          "I can",
+          "I will",
+          "I shall"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "把 \"We will go to Yan'an.\" 改成一般疑问句，正确的是？",
+        "options": [
+          "Will you goes to Yan'an?",
+          "Do you go to Yan'an?",
+          "Will you go to Yan'an?",
+          "Will you went to Yan'an?"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的答语：— How will you get there? —",
+        "options": [
+          "I will stay in a hotel.",
+          "I will go there tomorrow.",
+          "I will visit the pagoda.",
+          "I will get there by train."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "下列哪个句子是一般将来时（will）？",
+        "options": [
+          "I went to the mountains.",
+          "I go to the mountains.",
+          "I will go to the mountains.",
+          "I am going mountains."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "waterfall",
+        "cn": "瀑布"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "high-speed train",
+        "cn": "高铁"
+      },
+      {
+        "type": "语音",
+        "q": "Sounds: sh, ch —— 下列单词中，画线部分发 /ʃ/（sh 音）的是？",
+        "options": [
+          "sheep",
+          "China",
+          "chair",
+          "chicken"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "语音",
+        "q": "Sounds: sh, ch —— 下列单词中，画线部分发 /tʃ/（ch 音）的是？",
+        "options": [
+          "sheep",
+          "ship",
+          "she",
+          "China"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "听力《A holiday plan to Sanya》中，Qiqi 将怎样去三亚？",
+        "options": [
+          "坐高铁（by high-speed train）",
+          "坐轮船（by ship）",
+          "坐飞机（by plane）",
+          "坐长途汽车（by coach）"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "写作模板 \"This holiday, I'll go to ___.\" 的横线处应填写什么？",
+        "options": [
+          "要去的地方（如 Yan'an）",
+          "乘坐的交通工具",
+          "停留的地方",
+          "停留的时间"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "拓展",
+        "q": "泰山（Mount Taishan）上最高的山峰叫什么名字？",
+        "options": [
+          "勃朗峰（Mont Blanc）",
+          "玉皇顶（Jade Emperor Peak）",
+          "珠穆朗玛峰（Mount Qomolangma）",
+          "香山顶（Fragrant Hill Peak）"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "拓展",
+        "q": "世界上最高的山峰是哪一座？",
+        "options": [
+          "勃朗峰（Mont Blanc）",
+          "泰山（Mount Taishan）",
+          "玉皇顶（Jade Emperor Peak）",
+          "珠穆朗玛峰（Mount Qomolangma）"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "拓展",
+        "q": "冬天，游客可以在勃朗峰（Mont Blanc）上做什么？",
+        "options": [
+          "爬山看日出（watch the sunrise）",
+          "参观纪念馆（visit the memorial hall）",
+          "在雪上滑雪（go skiing）",
+          "住窑洞（stay in a cave house）"
+        ],
+        "answer": 2
+      }
+    ],
+    "5": [
+      {
+        "type": "单词",
+        "q": "\"non-living thing\" 的中文意思是？",
+        "options": [
+          "生物",
+          "非生物",
+          "动物",
+          "食物"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"change\" 的中文意思是？",
+        "options": [
+          "变化",
+          "奔跑",
+          "睡觉",
+          "唱歌"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"move\" 的中文意思是？",
+        "options": [
+          "生长",
+          "移动",
+          "吃东西",
+          "呼吸"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"air\" 的中文意思是？",
+        "options": [
+          "土壤",
+          "木头",
+          "空气",
+          "石头"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"by itself\" 的中文意思是？",
+        "options": [
+          "和朋友一起",
+          "自己（本身）",
+          "在晚上",
+          "在外面"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "living thing",
+        "cn": "生物"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "grow",
+        "cn": "生长"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "sunlight",
+        "cn": "阳光"
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：A living thing can grow ___ change.",
+        "options": [
+          "and",
+          "or",
+          "but",
+          "so"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：A non-living thing does not need air, food ___ water.",
+        "options": [
+          "or",
+          "and",
+          "but",
+          "with"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：A non-living thing does not grow, ___ it can change.",
+        "options": [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"生物需要空气、食物和水。\" 的正确英文是？",
+        "options": [
+          "Living things need air, food and water.",
+          "Living thing need air, food and water.",
+          "Living things needs air, food or water.",
+          "Living things is air, food and water."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"get sunlight\" 的中文意思是？",
+        "options": [
+          "获得食物和水",
+          "自己（本身）",
+          "获得阳光",
+          "制造食物"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"get food and water\" 的中文意思是？",
+        "options": [
+          "获得阳光",
+          "生长和变化",
+          "制造食物",
+          "获得食物和水"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"grow\" 的中文意思是？",
+        "options": [
+          "变化",
+          "移动",
+          "呼吸",
+          "生长"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"living thing\" 的中文意思是？",
+        "options": [
+          "非生物",
+          "生物",
+          "植物",
+          "空气"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"sunlight\" 的中文意思是？",
+        "options": [
+          "空气",
+          "水",
+          "阳光",
+          "食物"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"grow and change\" 的中文意思是？",
+        "options": [
+          "生长和变化",
+          "获得食物和水",
+          "移动",
+          "变化"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"make their food\" 的中文意思是？",
+        "options": [
+          "买食物",
+          "吃掉食物",
+          "寻找食物",
+          "制造食物"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"获得阳光\" 的英文是？",
+        "options": [
+          "get sunlight",
+          "get food and water",
+          "make their food",
+          "grow"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"获得食物和水\" 的英文是？",
+        "options": [
+          "get sunlight",
+          "get food and water",
+          "sunlight",
+          "air"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"生长和变化\" 的英文是？",
+        "options": [
+          "make their food",
+          "get food and water",
+          "grow and change",
+          "move"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"制造食物\" 的英文是？",
+        "options": [
+          "get food",
+          "make food",
+          "grow",
+          "make their food"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"自己（本身）\" 的英文是？",
+        "options": [
+          "with friends",
+          "by itself",
+          "in the park",
+          "at night"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"生物\" 的英文是？",
+        "options": [
+          "air",
+          "sunlight",
+          "living thing",
+          "non-living thing"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"非生物\" 的英文是？",
+        "options": [
+          "living thing",
+          "air",
+          "grow",
+          "non-living thing"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"空气\" 的英文是？",
+        "options": [
+          "water",
+          "sunlight",
+          "food",
+          "air"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"变化\" 的英文是？",
+        "options": [
+          "grow",
+          "move",
+          "change",
+          "living thing"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"移动\" 的英文是？",
+        "options": [
+          "change",
+          "grow",
+          "air",
+          "move"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"植物不能自己移动。\" 的正确英文是？",
+        "options": [
+          "Plants can move by themselves.",
+          "Plants cannot move by themselves.",
+          "Plants can move by itself.",
+          "Plants cannot move by them."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "\"它们从阳光、水和空气中制造食物。\" 的正确英文是？",
+        "options": [
+          "They get food from sunlight, water and air.",
+          "They make their food from sunlight, water or air.",
+          "They make their food from sunlight, water and air.",
+          "They make their food from mud and water."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "\"人和动物能够移动。\" 的正确英文是？",
+        "options": [
+          "People and animals can grow.",
+          "People or animals can move.",
+          "People and animals cannot move.",
+          "People and animals can move."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：A toy is ___ non-living thing.",
+        "options": [
+          "a",
+          "an",
+          "the",
+          "some"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：They can get food and water ___ different places.",
+        "options": [
+          "and",
+          "but",
+          "or",
+          "from"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"A non-living thing does not grow, but it can change.\" 这句话的意思是？",
+        "options": [
+          "非生物会生长，但不会变化。",
+          "非生物不生长，但它可以变化。",
+          "生物不生长，也不会变化。",
+          "非生物不生长，也不会变化。"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "non-living thing",
+        "cn": "非生物"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "make their food",
+        "cn": "制造食物"
+      },
+      {
+        "type": "语音",
+        "q": "单词 water 中的字母 w 发什么音？",
+        "options": [
+          "/w/",
+          "/v/",
+          "/h/",
+          "/f/"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "语音",
+        "q": "单词 what 中的字母组合 wh 发什么音？",
+        "options": [
+          "/h/",
+          "/v/",
+          "/w/",
+          "/f/"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "听力 Things in the park 中，向日葵（sunflowers）喜欢什么？",
+        "options": [
+          "大量的水",
+          "阴暗的地方",
+          "阳光（sunlight）",
+          "寒冷的风"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "在 Science Club 的区分表格中，非生物（non-living things）的特点是？",
+        "options": [
+          "会生长",
+          "需要食物和水",
+          "能自己移动",
+          "不生长，也不需要食物或水"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "拓展",
+        "q": "拓展阅读中，竹子（bamboo）最后被人们做成了什么？",
+        "options": [
+          "帽子（hat）",
+          "蒸笼（steamer）",
+          "篮子（basket）",
+          "鞋子（shoes）"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "拓展",
+        "q": "小麦从生物变成非生物的过程，正确的顺序是？",
+        "options": [
+          "农民割麦→麦子长在田里→太阳晒干稻草→人们做成帽子",
+          "麦子长在田里→人们做成帽子→农民割麦→太阳晒干稻草",
+          "麦子长在田里→农民割麦→变成稻草→太阳晒干→人们做成帽子",
+          "太阳晒干稻草→人们做成帽子→农民割麦→麦子长在田里"
+        ],
+        "answer": 2
+      }
+    ],
+    "6": [
+      {
+        "type": "单词",
+        "q": "\"reduce\" 的中文意思是？",
+        "options": [
+          "回收",
+          "减少",
+          "重复",
+          "扔掉"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"smoke\" 的中文意思是？",
+        "options": [
+          "垃圾",
+          "烟",
+          "灰尘",
+          "水"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"natural resources\" 的中文意思是？",
+        "options": [
+          "自然风景",
+          "自然资源",
+          "人工产品",
+          "零花钱"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"cut down\" 的中文意思是？",
+        "options": [
+          "砍伐",
+          "捡起",
+          "清理",
+          "种植"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"pick up\" 的中文意思是？",
+        "options": [
+          "放下",
+          "捡起",
+          "扔掉",
+          "带走"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"dirty\" 的中文意思是？",
+        "options": [
+          "干净的",
+          "脏的",
+          "潮湿的",
+          "漂亮的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"plastic bags\" 的中文意思是？",
+        "options": [
+          "纸袋",
+          "塑料袋",
+          "布袋",
+          "书包"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "recycle",
+        "cn": "回收"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "turn off",
+        "cn": "关掉"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "rubbish",
+        "cn": "垃圾"
+      },
+      {
+        "type": "句型",
+        "q": "\"We ___ cut down trees.\" 应填什么？",
+        "options": [
+          "should",
+          "shouldn't",
+          "is going to",
+          "are going to"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "\"should not\" 的缩写形式是？",
+        "options": [
+          "shouldn't",
+          "should't",
+          "shouldnt",
+          "shouldn"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：We should ___ things.",
+        "options": [
+          "recycle",
+          "recycling",
+          "to recycle",
+          "recycled"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"We shouldn't hurt our natural resources.\" 的中文意思是？",
+        "options": [
+          "我们不应该伤害我们的自然资源。",
+          "我们应该保护我们的玩具。",
+          "我们不应该回收东西。",
+          "我们必须砍伐树木。"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"recycle\" 的中文意思是？",
+        "options": [
+          "重复",
+          "减少",
+          "回收",
+          "扔掉"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"Earth\" 的中文意思是？",
+        "options": [
+          "太阳",
+          "空气",
+          "月亮",
+          "地球"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"follow rules\" 的中文意思是？",
+        "options": [
+          "违反规则",
+          "制定规则",
+          "遵守规则",
+          "改变规则"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"land\" 的中文意思是？",
+        "options": [
+          "空气",
+          "水",
+          "火",
+          "土地"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"wood\" 的中文意思是？",
+        "options": [
+          "木材",
+          "金属",
+          "塑料",
+          "石头"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"垃圾\" 的英文是？",
+        "options": [
+          "smoke",
+          "dirty",
+          "rubbish",
+          "reduce"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"空气\" 的英文是？",
+        "options": [
+          "air",
+          "water",
+          "wood",
+          "land"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"工厂\" 的英文是？",
+        "options": [
+          "farm",
+          "factory",
+          "forest",
+          "flower"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"伤害\" 的英文是？",
+        "options": [
+          "help",
+          "hold",
+          "hurt",
+          "hear"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"生病的\" 的英文是？",
+        "options": [
+          "strong",
+          "healthy",
+          "happy",
+          "sick"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"关掉\" 的英文是？",
+        "options": [
+          "turn on",
+          "turn off",
+          "turn up",
+          "turn down"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"清理\" 的英文是？",
+        "options": [
+          "clean up",
+          "pick up",
+          "cut down",
+          "turn off"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"烟\" 的英文是？",
+        "options": [
+          "dirty",
+          "rubbish",
+          "smoke",
+          "sick"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"脏的\" 的英文是？",
+        "options": [
+          "clean",
+          "dry",
+          "dear",
+          "dirty"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"砍伐\" 的英文是？",
+        "options": [
+          "cut down",
+          "clean up",
+          "pick up",
+          "turn off"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"捡起\" 的英文是？",
+        "options": [
+          "clean up",
+          "cut down",
+          "turn off",
+          "pick up"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"We should ___ hurt our natural resources.\" 应填什么？",
+        "options": [
+          "not",
+          "no",
+          "don't",
+          "isn't"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "歌谣 The Earth 中：\"You should recycle and keep me clean. You shouldn't ___ trees.\" 横线上应填？",
+        "options": [
+          "plant",
+          "water",
+          "see",
+          "cut down"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"We should ___ the use of plastic bags.\" 应填什么？",
+        "options": [
+          "add",
+          "use",
+          "reduce",
+          "take"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "\"Smoke from cars and factories makes air ___.\" 横线上应填？",
+        "options": [
+          "clean",
+          "dirty",
+          "fresh",
+          "cool"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "\"We should ___ the lights before we leave the room.\" 应填什么？",
+        "options": [
+          "turn on",
+          "turn up",
+          "turn down",
+          "turn off"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "\"Dirty air can make people ___.\" 横线上应填？",
+        "options": [
+          "happy",
+          "strong",
+          "sick",
+          "tall"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "写作模板中：\"We should ___. We should ___. We shouldn't ___.\" 填法正确的一组是？",
+        "options": [
+          "recycle things; walk more; hurt the Earth",
+          "recycling things; walk more; hurt the Earth",
+          "recycle things; walking more; hurts the Earth",
+          "recycles things; walk more; hurting the Earth"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "factory",
+        "cn": "工厂"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "clean up",
+        "cn": "清理"
+      },
+      {
+        "type": "语音",
+        "q": "以下哪个单词中含有 ng 的发音（Sounds: ng）？",
+        "options": [
+          "thank",
+          "sang",
+          "bank",
+          "ink"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "以下哪个单词中含有 nk 的发音（Sounds: nk）？",
+        "options": [
+          "long",
+          "sing",
+          "thank",
+          "ring"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "听力材料中，刘欣一家早上为河流做了什么？",
+        "options": [
+          "把垃圾从河里捡出来",
+          "在河边种树",
+          "去河边散步",
+          "给鸭子喂食"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "口语海报 \"Help the Earth\" 中，Don'ts 包括下列哪一项？",
+        "options": [
+          "turn off lights",
+          "recycle bottles",
+          "leave the lights on",
+          "walk more"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "拓展",
+        "q": "在 A juice carton's journey 中，女孩在哪里发现了果汁纸盒？",
+        "options": [
+          "在超市里",
+          "在草地上",
+          "在水里",
+          "在船上"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "拓展",
+        "q": "在 A juice carton's journey 中，果汁纸盒最后被回收制成了什么？",
+        "options": [
+          "一个书包",
+          "一本书",
+          "一个笔记本",
+          "一件衣服"
+        ],
+        "answer": 2
+      }
+    ],
+    "7": [
+      {
+        "type": "单词",
+        "q": "\"Spring Festival\" 的中文意思是？",
+        "options": [
+          "元宵节",
+          "春节",
+          "端午节",
+          "中秋节"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"Lantern Festival\" 的中文意思是？",
+        "options": [
+          "春节",
+          "元宵节",
+          "端午节",
+          "中秋节"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"Mid-Autumn Festival\" 的中文意思是？",
+        "options": [
+          "中秋节",
+          "元宵节",
+          "春节",
+          "圣诞节"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"jiaozi\" 的中文意思是？",
+        "options": [
+          "月饼",
+          "饺子",
+          "粽子",
+          "灯笼"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"Christmas Eve\" 的中文意思是？",
+        "options": [
+          "圣诞节当天",
+          "平安夜",
+          "圣诞前一周",
+          "新年"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"hard work\" 的中文意思是？",
+        "options": [
+          "轻松的工作",
+          "辛苦的工作",
+          "家庭作业",
+          "大餐"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"good luck\" 的中文意思是？",
+        "options": [
+          "好运",
+          "好主意",
+          "好天气",
+          "好消息"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "lion dance",
+        "cn": "舞狮"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "stocking",
+        "cn": "长袜"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "celebrate",
+        "cn": "庆祝"
+      },
+      {
+        "type": "句型",
+        "q": "\"下个月就是春节了。\" 对应的英文是：It will be the Spring Festival ___ month.",
+        "options": [
+          "next",
+          "last",
+          "early",
+          "every"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"In one hour, I ___ be at my grandma's.\" 应填什么？",
+        "options": [
+          "will",
+          "am",
+          "is",
+          "was"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"两天后（in two days）\" 的正确英文是？",
+        "options": [
+          "in two days",
+          "on two days",
+          "at two days",
+          "two days before"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"我们将会拜访我的叔叔和阿姨。\" 的正确英文是？",
+        "options": [
+          "We will visit my aunt and uncle.",
+          "We will visiting my aunt and uncle.",
+          "We are visit my aunt and uncle.",
+          "We will visit to my aunt and uncle."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"Dragon Boat Festival\" 的中文意思是？",
+        "options": [
+          "清明节",
+          "端午节",
+          "重阳节",
+          "中秋节"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"圣诞节\" 的英文是？",
+        "options": [
+          "Christmas",
+          "Halloween",
+          "New Year's Day",
+          "Thanksgiving"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"节日\" 的英文是？",
+        "options": [
+          "festival",
+          "future",
+          "family",
+          "flower"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"圣诞老人会送礼物给我们。\" 中 \"礼物\" 的英文是？",
+        "options": [
+          "gift",
+          "card",
+          "candle",
+          "stocking"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"visit relatives\" 的中文意思是？",
+        "options": [
+          "招待客人",
+          "看望朋友",
+          "拜访邻居",
+          "拜访亲戚"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"put up\" 的中文意思是？",
+        "options": [
+          "穿上",
+          "收起",
+          "张贴；搭建",
+          "摘下"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"main festival\" 的中文意思是？",
+        "options": [
+          "主要节日",
+          "传统节日",
+          "下一个节日",
+          "节日快乐"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"come soon\" 的中文意思是？",
+        "options": [
+          "一起过来",
+          "快到啦",
+          "很快回来",
+          "即将到来"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"中秋节\" 的英文是？",
+        "options": [
+          "Mid-Autumn Festival",
+          "Spring Festival",
+          "Dragon Boat Festival",
+          "Lantern Festival"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"春节\" 的英文是？",
+        "options": [
+          "Spring Festival",
+          "Spring Day",
+          "Spring Holiday",
+          "Spring Feast"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"平安夜\" 的英文是？",
+        "options": [
+          "Christmas Night",
+          "Eve Christmas",
+          "Christmas Eve",
+          "Christmas Eveing"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"好运\" 的英文是？",
+        "options": [
+          "good look",
+          "good luck",
+          "good lucky",
+          "good luckily"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"辛苦的工作\" 的英文是？",
+        "options": [
+          "hardworking",
+          "hard worker",
+          "hard work",
+          "hardly work"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"饺子\" 的英文是？",
+        "options": [
+          "zongzi",
+          "mantou",
+          "jiaozi",
+          "tangyuan"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"元宵节\" 的英文是？",
+        "options": [
+          "Lantern Day",
+          "Festival Lantern",
+          "Lanterns Festival",
+          "Lantern Festival"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "gift",
+        "cn": "礼物"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "Dragon Boat Festival",
+        "cn": "端午节"
+      },
+      {
+        "type": "句型",
+        "q": "表示将来：It will be Christmas ___ two weeks. 横线处应填哪个介词？",
+        "options": [
+          "on",
+          "at",
+          "in",
+          "for"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "\"下星期我们将去逛花市。\" 的正确英文是？",
+        "options": [
+          "We'll going to the flower market next week.",
+          "We'll goes to the flower market next week.",
+          "We'll go to the flower market last week.",
+          "We'll go to the flower market next week."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Li Na 的信中：This is ___, but it'll bring ___. 两处依次应填？",
+        "options": [
+          "hard work; good lucky",
+          "hardworking; good luck",
+          "hardworking; good lucky",
+          "hard work; good luck"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Katie 说 \"About one month before Christmas, we put up a Christmas tree at home.\" 这句话的意思是？",
+        "options": [
+          "一个月后圣诞节时，我们在家里把圣诞树拆掉。",
+          "圣诞节前大约一个月，我们在家里搭起一棵圣诞树。",
+          "圣诞节前一天，我们在家里种一棵圣诞树。",
+          "圣诞节大约一个月里，我们在家里买一棵圣诞树。"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "歌谣中的 \"I can't wait to see her again!\" 的中文意思是？",
+        "options": [
+          "I can wait to see her!（我可以等她来。）",
+          "I don't wait to see her!（我不等她来。）",
+          "I can't wait to see her!（我等不及要再见到她！）",
+          "I can't wait see her!（语法正确的句子）"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "\"我会帮奶奶包饺子。\" 的正确英文是？",
+        "options": [
+          "I will helping my grandmother make jiaozi.",
+          "I will help my grandmother makes jiaozi.",
+          "I will help my grandmother make jiaozi.",
+          "I will helps my grandmother make jiaozi."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "语音",
+        "q": "在句子 \"This is HARD WORK, but it'll bring GOOD LUCK.\" 中，句重音（sentence stress）通常落在哪些词上？",
+        "options": [
+          "is, it'll, bring",
+          "This, but",
+          "hard work, good luck",
+          "This is, bring"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "语音",
+        "q": "关于句重音（sentence stress），下面哪句话是正确的？",
+        "options": [
+          "句子中每个词都要同样重读。",
+          "只有句子的第一个词要重读。",
+          "虚词（如 is, but）比实词读得更响更重。",
+          "实词（名词、动词、形容词等）通常重读，虚词（如 is, but）弱读。"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "Communicate 听力部分 Making festival cards 中，画着纸兔子灯笼（paper rabbit lantern）的卡片是送给哪个节日的？",
+        "options": [
+          "Spring Festival（春节）",
+          "Lantern Festival（元宵节）",
+          "Dragon Boat Festival（端午节）",
+          "Christmas（圣诞节）"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "交际",
+        "q": "口语活动 Your favourite festival 中，介绍自己喜欢的节日时可以用的句型是？",
+        "options": [
+          "What does it look like?",
+          "How much is it?",
+          "My favourite festival is... We usually...",
+          "Where do you live?"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "拓展",
+        "q": "拓展阅读 New Year's Day around the world 中，元旦将在多久后到来？",
+        "options": [
+          "in one hour",
+          "next month",
+          "tomorrow",
+          "in two days"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "拓展",
+        "q": "在中国，人们怎样庆祝元旦（New Year's Day）？",
+        "options": [
+          "他们一个人在家安静地休息。",
+          "他们赛龙舟、包粽子。",
+          "他们只给亲戚发电子邮件。",
+          "他们和亲朋好友一起放松、玩乐，希望有个好年头。"
+        ],
+        "answer": 3
+      }
+    ],
+    "8": [
+      {
+        "type": "单词",
+        "q": "\"excited\" 的中文意思是？",
+        "options": [
+          "放松的",
+          "兴奋的",
+          "困倦的",
+          "紧张的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"unhappy\" 的中文意思是？",
+        "options": [
+          "不高兴的",
+          "放松的",
+          "兴奋的",
+          "疲惫的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"relaxed\" 的中文意思是？",
+        "options": [
+          "紧张的",
+          "放松的",
+          "激动的",
+          "害怕的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"noisy\" 的中文意思是？",
+        "options": [
+          "安静的",
+          "优美的",
+          "吵闹的",
+          "动听的"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"drums\" 的中文意思是？",
+        "options": [
+          "鼓",
+          "吉他",
+          "笛子",
+          "小号"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"slow\" 的中文意思是？",
+        "options": [
+          "快的",
+          "慢的",
+          "轻的",
+          "早的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"feel\" 的中文意思是？",
+        "options": [
+          "感觉",
+          "触摸",
+          "品尝",
+          "注意到"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "imagine",
+        "cn": "想象"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "flute",
+        "cn": "笛子"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "concert",
+        "cn": "音乐会"
+      },
+      {
+        "type": "句型",
+        "q": "选择正确的句子：Slow music may make us feel ___.",
+        "options": [
+          "relaxed",
+          "relaxing",
+          "relax",
+          "to relax"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"fast music\" 可以让我们感到 ___。",
+        "options": [
+          "兴奋（excited）",
+          "放松（relaxed）",
+          "难过（sad）",
+          "饥饿（hungry）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "用 will 表示将来的句子是？",
+        "options": [
+          "I will get there by train.",
+          "He is going to get there by train.",
+          "We should get there by train.",
+          "He can get there by train."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "表达 \"我们应该回收东西。\" 的句子是？",
+        "options": [
+          "We should recycle things.",
+          "We shouldn't recycle things.",
+          "We will recycle things.",
+          "We are going to recycle things."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"fast\" 的中文意思是？",
+        "options": [
+          "慢的",
+          "快的",
+          "轻的",
+          "晚的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"music\" 的中文意思是？",
+        "options": [
+          "歌曲",
+          "美术",
+          "音乐",
+          "舞蹈"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"imagine\" 的中文意思是？",
+        "options": [
+          "想象",
+          "聆听",
+          "演奏",
+          "创作"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"piano\" 的中文意思是？",
+        "options": [
+          "小提琴",
+          "小号",
+          "钢琴",
+          "二胡"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"guitar\" 的中文意思是？",
+        "options": [
+          "吉他",
+          "钢琴",
+          "鼓",
+          "笛子"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"flute\" 的中文意思是？",
+        "options": [
+          "鼓",
+          "小提琴",
+          "笛子",
+          "小号"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"concert\" 的中文意思是？",
+        "options": [
+          "电影院",
+          "博物馆",
+          "音乐厅",
+          "音乐会"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「快的」的英文是？",
+        "options": [
+          "slow",
+          "fast",
+          "late",
+          "heavy"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「慢的」的英文是？",
+        "options": [
+          "fast",
+          "soft",
+          "slow",
+          "small"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "「兴奋的」的英文是？",
+        "options": [
+          "exciting",
+          "excited",
+          "boring",
+          "tired"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「放松的」的英文是？",
+        "options": [
+          "relaxing",
+          "relaxed",
+          "relax",
+          "tired"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「吵闹的」的英文是？",
+        "options": [
+          "noisy",
+          "noise",
+          "quiet",
+          "nice"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "「鼓」的英文是？",
+        "options": [
+          "piano",
+          "drums",
+          "guitar",
+          "flute"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「音乐」的英文是？",
+        "options": [
+          "musical",
+          "movie",
+          "music",
+          "match"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "「感觉；觉得」的英文是？",
+        "options": [
+          "fill",
+          "fell",
+          "feeling",
+          "feel"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "piano",
+        "cn": "钢琴"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "guitar",
+        "cn": "吉他"
+      },
+      {
+        "type": "句型",
+        "q": "表达「我们明天打算去听音乐会。」的句子是？",
+        "options": [
+          "We will listening to a concert tomorrow.",
+          "We are going to listen to a concert tomorrow.",
+          "We go to listen to a concert tomorrow.",
+          "We are listen to a concert tomorrow."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "你想问 Alice 周末打算做什么，应说：",
+        "options": [
+          "What do you do at weekends, Alice?",
+          "What will you do at weekends, Alice?",
+          "What are you going to do at weekends, Alice?",
+          "What did you do at weekends, Alice?"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "表达「钢琴在房间的角落里。」的句子是？",
+        "options": [
+          "The piano is on the corner of the room.",
+          "The piano is in the corner of the room.",
+          "The piano is at the corner of the room.",
+          "The piano is to the corner of the room."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "表达「墙的中间有一幅画。」的句子是？",
+        "options": [
+          "There is a picture in the middle on the wall.",
+          "There is a picture on the middle of the wall.",
+          "There is a picture in the wall of the middle.",
+          "There is a picture in the middle of the wall."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "选词填空：Kate is playing the drums, ___ Ella thinks it is too noisy.",
+        "options": [
+          "and",
+          "or",
+          "so",
+          "but"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "选词填空：Do you want to listen to slow music ___ fast music?",
+        "options": [
+          "and",
+          "or",
+          "but",
+          "with"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "在 Wha(t) do you imagine the animals are doing? 中，括号里的 t 发生了什么？",
+        "options": [
+          "读作 /t/ 完整发音",
+          "读作 /d/",
+          "失去爆破，不完全发音",
+          "不发音也不做口型"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "语音",
+        "q": "下列哪个句子中存在失去爆破（Loss of plosion）现象？",
+        "options": [
+          "I like the music.",
+          "She is singing a song.",
+          "The music is fast.",
+          "Wha(t) do you want to do?"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "听力 Zhang Liang's favourite music：Zhang Liang 晚上最喜欢听什么音乐？",
+        "options": [
+          "Fast music.",
+          "Noisy music.",
+          "Slow music.",
+          "No music."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "口语活动 Music for different situations：在图书馆里应该选择什么音乐？",
+        "options": [
+          "吵闹的音乐",
+          "快速的摇滚乐",
+          "激昂的鼓乐",
+          "又慢又安静的音乐"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "拓展",
+        "q": "拓展阅读 Lisa's flute 告诉我们：孩子们演奏乐器时 ___。",
+        "options": [
+          "感受都一样",
+          "都不喜欢演奏",
+          "只会感到兴奋",
+          "感受可能各不相同"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "拓展",
+        "q": "关于全世界的孩子，拓展阅读告诉我们什么？",
+        "options": [
+          "他们都不演奏乐器",
+          "他们喜欢不同的运动",
+          "他们只在亚洲演奏乐器",
+          "全世界各地的孩子都喜欢演奏乐器"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+}

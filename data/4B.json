@@ -1,0 +1,5513 @@
+{
+  "id": "4B",
+  "title": "四年级下册",
+  "subtitle": "上海教育出版社 · 沪教版（2024）",
+  "icon": "📘",
+  "units": [
+    {
+      "name": "Unit 1",
+      "title": "日程安排",
+      "icon": "⏰",
+      "color": "#ff9800",
+      "en": "What is your daily schedule?",
+      "vocab": [
+        {
+          "en": "get up",
+          "cn": "起床"
+        },
+        {
+          "en": "have breakfast",
+          "cn": "吃早餐"
+        },
+        {
+          "en": "go to school",
+          "cn": "上学"
+        },
+        {
+          "en": "have lunch",
+          "cn": "吃午餐"
+        },
+        {
+          "en": "go home",
+          "cn": "回家"
+        },
+        {
+          "en": "have dinner",
+          "cn": "吃晚餐"
+        },
+        {
+          "en": "go to bed",
+          "cn": "睡觉"
+        },
+        {
+          "en": "daily",
+          "cn": "每日的；日常的"
+        },
+        {
+          "en": "schedule",
+          "cn": "日程安排"
+        },
+        {
+          "en": "at",
+          "cn": "在（某时间或时刻）"
+        },
+        {
+          "en": "o'clock",
+          "cn": "（表示整点）……点钟"
+        },
+        {
+          "en": "half",
+          "cn": "（时间）……点半"
+        },
+        {
+          "en": "little",
+          "cn": "年幼的"
+        },
+        {
+          "en": "drink",
+          "cn": "喝；饮"
+        },
+        {
+          "en": "lesson",
+          "cn": "课"
+        },
+        {
+          "en": "draw",
+          "cn": "画"
+        },
+        {
+          "en": "quarter",
+          "cn": "15分钟；一刻钟"
+        },
+        {
+          "en": "Miss",
+          "cn": "小姐"
+        },
+        {
+          "en": "brush my teeth",
+          "cn": "刷牙"
+        },
+        {
+          "en": "wash my face",
+          "cn": "洗脸"
+        },
+        {
+          "en": "get home",
+          "cn": "到家；回家"
+        },
+        {
+          "en": "go to work",
+          "cn": "去上班"
+        },
+        {
+          "en": "begin to work",
+          "cn": "开始工作"
+        },
+        {
+          "en": "give lessons",
+          "cn": "上课；授课"
+        },
+        {
+          "en": "half past seven",
+          "cn": "七点半（7:30）"
+        },
+        {
+          "en": "a quarter to five",
+          "cn": "差一刻五点（4:45）"
+        },
+        {
+          "en": "in the morning",
+          "cn": "在上午"
+        },
+        {
+          "en": "drink some milk",
+          "cn": "喝些牛奶"
+        },
+        {
+          "en": "read books",
+          "cn": "看书"
+        },
+        {
+          "en": "read a story",
+          "cn": "读故事"
+        },
+        {
+          "en": "play with my brother",
+          "cn": "和弟弟玩"
+        },
+        {
+          "en": "play football",
+          "cn": "踢足球"
+        },
+        {
+          "en": "check her bag",
+          "cn": "检查她的书包"
+        },
+        {
+          "en": "hurry up",
+          "cn": "快点；赶快"
+        },
+        {
+          "en": "be late",
+          "cn": "迟到"
+        },
+        {
+          "en": "on time",
+          "cn": "按时；准时"
+        },
+        {
+          "en": "school bus",
+          "cn": "校车"
+        },
+        {
+          "en": "sleepy",
+          "cn": "困倦的；想睡的"
+        },
+        {
+          "en": "usually",
+          "cn": "通常"
+        }
+      ],
+      "read": [
+        {
+          "en": "What time does Li Liang get up?",
+          "cn": "李亮几点起床？",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "Hi! I'm Li Ming.",
+          "cn": "你好！我是李明。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "I get up at seven o'clock every day.",
+          "cn": "我每天七点钟起床。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "I brush my teeth and wash my face.",
+          "cn": "我刷牙并洗脸。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "Then I have breakfast.",
+          "cn": "然后我吃早餐。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "I go to school at half past seven.",
+          "cn": "我七点半去上学。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "My little brother Li Liang gets up at eight o'clock.",
+          "cn": "我的弟弟李亮八点钟起床。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "Then he drinks some milk.",
+          "cn": "然后他喝一些牛奶。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "I have four lessons in the morning.",
+          "cn": "我上午有四节课。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "I read books and work with my friends.",
+          "cn": "我看书，还和朋友们一起做功课。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "What time does Li Ming come home?",
+          "cn": "李明几点回家？",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "Li Liang likes drawing pictures.",
+          "cn": "李亮喜欢画画。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "I get home at a quarter to five.",
+          "cn": "我差一刻五点（四点四十五）到家。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "I play with my brother.",
+          "cn": "我和弟弟一起玩。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "I read a story to Li Liang at a quarter to nine.",
+          "cn": "我差一刻九点（八点四十五）给李亮读故事。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "We go to bed at nine o'clock.",
+          "cn": "我们九点上床睡觉。",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "Mum: Good night, kids!",
+          "cn": "妈妈：晚安，孩子们！",
+          "st": "课文 · Li Ming's and Li Liang's day",
+          "sp": "p.4–5"
+        },
+        {
+          "en": "Mum: Jiajia, it's 9 p.m. Go to bed now.",
+          "cn": "妈妈：佳佳，已经晚上9点了。现在就去睡觉。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Jiajia: All right, Mum.",
+          "cn": "佳佳：好的，妈妈。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Mum: Get up, Jiajia.",
+          "cn": "妈妈：起床了，佳佳。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Jiajia: Five more minutes, please ...",
+          "cn": "佳佳：请再让我睡五分钟……",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Mum: Hurry up! There's no time for breakfast.",
+          "cn": "妈妈：快点！没时间吃早饭了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Jiajia: Mum, I'm sleepy.",
+          "cn": "佳佳：妈妈，我好困。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Mum: Hurry up, Jiajia! The school bus is coming.",
+          "cn": "妈妈：快点，佳佳！校车要来了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Jiajia: OK.",
+          "cn": "佳佳：好的。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Mum: Oh no, Jiajia! You missed the school bus.",
+          "cn": "妈妈：哦不，佳佳！你错过了校车。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Jiajia: Good morning, Mr Yan. Sorry, I'm late.",
+          "cn": "佳佳：早上好，严老师。对不起，我迟到了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Mum: Oh, you're on time today. Good!",
+          "cn": "妈妈：哦，你今天很准时。真好！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        },
+        {
+          "en": "Jiajia: I don't want to be late again!",
+          "cn": "佳佳：我不想再迟到了！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Jiajia needs a schedule",
+          "sp": "p.10"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "title": "我爱学校",
+      "icon": "🏫",
+      "color": "#4caf50",
+      "en": "What do we like about school?",
+      "vocab": [
+        {
+          "en": "Chinese",
+          "cn": "（学科）语文"
+        },
+        {
+          "en": "Maths",
+          "cn": "（学科）数学"
+        },
+        {
+          "en": "English",
+          "cn": "（学科）英语"
+        },
+        {
+          "en": "PE",
+          "cn": "（学科）体育"
+        },
+        {
+          "en": "Music",
+          "cn": "（学科）音乐"
+        },
+        {
+          "en": "Art",
+          "cn": "（学科）美术"
+        },
+        {
+          "en": "IT",
+          "cn": "（学科）信息技术"
+        },
+        {
+          "en": "Science",
+          "cn": "（学科）科学"
+        },
+        {
+          "en": "club",
+          "cn": "俱乐部；社团"
+        },
+        {
+          "en": "student",
+          "cn": "学生"
+        },
+        {
+          "en": "different",
+          "cn": "不同的"
+        },
+        {
+          "en": "subject",
+          "cn": "科目"
+        },
+        {
+          "en": "class",
+          "cn": "课；班级"
+        },
+        {
+          "en": "pig",
+          "cn": "猪"
+        },
+        {
+          "en": "timetable",
+          "cn": "时间表"
+        },
+        {
+          "en": "raise the national flag",
+          "cn": "升国旗"
+        },
+        {
+          "en": "work out",
+          "cn": "解决；算出"
+        },
+        {
+          "en": "after school",
+          "cn": "放学后"
+        },
+        {
+          "en": "put on a play",
+          "cn": "演出戏剧"
+        },
+        {
+          "en": "model plane",
+          "cn": "飞机模型"
+        },
+        {
+          "en": "school subject",
+          "cn": "学校课程"
+        },
+        {
+          "en": "first lesson",
+          "cn": "第一节课"
+        },
+        {
+          "en": "Monday mornings",
+          "cn": "星期一上午"
+        },
+        {
+          "en": "national flag",
+          "cn": "国旗"
+        },
+        {
+          "en": "work out problems",
+          "cn": "解题；算出答案"
+        },
+        {
+          "en": "draw pictures",
+          "cn": "画画"
+        },
+        {
+          "en": "swimming",
+          "cn": "游泳"
+        },
+        {
+          "en": "playing football",
+          "cn": "踢足球"
+        },
+        {
+          "en": "play ping-pong",
+          "cn": "打乒乓球"
+        },
+        {
+          "en": "play basketball",
+          "cn": "打篮球"
+        },
+        {
+          "en": "sing in music class",
+          "cn": "在音乐课上唱歌"
+        },
+        {
+          "en": "act in the play",
+          "cn": "在戏剧中表演"
+        },
+        {
+          "en": "go to different clubs",
+          "cn": "参加不同的社团"
+        },
+        {
+          "en": "eye exercises",
+          "cn": "眼保健操"
+        },
+        {
+          "en": "favourite day",
+          "cn": "最喜欢的一天"
+        },
+        {
+          "en": "number games",
+          "cn": "数字游戏"
+        },
+        {
+          "en": "abacus",
+          "cn": "算盘"
+        },
+        {
+          "en": "tell stories",
+          "cn": "讲故事"
+        },
+        {
+          "en": "bring your friends",
+          "cn": "带上你的朋友"
+        },
+        {
+          "en": "everyone is welcome",
+          "cn": "欢迎每个人"
+        },
+        {
+          "en": "police dog",
+          "cn": "警犬"
+        }
+      ],
+      "read": [
+        {
+          "en": "We all like our school!",
+          "cn": "我们都喜欢我们的学校！",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Peter is a student at Garden School.",
+          "cn": "彼得是花园小学的一名学生。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Peter and Wang Min are good friends.",
+          "cn": "彼得和王敏是好朋友。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "They like sport.",
+          "cn": "他们喜欢运动。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Peter likes swimming and Wang Min likes playing football.",
+          "cn": "彼得喜欢游泳，王敏喜欢踢足球。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Pingping: I like Monday mornings.",
+          "cn": "平平：我喜欢星期一上午。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Pingping: Every Monday, we raise the national flag.",
+          "cn": "平平：每个星期一，我们都升国旗。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaorong: I like different school subjects.",
+          "cn": "晓荣：我喜欢不同的学校科目。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaorong: I work out problems in maths class.",
+          "cn": "晓荣：我在数学课上解题。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaorong: I like drawing pictures in art class.",
+          "cn": "晓荣：我喜欢在美术课上画画。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaoyuan: We go to different clubs after school.",
+          "cn": "晓媛：放学后我们参加不同的社团。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaoyuan: I'm in the English Club.",
+          "cn": "晓媛：我在英语社团。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaoyuan: Sometimes we put on an English play.",
+          "cn": "晓媛：有时我们会演出英语戏剧。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaoyuan: My best friend, Yiyi, makes model planes in the Science Club.",
+          "cn": "晓媛：我最好的朋友依依在科学社团做飞机模型。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaoyuan: We have a lot of fun.",
+          "cn": "晓媛：我们玩得很开心。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Pingping's mum: Is there an English play this week?",
+          "cn": "平平的妈妈：这周有英语戏剧演出吗？",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaoyuan: Yes. Three Little Pigs.",
+          "cn": "晓媛：有的。是《三只小猪》。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaoyuan's dad: Does your teacher act in the play?",
+          "cn": "晓媛的爸爸：你们的老师在剧中表演吗？",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Xiaoyuan: Yes, she does. She's Mother Pig.",
+          "cn": "晓媛：是的，她演。她演猪妈妈。",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Pingping's mum: Great! I can't wait!",
+          "cn": "平平的妈妈：太棒了！我等不及了！",
+          "st": "课文 · We all like our school!",
+          "sp": "p.14–15"
+        },
+        {
+          "en": "Come and join us!",
+          "cn": "来加入我们吧！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "Do you like numbers?",
+          "cn": "你喜欢数字吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "In the Maths Club, we play many different number games.",
+          "cn": "在数学社团，我们玩许多不同的数字游戏。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "Join us this Wednesday!",
+          "cn": "这个星期三加入我们吧！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "This is an abacus.",
+          "cn": "这是一个算盘。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "Do you like sport?",
+          "cn": "你喜欢运动吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "In the Sports Club, we can run and play basketball.",
+          "cn": "在体育社团，我们可以跑步和打篮球。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "We can play ping-pong.",
+          "cn": "我们可以打乒乓球。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "We can play football too.",
+          "cn": "我们还可以踢足球。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "Please come on Friday.",
+          "cn": "请在星期五来。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "You can bring your friends!",
+          "cn": "你可以带上你的朋友！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "Do you like telling stories in Chinese or English?",
+          "cn": "你喜欢用中文或英文讲故事吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "Come and join the Drama Club.",
+          "cn": "来加入戏剧社团吧。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "Let's meet on Thursday.",
+          "cn": "我们星期四见面。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        },
+        {
+          "en": "Everyone is welcome!",
+          "cn": "欢迎每个人！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Come and join us!",
+          "sp": "p.20"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "title": "职业世界",
+      "icon": "🚒",
+      "color": "#2196f3",
+      "en": "What's great about jobs?",
+      "vocab": [
+        {
+          "en": "firefighter",
+          "cn": "消防员"
+        },
+        {
+          "en": "police officer",
+          "cn": "警察"
+        },
+        {
+          "en": "farmer",
+          "cn": "农夫；农民"
+        },
+        {
+          "en": "teacher",
+          "cn": "老师"
+        },
+        {
+          "en": "doctor",
+          "cn": "医生"
+        },
+        {
+          "en": "bus driver",
+          "cn": "公交车司机"
+        },
+        {
+          "en": "fire",
+          "cn": "火"
+        },
+        {
+          "en": "sick",
+          "cn": "生病的"
+        },
+        {
+          "en": "soup",
+          "cn": "汤"
+        },
+        {
+          "en": "Mrs",
+          "cn": "夫人；太太"
+        },
+        {
+          "en": "job",
+          "cn": "工作；职业"
+        },
+        {
+          "en": "people",
+          "cn": "人；人们"
+        },
+        {
+          "en": "know",
+          "cn": "知道"
+        },
+        {
+          "en": "dentist",
+          "cn": "牙医"
+        },
+        {
+          "en": "nurse",
+          "cn": "护士"
+        },
+        {
+          "en": "cook",
+          "cn": "厨师"
+        },
+        {
+          "en": "title",
+          "cn": "（文章、书的）标题"
+        },
+        {
+          "en": "brush your teeth",
+          "cn": "刷牙"
+        },
+        {
+          "en": "sweet food",
+          "cn": "甜食"
+        },
+        {
+          "en": "pull bad teeth out",
+          "cn": "拔掉坏牙"
+        },
+        {
+          "en": "grow fruit and vegetables",
+          "cn": "种植水果和蔬菜"
+        },
+        {
+          "en": "grow carrots",
+          "cn": "种胡萝卜"
+        },
+        {
+          "en": "put out fires",
+          "cn": "灭火"
+        },
+        {
+          "en": "keeps the city safe",
+          "cn": "保护城市安全"
+        },
+        {
+          "en": "helps sick people",
+          "cn": "帮助生病的人"
+        },
+        {
+          "en": "helps students learn",
+          "cn": "帮助学生学习"
+        },
+        {
+          "en": "drives a bus",
+          "cn": "开公共汽车"
+        },
+        {
+          "en": "ambulance",
+          "cn": "救护车"
+        },
+        {
+          "en": "fire engine",
+          "cn": "消防车"
+        },
+        {
+          "en": "fire station",
+          "cn": "消防站"
+        },
+        {
+          "en": "fire safety",
+          "cn": "消防安全"
+        },
+        {
+          "en": "uniform",
+          "cn": "制服"
+        },
+        {
+          "en": "cow",
+          "cn": "奶牛"
+        },
+        {
+          "en": "dream jobs",
+          "cn": "梦想的职业"
+        },
+        {
+          "en": "wear a white coat",
+          "cn": "穿白大褂"
+        },
+        {
+          "en": "work in Renmin Hospital",
+          "cn": "在人民医院工作"
+        },
+        {
+          "en": "wait for calls",
+          "cn": "等（报警）电话"
+        }
+      ],
+      "read": [
+        {
+          "en": "A dentist comes to school!",
+          "cn": "一位牙医来到学校！",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "Mrs Ye: Mrs Chen is here today.",
+          "cn": "叶老师：今天陈老师来到这里。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "She'll talk about her job.",
+          "cn": "她会讲讲她的工作。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "She looks after people's teeth.",
+          "cn": "她照顾人们的牙齿。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "What does she do?",
+          "cn": "她是做什么工作的？",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "Youyou: I know.",
+          "cn": "悠悠：我知道。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "She's a dentist.",
+          "cn": "她是一名牙医。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "Mrs Chen: Hello, class!",
+          "cn": "陈老师：你们好，同学们！",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "I'm a dentist.",
+          "cn": "我是一名牙医。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "I look after people's teeth.",
+          "cn": "我照顾人们的牙齿。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "You should brush your teeth twice or three times a day.",
+          "cn": "你们应该一天刷两三次牙。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "You shouldn't eat too much sweet food.",
+          "cn": "你们不应该吃太多甜食。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "Huihui: What does a dentist do every day?",
+          "cn": "辉辉：牙医每天都做什么？",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "Mrs Chen: I check people's teeth and fill holes in their teeth.",
+          "cn": "陈老师：我检查人们的牙齿，还给他们补牙。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "Sometimes I pull bad teeth out.",
+          "cn": "有时候我把坏牙拔掉。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "Tingting: Do you like your job, Mrs Chen?",
+          "cn": "婷婷：陈老师，你喜欢你的工作吗？",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "Mrs Chen: Yes, I do.",
+          "cn": "陈老师：是的，我很喜欢。",
+          "st": "课文 · A dentist comes to school!",
+          "sp": "p.24–25"
+        },
+        {
+          "en": "What's this?",
+          "cn": "这是什么？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "It's a fire engine!",
+          "cn": "它是一辆消防车！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "Do you want to sit in the fire engine?",
+          "cn": "你想坐进消防车吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "Yes!",
+          "cn": "想！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "This is a fire station.",
+          "cn": "这是一座消防站。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "There are big red fire engines at the fire station.",
+          "cn": "消防站里有红色的大消防车。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "We can see firefighters there.",
+          "cn": "我们在那里能看到消防员。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "They always wait for calls at the station.",
+          "cn": "他们总是在消防站等待报警电话。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "And they exercise every day.",
+          "cn": "而且他们每天都锻炼身体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "Firefighters put out fires.",
+          "cn": "消防员灭火。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "They help people too.",
+          "cn": "他们也帮助人们。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        },
+        {
+          "en": "Mr Wang teaches us about fire safety.",
+          "cn": "王先生教我们消防安全知识。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · At the fire station",
+          "sp": "p.30"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "title": "音乐之声",
+      "icon": "🎻",
+      "color": "#9c27b0",
+      "en": "How can we make music?",
+      "vocab": [
+        {
+          "en": "triangle",
+          "cn": "三角铁（打击乐器）"
+        },
+        {
+          "en": "violin",
+          "cn": "小提琴"
+        },
+        {
+          "en": "piano",
+          "cn": "钢琴"
+        },
+        {
+          "en": "guitar",
+          "cn": "吉他"
+        },
+        {
+          "en": "erhu",
+          "cn": "二胡"
+        },
+        {
+          "en": "flute",
+          "cn": "长笛"
+        },
+        {
+          "en": "pipa",
+          "cn": "琵琶"
+        },
+        {
+          "en": "drum",
+          "cn": "鼓"
+        },
+        {
+          "en": "woman",
+          "cn": "成年女子；妇女"
+        },
+        {
+          "en": "concert",
+          "cn": "音乐会"
+        },
+        {
+          "en": "think",
+          "cn": "思考；想到（主意）"
+        },
+        {
+          "en": "clever",
+          "cn": "聪明的"
+        },
+        {
+          "en": "idea",
+          "cn": "想法"
+        },
+        {
+          "en": "jar",
+          "cn": "广口瓶"
+        },
+        {
+          "en": "them",
+          "cn": "他们；她们；它们"
+        },
+        {
+          "en": "these",
+          "cn": "这些"
+        },
+        {
+          "en": "bucket",
+          "cn": "桶"
+        },
+        {
+          "en": "pot",
+          "cn": "锅"
+        },
+        {
+          "en": "hit",
+          "cn": "打；击"
+        },
+        {
+          "en": "beautiful",
+          "cn": "美妙的；漂亮的"
+        },
+        {
+          "en": "clap",
+          "cn": "鼓掌"
+        },
+        {
+          "en": "musical instrument",
+          "cn": "乐器"
+        },
+        {
+          "en": "join our school concert",
+          "cn": "参加学校的音乐会"
+        },
+        {
+          "en": "make some musical instruments",
+          "cn": "制作一些乐器"
+        },
+        {
+          "en": "play together",
+          "cn": "一起演奏"
+        },
+        {
+          "en": "get a great idea",
+          "cn": "想出一个好主意"
+        },
+        {
+          "en": "use jars and candies",
+          "cn": "使用广口瓶和糖果"
+        },
+        {
+          "en": "shake",
+          "cn": "摇晃（shake → shaking）"
+        },
+        {
+          "en": "sound",
+          "cn": "听起来（The sound is nice. / don't sound beautiful）"
+        },
+        {
+          "en": "blow",
+          "cn": "吹（We blow it to make sounds.）"
+        },
+        {
+          "en": "have fun",
+          "cn": "玩得开心（We're all having fun!）"
+        },
+        {
+          "en": "sing by myself",
+          "cn": "独自唱歌"
+        },
+        {
+          "en": "sing in a group",
+          "cn": "小组合唱"
+        },
+        {
+          "en": "both",
+          "cn": "两个都（We're both having fun!）"
+        },
+        {
+          "en": "people",
+          "cn": "人们"
+        },
+        {
+          "en": "wonderful",
+          "cn": "精彩的；绝妙的（What a wonderful concert!）"
+        }
+      ],
+      "read": [
+        {
+          "en": "I don't have a drum.",
+          "cn": "我没有鼓。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "You can buy a drum.",
+          "cn": "你可以买一面鼓。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "I'm Maddie, and we're students in Mrs King's class.",
+          "cn": "我是麦迪，我们是金老师班上的学生。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We want to join our school concert.",
+          "cn": "我们想参加学校的音乐会。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "But we can't play the piano, violin or guitar.",
+          "cn": "可是我们不会弹钢琴、小提琴或吉他。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We think and think, and then get a great idea.",
+          "cn": "我们想了又想，然后有了一个好主意。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We can make some musical instruments and play together.",
+          "cn": "我们可以做一些乐器，一起演奏。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "Isn't it a clever idea?",
+          "cn": "这难道不是一个聪明的主意吗？",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We're using jars and candies.",
+          "cn": "我们正在用广口瓶和糖果。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "Oscar and Fay are shaking them.",
+          "cn": "奥斯卡和费伊正在摇晃它们。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "These buckets and pots are our drums.",
+          "cn": "这些水桶和锅就是我们的鼓。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "Craig, Sara and Dan are hitting them.",
+          "cn": "克雷格、萨拉和丹正在敲打它们。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We don't sound beautiful together.",
+          "cn": "我们合起来听起来并不美妙。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "Mrs King helps us.",
+          "cn": "金老师帮助了我们。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "It's the evening of the concert.",
+          "cn": "那是音乐会的晚上。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "We're all having fun!",
+          "cn": "我们都玩得很开心！",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "People are clapping their hands.",
+          "cn": "人们正在鼓掌。",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "What a wonderful concert!",
+          "cn": "多么精彩的音乐会啊！",
+          "st": "课文 · Let's make music!",
+          "sp": "p.34–35"
+        },
+        {
+          "en": "There are many different musical instruments.",
+          "cn": "有许多不同的乐器。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "What do you know about them?",
+          "cn": "你对它们了解多少？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "Do you know this musical instrument?",
+          "cn": "你认识这种乐器吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "It is a flute.",
+          "cn": "它是一支长笛。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "We blow it to make sounds.",
+          "cn": "我们吹奏它来发出声音。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "This is a triangle.",
+          "cn": "这是一个三角铁。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "The boy is hitting the triangle.",
+          "cn": "这个男孩正在敲击三角铁。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "The sound is nice.",
+          "cn": "它的声音很好听。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "Here are the drums.",
+          "cn": "这些是鼓。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "People can play the drums together.",
+          "cn": "人们可以一起敲鼓。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        },
+        {
+          "en": "Can you play any musical instruments?",
+          "cn": "你会演奏什么乐器吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Different musical instruments",
+          "sp": "p.40"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "title": "美术创作",
+      "icon": "🎨",
+      "color": "#8bc34a",
+      "en": "How do we make art?",
+      "vocab": [
+        {
+          "en": "photo",
+          "cn": "照片"
+        },
+        {
+          "en": "paper-cut",
+          "cn": "剪纸"
+        },
+        {
+          "en": "painting",
+          "cn": "绘画；画作"
+        },
+        {
+          "en": "circle",
+          "cn": "圆形"
+        },
+        {
+          "en": "triangle",
+          "cn": "三角形"
+        },
+        {
+          "en": "square",
+          "cn": "正方形；正方形的"
+        },
+        {
+          "en": "star",
+          "cn": "星星；星形物"
+        },
+        {
+          "en": "rectangle",
+          "cn": "矩形；长方形"
+        },
+        {
+          "en": "clock",
+          "cn": "钟"
+        },
+        {
+          "en": "shape",
+          "cn": "形状"
+        },
+        {
+          "en": "side",
+          "cn": "边"
+        },
+        {
+          "en": "corner",
+          "cn": "角"
+        },
+        {
+          "en": "ask",
+          "cn": "问"
+        },
+        {
+          "en": "tiger",
+          "cn": "老虎"
+        },
+        {
+          "en": "say",
+          "cn": "说"
+        },
+        {
+          "en": "art",
+          "cn": "艺术；美术"
+        },
+        {
+          "en": "art club",
+          "cn": "艺术社团"
+        },
+        {
+          "en": "art around us",
+          "cn": "身边的艺术"
+        },
+        {
+          "en": "make art with shapes",
+          "cn": "用形状创作艺术品"
+        },
+        {
+          "en": "make a paper-cut",
+          "cn": "做一张剪纸"
+        },
+        {
+          "en": "take photos",
+          "cn": "拍照"
+        },
+        {
+          "en": "paint a picture",
+          "cn": "画一幅画"
+        },
+        {
+          "en": "painting pictures",
+          "cn": "画画（绘画作品）"
+        },
+        {
+          "en": "making models",
+          "cn": "制作模型"
+        },
+        {
+          "en": "leaves",
+          "cn": "树叶（leaf 的复数）"
+        },
+        {
+          "en": "body",
+          "cn": "身体（the tiger's body 老虎的身体）"
+        },
+        {
+          "en": "like a ball",
+          "cn": "像一个球"
+        },
+        {
+          "en": "rabbit",
+          "cn": "兔子"
+        },
+        {
+          "en": "wonderful",
+          "cn": "太棒了；精彩的"
+        },
+        {
+          "en": "beautiful",
+          "cn": "美妙的；漂亮的"
+        },
+        {
+          "en": "guessing game",
+          "cn": "猜谜游戏"
+        },
+        {
+          "en": "stand up",
+          "cn": "站起来"
+        },
+        {
+          "en": "run around",
+          "cn": "跑来跑去"
+        },
+        {
+          "en": "peel off",
+          "cn": "撕下"
+        },
+        {
+          "en": "wallpaper",
+          "cn": "墙纸"
+        },
+        {
+          "en": "wake up",
+          "cn": "醒来"
+        },
+        {
+          "en": "smile",
+          "cn": "微笑"
+        }
+      ],
+      "read": [
+        {
+          "en": "Art is all around us.",
+          "cn": "艺术就在我们身边。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "We can make art with leaves.",
+          "cn": "我们可以用树叶来创作艺术。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "We can find some leaves and put them on paper.",
+          "cn": "我们可以找一些树叶，把它们贴在纸上。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "Look! Here is a picture of a bird.",
+          "cn": "看！这里有一幅小鸟的图画。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "It is cute.",
+          "cn": "它很可爱。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "Shapes are all around us.",
+          "cn": "形状就在我们身边。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "A square has four sides and four corners.",
+          "cn": "正方形有四条边和四个角。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "A rectangle also has four sides and four corners.",
+          "cn": "长方形也有四条边和四个角。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "A triangle has three sides and three corners.",
+          "cn": "三角形有三条边和三个角。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "A circle does not have corners.",
+          "cn": "圆形没有角。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "Every shape is special.",
+          "cn": "每个形状都很特别。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "Come and make art with shapes!",
+          "cn": "来用形状创作艺术吧！",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "The students are making art with shapes.",
+          "cn": "学生们正在用形状创作艺术品。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "“What are you doing, Xiaotian? Are you making a paper-cut?” asks Xiaoqi.",
+          "cn": "“你在做什么，小天？你在做剪纸吗？”小琪问。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "“Yes. It’s a tiger. Look at the rectangle. It’s the tiger’s body,” says Xiaotian.",
+          "cn": "“是的。它是一只老虎。看这个长方形，它是老虎的身体。”小天说。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "“Is Xiaole painting?” asks Xiaotian.",
+          "cn": "“小乐在画画吗？”小天问。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "“Yes. She’s painting circles,” says Xiaoqi.",
+          "cn": "“是的。她在画圆形。”小琪说。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "“Wonderful!” says Xiaotian.",
+          "cn": "“太棒了！”小天说。",
+          "st": "课文 · Shapes in art",
+          "sp": "p.44–46"
+        },
+        {
+          "en": "It is bedtime.",
+          "cn": "该睡觉了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "Yuanyuan is making animal paper-cuts.",
+          "cn": "圆圆正在做动物剪纸。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "Suddenly, the green sheep stands up and runs around!",
+          "cn": "突然，绿色的绵羊站起来到处跑！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "Sheep: Welcome to the world of paper-cuts!",
+          "cn": "绵羊：欢迎来到剪纸的世界！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "Yuanyuan: You can talk!",
+          "cn": "圆圆：你会说话！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "The Chinese dragon flies around the room.",
+          "cn": "中国龙绕着房间飞。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "Yuanyuan: Hello, Dragon!",
+          "cn": "圆圆：你好，龙！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "Chinese dragon: Good evening!",
+          "cn": "中国龙：晚上好！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "The monkey starts to peel off the wallpaper!",
+          "cn": "猴子开始把墙纸撕下来！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "Yuanyuan: Stop that, Monkey!",
+          "cn": "圆圆：住手，猴子！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "Dragon and Sheep, help me!",
+          "cn": "龙和绵羊，帮帮我！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "The Chinese dragon and the sheep catch the monkey.",
+          "cn": "中国龙和绵羊抓住了猴子。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "Yuanyuan wakes up.",
+          "cn": "圆圆醒了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "She looks at the paper-cuts on the wall.",
+          "cn": "她看着墙上的剪纸。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        },
+        {
+          "en": "She smiles.",
+          "cn": "她笑了。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · The world of paper-cuts",
+          "sp": "p.50"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "title": "时间计量",
+      "icon": "⏱️",
+      "color": "#03a9f4",
+      "en": "How do we measure time?",
+      "vocab": [
+        {
+          "en": "day",
+          "cn": "天；白昼；白天"
+        },
+        {
+          "en": "night",
+          "cn": "夜晚；晚上"
+        },
+        {
+          "en": "hour",
+          "cn": "小时"
+        },
+        {
+          "en": "minute",
+          "cn": "分钟"
+        },
+        {
+          "en": "second",
+          "cn": "秒"
+        },
+        {
+          "en": "month",
+          "cn": "月；月份"
+        },
+        {
+          "en": "year",
+          "cn": "年"
+        },
+        {
+          "en": "measure",
+          "cn": "测量"
+        },
+        {
+          "en": "question",
+          "cn": "问题"
+        },
+        {
+          "en": "around",
+          "cn": "围绕；环绕"
+        },
+        {
+          "en": "exercise",
+          "cn": "运动；锻炼"
+        },
+        {
+          "en": "get ready",
+          "cn": "准备好"
+        },
+        {
+          "en": "at the same time",
+          "cn": "同时"
+        },
+        {
+          "en": "o'clock",
+          "cn": "……点钟"
+        },
+        {
+          "en": "a.m.",
+          "cn": "上午"
+        },
+        {
+          "en": "p.m.",
+          "cn": "下午"
+        },
+        {
+          "en": "half past eleven",
+          "cn": "十一点半"
+        },
+        {
+          "en": "different",
+          "cn": "不同的"
+        },
+        {
+          "en": "travel",
+          "cn": "旅行；行进"
+        },
+        {
+          "en": "dream",
+          "cn": "梦；梦想"
+        },
+        {
+          "en": "caption",
+          "cn": "说明文字；图片说明"
+        },
+        {
+          "en": "sundial",
+          "cn": "日晷"
+        },
+        {
+          "en": "hourglass",
+          "cn": "沙漏"
+        },
+        {
+          "en": "shadow",
+          "cn": "影子"
+        },
+        {
+          "en": "clock",
+          "cn": "钟"
+        },
+        {
+          "en": "get ready for school",
+          "cn": "为上学做好准备"
+        },
+        {
+          "en": "do exercise",
+          "cn": "做运动"
+        },
+        {
+          "en": "family time",
+          "cn": "家庭时光"
+        }
+      ],
+      "read": [
+        {
+          "en": "What time is it? That is a good question!",
+          "cn": "现在几点了？这是个好问题！",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "A day has 24 hours.",
+          "cn": "一天有24小时。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "One hour has 60 minutes.",
+          "cn": "一小时有60分钟。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "One minute has 60 seconds.",
+          "cn": "一分钟有60秒。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "People in different countries may have different time.",
+          "cn": "不同国家的人们可能有着不同的时间。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "The sun comes up and goes down every day.",
+          "cn": "太阳每天升起又落下。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "It is seven o'clock in the morning in Beijing.",
+          "cn": "北京现在是早上七点。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "Children are getting ready for school.",
+          "cn": "孩子们正在为上学做准备。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "Some people are going to the park to do exercise.",
+          "cn": "一些人正去公园锻炼。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "Some people are travelling to work.",
+          "cn": "一些人正赶着去上班。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "But in other places, the time is different.",
+          "cn": "但在其他地方，时间是不同的。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "What are people doing at the same time?",
+          "cn": "同一时刻，人们正在做什么呢？",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "It is eleven o'clock in London.",
+          "cn": "伦敦现在是十一点。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "Many people are sleeping.",
+          "cn": "许多人正在睡觉。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "Good night!",
+          "cn": "晚安！",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "Sweet dreams!",
+          "cn": "好梦！",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "In New York, people are having dinner.",
+          "cn": "在纽约，人们正在吃晚饭。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "It is family time.",
+          "cn": "这是家庭时光。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "What time is it now in London?",
+          "cn": "伦敦现在几点了？",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "It's eight o'clock in the morning.",
+          "cn": "现在是早上八点。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "I'm having breakfast.",
+          "cn": "我正在吃早饭。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "What are you doing now?",
+          "cn": "你现在在做什么？",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "I'm having lunch.",
+          "cn": "我正在吃午饭。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "I'm sleeping.",
+          "cn": "我正在睡觉。",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "Bye!",
+          "cn": "再见！",
+          "st": "课文 · What time is it?",
+          "sp": "p.54–57"
+        },
+        {
+          "en": "Can you tell the time without a clock?",
+          "cn": "没有钟，你能说出时间吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "In the past, we used different things to tell the time.",
+          "cn": "过去，人们用不同的东西来判断时间。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "This is a sundial.",
+          "cn": "这是日晷。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "The sun makes a shadow on the sundial, and the shadow tells the time.",
+          "cn": "太阳在日晷上投下影子，影子告诉我们时间。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "But it cannot help us on a cloudy day.",
+          "cn": "但在阴天它帮不上忙。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "This is an hourglass.",
+          "cn": "这是沙漏。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "The sand in it falls down.",
+          "cn": "里面的沙子往下落。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "It can count down the time.",
+          "cn": "它可以倒计时。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "Later, people used clocks and watches to tell the time.",
+          "cn": "后来，人们用钟表来报时。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "We still use them today.",
+          "cn": "今天我们仍然在用它们。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "Look!",
+          "cn": "看！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "Why is the bird singing?",
+          "cn": "小鸟为什么在唱歌？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "What's it doing?",
+          "cn": "它在干什么？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "It's telling the time.",
+          "cn": "它在报时。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        },
+        {
+          "en": "It sings every hour.",
+          "cn": "它每小时唱一次。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Keeping up with time",
+          "sp": "p.60"
+        }
+      ]
+    },
+    {
+      "name": "Unit 7",
+      "title": "物质变化",
+      "icon": "🍦",
+      "color": "#ff5722",
+      "en": "How do things change?",
+      "vocab": [
+        {
+          "en": "liquid",
+          "cn": "液体"
+        },
+        {
+          "en": "solid",
+          "cn": "固体"
+        },
+        {
+          "en": "gas",
+          "cn": "气体"
+        },
+        {
+          "en": "sugar",
+          "cn": "食糖"
+        },
+        {
+          "en": "salt",
+          "cn": "盐;食盐"
+        },
+        {
+          "en": "cream",
+          "cn": "奶油"
+        },
+        {
+          "en": "melt",
+          "cn": "(使)熔化;融化"
+        },
+        {
+          "en": "steam",
+          "cn": "水蒸气"
+        },
+        {
+          "en": "heat",
+          "cn": "加热"
+        },
+        {
+          "en": "hungry",
+          "cn": "感到饿的"
+        },
+        {
+          "en": "party",
+          "cn": "聚会;派对"
+        },
+        {
+          "en": "ice cream",
+          "cn": "冰淇淋"
+        },
+        {
+          "en": "freezer",
+          "cn": "冰柜"
+        },
+        {
+          "en": "door",
+          "cn": "门"
+        },
+        {
+          "en": "open",
+          "cn": "开着的;敞开的"
+        },
+        {
+          "en": "plastic",
+          "cn": "塑料的"
+        },
+        {
+          "en": "mix",
+          "cn": "(使)混合"
+        },
+        {
+          "en": "put",
+          "cn": "放"
+        },
+        {
+          "en": "mixture",
+          "cn": "混合物"
+        },
+        {
+          "en": "chocolate",
+          "cn": "巧克力"
+        },
+        {
+          "en": "shake",
+          "cn": "摇动"
+        },
+        {
+          "en": "freeze",
+          "cn": "结冰;冻住"
+        },
+        {
+          "en": "cause",
+          "cn": "原因"
+        },
+        {
+          "en": "effect",
+          "cn": "结果"
+        },
+        {
+          "en": "change into",
+          "cn": "变成"
+        },
+        {
+          "en": "boil / boiling",
+          "cn": "沸腾"
+        },
+        {
+          "en": "warm",
+          "cn": "暖和的"
+        },
+        {
+          "en": "thirsty",
+          "cn": "口渴的"
+        },
+        {
+          "en": "add",
+          "cn": "加;放入"
+        },
+        {
+          "en": "cut",
+          "cn": "切;剪"
+        },
+        {
+          "en": "wash",
+          "cn": "洗"
+        },
+        {
+          "en": "taste",
+          "cn": "尝起来"
+        },
+        {
+          "en": "smell",
+          "cn": "闻起来"
+        },
+        {
+          "en": "food",
+          "cn": "食物"
+        },
+        {
+          "en": "lemon tea",
+          "cn": "柠檬茶"
+        },
+        {
+          "en": "chicken soup",
+          "cn": "鸡汤"
+        },
+        {
+          "en": "tomato and egg soup",
+          "cn": "西红柿蛋汤"
+        },
+        {
+          "en": "freezer door",
+          "cn": "冰柜门"
+        },
+        {
+          "en": "plastic bag",
+          "cn": "塑料袋"
+        },
+        {
+          "en": "school party",
+          "cn": "学校聚会"
+        },
+        {
+          "en": "make some more",
+          "cn": "再做一些"
+        }
+      ],
+      "read": [
+        {
+          "en": "Mrs Tan: Today is our school party. Let's get the ice cream. It's in the freezer.",
+          "cn": "谭老师：今天是我们的学校聚会。我们去拿冰淇淋吧。它在冰柜里。",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Lu Hang: Oh no! The freezer door is open.",
+          "cn": "陆航：哦不！冰柜门开着。",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Jia Li: Look at the ice cream!",
+          "cn": "贾丽：看看这冰淇淋！",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Mrs Tan: Now there's no ice cream for the party.",
+          "cn": "谭老师：现在没有冰淇淋给聚会了。",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Mr Gao: Shall we make some more?",
+          "cn": "高老师：我们再做些好吗？",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Students: Sure! But how?",
+          "cn": "学生们：当然！可是怎么做呢？",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Mr Gao: Don't worry! I can teach you.",
+          "cn": "高老师：别担心！我可以教你们。",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Students: Great!",
+          "cn": "学生们：太好了！",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Mr Gao: OK, kids. Get some big and small plastic bags. Then come to the classroom.",
+          "cn": "高老师：好的，孩子们。拿一些大的和小的塑料袋，然后到教室来。",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Mr Gao: I have ice. I have cream, sugar and salt.",
+          "cn": "高老师：我有冰。我有奶油、糖和盐。",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Ma Tao: What shall we do?",
+          "cn": "马涛：我们该做什么？",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Mr Gao: Mix the sugar and cream. Then put the mixture in a small bag.",
+          "cn": "高老师：把糖和奶油混合起来，然后把混合物放进一个小袋子里。",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Students: Done!",
+          "cn": "学生们：做好了！",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Mrs Tan: Let's add some chocolate.",
+          "cn": "谭老师：我们加一些巧克力吧。",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Students: Good idea!",
+          "cn": "学生们：好主意！",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Mr Gao: Look! I'm putting salt and ice in the big bag. I'm putting the small bag in it too. Now shake, shake, shake!",
+          "cn": "高老师：看！我在大袋子里放盐和冰。我也把小袋子放进去。现在摇啊摇！",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Ma Tao: The ice is freezing the mixture!",
+          "cn": "马涛：冰正在冻住混合物！",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Jia Li: Look! We have ice cream!",
+          "cn": "贾丽：看！我们有冰淇淋了！",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Mr Gao: How's the ice cream, kids?",
+          "cn": "高老师：孩子们，冰淇淋怎么样？",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "Students: It's great! Can we have some more?",
+          "cn": "学生们：太棒了！我们能再吃一点儿吗？",
+          "st": "课文 · Let's make ice cream!",
+          "sp": "p.64–65"
+        },
+        {
+          "en": "What is our world made of?",
+          "cn": "我们的世界由什么构成？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "Everything in our world is a solid, liquid or gas.",
+          "cn": "我们世界里的一切不是固体、液体，就是气体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "Ice and metal are solids.",
+          "cn": "冰和金属是固体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "Water and milk are liquids.",
+          "cn": "水和牛奶是液体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "Air and steam are gases.",
+          "cn": "空气和水蒸气是气体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "But things change.",
+          "cn": "但事物会变化。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "The ice is a solid.",
+          "cn": "冰是固体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "Now it's melting.",
+          "cn": "现在它正在融化。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "It's changing into a liquid.",
+          "cn": "它正在变成液体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "The water is a liquid.",
+          "cn": "水是液体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "Now it's freezing.",
+          "cn": "现在它正在结冰。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "It's changing into a solid.",
+          "cn": "它正在变成固体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "The water is a liquid.",
+          "cn": "水是液体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "Now it's boiling.",
+          "cn": "现在它正在沸腾。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        },
+        {
+          "en": "It's changing into a gas.",
+          "cn": "它正在变成气体。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · What is our world made of?",
+          "sp": "p.70"
+        }
+      ]
+    },
+    {
+      "name": "Unit 8",
+      "title": "与人相处",
+      "icon": "🤝",
+      "color": "#673ab7",
+      "en": "How do people get along with each other?",
+      "vocab": [
+        {
+          "en": "polite",
+          "cn": "有礼貌的"
+        },
+        {
+          "en": "take turns",
+          "cn": "轮流"
+        },
+        {
+          "en": "knock",
+          "cn": "敲击"
+        },
+        {
+          "en": "ox",
+          "cn": "公牛"
+        },
+        {
+          "en": "until",
+          "cn": "直到……为止"
+        },
+        {
+          "en": "someone",
+          "cn": "某人"
+        },
+        {
+          "en": "invite",
+          "cn": "邀请"
+        },
+        {
+          "en": "behind",
+          "cn": "在……之后"
+        },
+        {
+          "en": "maybe",
+          "cn": "（不确定）大概，可能"
+        },
+        {
+          "en": "cry",
+          "cn": "哭泣"
+        },
+        {
+          "en": "kind",
+          "cn": "友善的"
+        },
+        {
+          "en": "honey",
+          "cn": "蜂蜜"
+        },
+        {
+          "en": "joke",
+          "cn": "笑话；玩笑"
+        },
+        {
+          "en": "whatever",
+          "cn": "无论什么"
+        },
+        {
+          "en": "another",
+          "cn": "另一个"
+        },
+        {
+          "en": "helpful",
+          "cn": "愿意帮忙的"
+        },
+        {
+          "en": "way",
+          "cn": "方法；方式"
+        },
+        {
+          "en": "share",
+          "cn": "分享"
+        },
+        {
+          "en": "get along with",
+          "cn": "与……相处"
+        },
+        {
+          "en": "each other",
+          "cn": "互相；彼此"
+        },
+        {
+          "en": "wait",
+          "cn": "等待"
+        },
+        {
+          "en": "go in",
+          "cn": "进去"
+        },
+        {
+          "en": "sleep",
+          "cn": "睡觉"
+        },
+        {
+          "en": "sad",
+          "cn": "难过的"
+        },
+        {
+          "en": "funny",
+          "cn": "好笑的"
+        },
+        {
+          "en": "toy",
+          "cn": "玩具"
+        },
+        {
+          "en": "wear",
+          "cn": "穿；戴"
+        },
+        {
+          "en": "be kind to others",
+          "cn": "对他人友善"
+        },
+        {
+          "en": "school rules",
+          "cn": "校规"
+        },
+        {
+          "en": "teachers' office",
+          "cn": "教师办公室"
+        },
+        {
+          "en": "knock on the door",
+          "cn": "敲门"
+        },
+        {
+          "en": "take turns to play",
+          "cn": "轮流玩"
+        },
+        {
+          "en": "make a card",
+          "cn": "制作贺卡"
+        },
+        {
+          "en": "coloured pencils",
+          "cn": "彩色铅笔"
+        },
+        {
+          "en": "borrow things",
+          "cn": "借东西"
+        },
+        {
+          "en": "look after",
+          "cn": "照顾"
+        },
+        {
+          "en": "work together",
+          "cn": "一起合作"
+        },
+        {
+          "en": "have fun",
+          "cn": "玩得开心"
+        },
+        {
+          "en": "do chores",
+          "cn": "做家务"
+        },
+        {
+          "en": "pick up rubbish",
+          "cn": "捡垃圾"
+        },
+        {
+          "en": "help the old people",
+          "cn": "帮助老人"
+        },
+        {
+          "en": "classmate",
+          "cn": "同班同学"
+        }
+      ],
+      "read": [
+        {
+          "en": "What does the ox always do?",
+          "cn": "公牛总是做什么？",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "The ox always knocks.",
+          "cn": "公牛总是敲门。",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "He waits to go in until someone invites him.",
+          "cn": "他等着进去，直到有人邀请他。",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "What are they doing behind that door?",
+          "cn": "他们在那扇门后面做什么？",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "Maybe they're sleeping, or sad and crying.",
+          "cn": "也许他们在睡觉，或者正难过地哭泣。",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "So the ox always asks, \"May I come in?\"",
+          "cn": "所以公牛总是问：“我可以进来吗？”",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "And everyone says, \"How kind of him!\"",
+          "cn": "大家都说：“他真友善！”",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "Bears share their toys.",
+          "cn": "熊分享它们的玩具。",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "Bears share their honey.",
+          "cn": "熊分享它们的蜂蜜。",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "Bears share a joke.",
+          "cn": "熊分享一个笑话。",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "They think it's funny.",
+          "cn": "它们觉得这很好笑。",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "Whatever they do, whatever they wear, they're always sharing with another bear.",
+          "cn": "无论它们做什么，无论它们穿什么，它们总是和另一只熊分享。",
+          "st": "课文 · Poems about being polite",
+          "sp": "p.74–75"
+        },
+        {
+          "en": "How do you get along with people around you?",
+          "cn": "你怎样与身边的人相处？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "Many families act like a team.",
+          "cn": "许多家庭像一个团队一样行动。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "Family members always work together.",
+          "cn": "家庭成员总是共同劳动。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "They do chores together.",
+          "cn": "他们一起做家务。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "They look after each other.",
+          "cn": "他们互相照顾。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "They ask about each other’s day.",
+          "cn": "他们会询问彼此一天过得怎么样。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "They have fun together.",
+          "cn": "他们在一起玩得很开心。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "What is your family like?",
+          "cn": "你的家庭是什么样的？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "At school, you work with your teachers and classmates like a team.",
+          "cn": "在学校里，你和老师、同学像一个团队一样合作。",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "Are your classmates polite and kind?",
+          "cn": "你的同学有礼貌、友善吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "Do you share your things?",
+          "cn": "你会分享你的东西吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "Do you say “please”, “excuse me” and “thank you”?",
+          "cn": "你会说“please”“excuse me”和“thank you”吗？",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        },
+        {
+          "en": "These things make your day!",
+          "cn": "这些事情让你开心一整天！",
+          "sec": "拓展阅读",
+          "st": "拓展阅读 · Act like a team!",
+          "sp": "p.80"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "1": [
+      {
+        "type": "单词",
+        "q": "get up 的意思是？",
+        "options": [
+          "睡觉",
+          "上学",
+          "起床",
+          "回家"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "go to school 的意思是？",
+        "options": [
+          "上学",
+          "吃午餐",
+          "回家",
+          "起床"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "have dinner 的意思是？",
+        "options": [
+          "吃早餐",
+          "吃午餐",
+          "睡觉",
+          "吃晚餐"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "daily 的意思是？",
+        "options": [
+          "日程安排",
+          "每日的；日常的",
+          "通常的",
+          "重要的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "quarter 在词表中的意思是？",
+        "options": [
+          "半小时",
+          "15分钟；一刻钟",
+          "一小时",
+          "三分钟"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "draw 的意思是？",
+        "options": [
+          "读",
+          "写",
+          "唱",
+          "画"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "brush my teeth 的意思是？",
+        "options": [
+          "刷牙",
+          "洗脸",
+          "洗手",
+          "梳头"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“睡觉”用英语说是？",
+        "options": [
+          "go to bed",
+          "go home",
+          "get up",
+          "go to school"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“吃午餐”用英语说是？",
+        "options": [
+          "have breakfast",
+          "have dinner",
+          "have lunch",
+          "have a rest"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“日程安排”用英语说是？",
+        "options": [
+          "daily",
+          "quarter",
+          "schedule",
+          "lesson"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“（时间）……点半”用英语说是？",
+        "options": [
+          "quarter",
+          "o'clock",
+          "half",
+          "little"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "“（表示整点）……点钟”用英语说是？",
+        "options": [
+          "half",
+          "little",
+          "quarter",
+          "o'clock"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "“洗脸”用英语说是？",
+        "options": [
+          "wash my face",
+          "brush my teeth",
+          "wash my hands",
+          "wash the dishes"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "“晚安，孩子们！”用英语说是？",
+        "options": [
+          "Good morning, kids!",
+          "Goodbye, kids!",
+          "Good night, kids!",
+          "Hello, kids!"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "—______ does Ann get up? —She gets up at a quarter to seven.",
+        "options": [
+          "What",
+          "What time",
+          "Where",
+          "Who"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "Li Ming ______ to school at half past seven every day.",
+        "options": [
+          "goes",
+          "going",
+          "go",
+          "gone"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "She ______ up at a quarter to seven.",
+        "options": [
+          "getting",
+          "gets",
+          "get",
+          "got"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "______ Zhang is my English teacher. She goes to school at 7:10 a.m.",
+        "options": [
+          "Mr",
+          "Mrs",
+          "Ms",
+          "Miss"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "We go to bed ______ nine o'clock.",
+        "options": [
+          "in",
+          "on",
+          "of",
+          "at"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "I have four lessons ______ the morning.",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "Li Liang likes ______ pictures.",
+        "options": [
+          "draw",
+          "draws",
+          "drawing",
+          "drew"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Miss Zhang usually ______ three lessons a day.",
+        "options": [
+          "give",
+          "to give",
+          "giving",
+          "gives"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "My ______ brother Li Liang gets up at eight o'clock.",
+        "options": [
+          "small",
+          "little",
+          "tall",
+          "long"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "I ______ home at a quarter to five.",
+        "options": [
+          "gets",
+          "getting",
+          "got",
+          "get"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "你想知道英语老师几点到校，应该问：",
+        "options": [
+          "What time does your English teacher go to school?",
+          "Where does your English teacher go to school?",
+          "What time is your English teacher?",
+          "How does your English teacher go to school?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "向全班汇报你英语老师的一天，应该说：",
+        "options": [
+          "What time do you get up every day?",
+          "... is my English teacher. He/She gets up at ... He/She ... at ...",
+          "Do you like your English teacher?",
+          "He/She get up at six o'clock."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "在 play 和 blue 中，字母组合 pl 和 bl 的发音分别是：",
+        "options": [
+          "/bl/ 和 /pl/",
+          "/p/ 和 /b/",
+          "/pl/ 和 /bl/",
+          "/pl/ 和 /l/"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "语音",
+        "q": "单词 please 中字母组合 pl 的发音是：",
+        "options": [
+          "/bl/",
+          "/pl/",
+          "/fl/",
+          "/kl/"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "have breakfast",
+        "cn": "吃早餐"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "go home",
+        "cn": "回家"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "drink",
+        "cn": "喝；饮"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "lesson",
+        "cn": "课"
+      }
+    ],
+    "2": [
+      {
+        "type": "单词",
+        "q": "「Maths」的中文意思是什么？",
+        "options": [
+          "数学",
+          "语文",
+          "英语",
+          "科学"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "「Science」的中文意思是什么？",
+        "options": [
+          "美术",
+          "体育",
+          "信息技术",
+          "科学"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「club」的中文意思是什么？",
+        "options": [
+          "时间表",
+          "俱乐部；社团",
+          "学生",
+          "科目"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「timetable」的中文意思是什么？",
+        "options": [
+          "科目",
+          "课；班级",
+          "猪",
+          "时间表"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「different」的中文意思是什么？",
+        "options": [
+          "不同的",
+          "学生",
+          "猪",
+          "语文"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "「model plane」的中文意思是什么？",
+        "options": [
+          "升国旗",
+          "演出戏剧",
+          "飞机模型",
+          "放学后"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "「语文（学科）」的英文是？",
+        "options": [
+          "English",
+          "Chinese",
+          "Music",
+          "Art"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「体育（学科）」的英文是？",
+        "options": [
+          "PE",
+          "IT",
+          "Science",
+          "Maths"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "「学生」的英文是？",
+        "options": [
+          "subject",
+          "class",
+          "student",
+          "club"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "「猪」的英文是？",
+        "options": [
+          "picture",
+          "plane",
+          "people",
+          "pig"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「升国旗」的英文是？",
+        "options": [
+          "put on a play",
+          "raise the national flag",
+          "work out",
+          "after school"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「太棒了！」的英文是？",
+        "options": [
+          "Good night!",
+          "Hurry up!",
+          "Great!",
+          "Thank you!"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "补全句子：Does she like ____? — No, she doesn't.",
+        "options": [
+          "paint",
+          "paints",
+          "painting",
+          "painted"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "— Does Xiaorong have an art class on Wednesday morning? — ____",
+        "options": [
+          "Yes, he does.",
+          "Yes, he is.",
+          "Yes, he has.",
+          "No, he doesn't like it."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "补全句子：____ Jay have English today? — Yes, he does.",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "Peter likes swimming and Wang Min likes ____.",
+        "options": [
+          "play football",
+          "plays football",
+          "played football",
+          "playing football"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "— Does your teacher act in the play? — ____ She's Mother Pig.",
+        "options": [
+          "Yes, she is.",
+          "Yes, she does.",
+          "No, she doesn't.",
+          "Yes, she can."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "I like ____ pictures in art class.",
+        "options": [
+          "draw",
+          "draws",
+          "drawing",
+          "drew"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "We ____ a lot of fun in the clubs after school.",
+        "options": [
+          "has",
+          "having",
+          "is having",
+          "have"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "— What ____ Xiaorong like about school? — He likes learning different subjects.",
+        "options": [
+          "do",
+          "is",
+          "can",
+          "does"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "— What's Linda's favourite day? — ____",
+        "options": [
+          "Monday.",
+          "She likes art.",
+          "She can paint.",
+          "She likes Monday."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "English",
+        "cn": "英语"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "Music",
+        "cn": "音乐"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "subject",
+        "cn": "科目"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "class",
+        "cn": "课；班级"
+      },
+      {
+        "type": "语音",
+        "q": "「flag」中字母组合 fl 的发音是？",
+        "options": [
+          "/fl/",
+          "/fr/",
+          "/kl/",
+          "/pl/"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "语音",
+        "q": "下面哪个单词中 cl 的发音与「club」相同？",
+        "options": [
+          "flag",
+          "flower",
+          "class",
+          "glad"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "你想知道琳达最喜欢学校里的哪一天，可以问：",
+        "options": [
+          "What's Linda's favourite day?",
+          "What subject does she like?",
+          "Does she have a science class?",
+          "Who is Linda's friend?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "同学问你：“Does she have a science class on Monday?”，如果你要肯定回答，应该说：",
+        "options": [
+          "Yes, she does.",
+          "Yes, she has.",
+          "Yes, she is.",
+          "Yes, she can."
+        ],
+        "answer": 1
+      }
+    ],
+    "3": [
+      {
+        "type": "单词",
+        "q": "firefighter 的中文意思是什么？",
+        "options": [
+          "消防员",
+          "警察",
+          "医生",
+          "农夫；农民"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "police officer 的中文意思是什么？",
+        "options": [
+          "消防员",
+          "警察",
+          "老师",
+          "公交车司机"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "farmer 的中文意思是什么？",
+        "options": [
+          "老师",
+          "厨师",
+          "司机",
+          "农夫；农民"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "sick 的中文意思是什么？",
+        "options": [
+          "生病的",
+          "健康的",
+          "饥饿的",
+          "忙碌的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "soup 的中文意思是什么？",
+        "options": [
+          "米饭",
+          "汤",
+          "果汁",
+          "沙拉"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "Mrs 的中文意思是什么？",
+        "options": [
+          "小姐",
+          "先生",
+          "同学",
+          "夫人；太太"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "people 的中文意思是什么？",
+        "options": [
+          "水果",
+          "牙齿",
+          "人；人们",
+          "玩具"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "老师（的英文）是？",
+        "options": [
+          "doctor",
+          "teacher",
+          "farmer",
+          "driver"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "医生（的英文）是？",
+        "options": [
+          "cook",
+          "nurse",
+          "doctor",
+          "farmer"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "公交车司机（的英文）是？",
+        "options": [
+          "police officer",
+          "firefighter",
+          "bus driver",
+          "teacher"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "火（的英文）是？",
+        "options": [
+          "soup",
+          "fire",
+          "sick",
+          "job"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "工作；职业（的英文）是？",
+        "options": [
+          "jump",
+          "juice",
+          "joke",
+          "job"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "知道（的英文）是？",
+        "options": [
+          "know",
+          "now",
+          "snow",
+          "knife"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "—______ does she do? — She is a farmer.",
+        "options": [
+          "What",
+          "How",
+          "Where",
+          "Who"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "— What ______ they do? — They are teachers.",
+        "options": [
+          "are",
+          "is",
+          "does",
+          "do"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Look at that man. What does he do? ______ is a doctor.",
+        "options": [
+          "She",
+          "He",
+          "It",
+          "They"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "— What does Mrs Chen do? — She is a ______. She looks after people's teeth.",
+        "options": [
+          "nurse",
+          "teacher",
+          "dentist",
+          "farmer"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "You should ______ your teeth twice or three times a day.",
+        "options": [
+          "brush",
+          "eat",
+          "drink",
+          "cook"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "You shouldn't eat ______ sweet food.",
+        "options": [
+          "too many",
+          "much too",
+          "too much",
+          "many too"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "A bus driver ______ a bus every day.（补全句子）",
+        "options": [
+          "draws",
+          "gets",
+          "drives",
+          "puts"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "This is a picture of my mum. She ______ in Renmin Hospital. She is a nurse.",
+        "options": [
+          "works",
+          "studies",
+          "plays",
+          "lives"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "— Do you like your job, Mrs Chen? — Yes, ______.",
+        "options": [
+          "she does",
+          "I do",
+          "he does",
+          "I am"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "They are firefighters. They ______ out fires and help people.",
+        "options": [
+          "put",
+          "get",
+          "look",
+          "go"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "dentist",
+        "cn": "牙医"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "nurse",
+        "cn": "护士"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "cook",
+        "cn": "厨师"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "brush",
+        "cn": "刷；刷牙"
+      },
+      {
+        "type": "语音",
+        "q": "关于字母组合 br 的发音，下列说法正确的是（ ）。",
+        "options": [
+          "br 中 b 不发音，只读 /r/ 的音",
+          "b 和 r 连读成 /br/，b 的音很轻",
+          "br 和 dr 的发音完全一样",
+          "br 中 r 不发音，只读 /b/ 的音"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "下列哪个单词中含有字母组合 br？",
+        "options": [
+          "doctor",
+          "farmer",
+          "teacher",
+          "brush"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "你想知道孙先生是做什么工作的，应该问（ ）。",
+        "options": [
+          "How old is Mr Sun?",
+          "Who is Mr Sun?",
+          "What does Mr Sun do?",
+          "How is Mr Sun today?"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "— Huihui loves to help people. He wants to look after people's teeth. What does he want to be? — ______",
+        "options": [
+          "A farmer.",
+          "A dentist.",
+          "A doctor.",
+          "A teacher."
+        ],
+        "answer": 1
+      }
+    ],
+    "4": [
+      {
+        "type": "单词",
+        "q": "选出 violin 的中文意思",
+        "options": [
+          "长笛",
+          "小提琴",
+          "吉他",
+          "琵琶"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "选出 piano 的中文意思",
+        "options": [
+          "钢琴",
+          "小提琴",
+          "鼓",
+          "二胡"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "选出 concert 的中文意思",
+        "options": [
+          "会议",
+          "音乐会",
+          "教室",
+          "商店"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "选出 jar 的中文意思",
+        "options": [
+          "桶",
+          "锅",
+          "广口瓶",
+          "盒子"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "选出 beautiful 的中文意思",
+        "options": [
+          "难听的",
+          "美妙的；漂亮的",
+          "吵闹的",
+          "安静的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "选出 clever 的中文意思",
+        "options": [
+          "聪明的",
+          "勇敢的",
+          "忙碌的",
+          "友好的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "选出 musical instrument 的中文意思",
+        "options": [
+          "音乐会",
+          "音乐家",
+          "乐器",
+          "乐谱"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "选出\"鼓\"对应的英文",
+        "options": [
+          "pot",
+          "jar",
+          "drum",
+          "bucket"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "选出\"三角铁（打击乐器）\"对应的英文",
+        "options": [
+          "triangle",
+          "square",
+          "circle",
+          "rectangle"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "选出\"桶\"对应的英文",
+        "options": [
+          "pot",
+          "bucket",
+          "drum",
+          "jar"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "选出\"打；击\"对应的英文",
+        "options": [
+          "shake",
+          "blow",
+          "clap",
+          "hit"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "选出\"鼓掌\"对应的英文",
+        "options": [
+          "sing",
+          "dance",
+          "play",
+          "clap"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "选出\"想法\"对应的英文",
+        "options": [
+          "idea",
+          "game",
+          "song",
+          "gift"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "选出\"成年女子；妇女\"对应的英文",
+        "options": [
+          "woman",
+          "man",
+          "girl",
+          "boy"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"我正在弹钢琴。\"正确的英文是",
+        "options": [
+          "I playing the piano.",
+          "I am playing the piano.",
+          "I is playing the piano.",
+          "I am play the piano."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "句子 She isn't playing the violin. 的意思是",
+        "options": [
+          "她正在拉小提琴。",
+          "她不会拉小提琴。",
+          "她不喜欢拉小提琴。",
+          "她没有在拉小提琴。"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "句子 We aren't playing the triangles. 中 aren't 是哪两个词的缩写",
+        "options": [
+          "am not",
+          "is not",
+          "are not",
+          "do not"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "They're both having fun! 的意思是",
+        "options": [
+          "他们两个都玩得很开心！",
+          "他们都在做作业！",
+          "他们俩都会弹钢琴！",
+          "他们都喜欢唱歌！"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "Maddie 和同学不会弹钢琴、拉小提琴和弹吉他，课文中的原句是",
+        "options": [
+          "They don't want to play.",
+          "They can't sing or dance.",
+          "They can't play the piano, violin or guitar.",
+          "They aren't playing the piano."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Isn't it a clever idea? 的意思是",
+        "options": [
+          "这难道不是一个聪明的主意吗？",
+          "这是一个坏主意。",
+          "他有一个聪明的主意。",
+          "你有主意了吗？"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "同伴说 I can't play the piano.，你会这样建议他",
+        "options": [
+          "Buy a drum.",
+          "Play the drums.",
+          "Play the triangle.",
+          "Sing in a group."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "完形填空：We think and think, and then get a great ____.",
+        "options": [
+          "song",
+          "idea",
+          "drum",
+          "picture"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "完形填空：We're using jars and candies. Oscar and Fay are ____ them.",
+        "options": [
+          "playing",
+          "singing",
+          "shaking",
+          "buying"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "guitar",
+        "cn": "吉他"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "erhu",
+        "cn": "二胡"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "flute",
+        "cn": "长笛"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "pipa",
+        "cn": "琵琶"
+      },
+      {
+        "type": "语音",
+        "q": "在单词 Craig 中，字母组合 cr 的发音是",
+        "options": [
+          "/ɡr/",
+          "/kr/",
+          "/tr/",
+          "/pl/"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "下面哪个单词开头的字母组合与 great 相同，也读 /ɡr/",
+        "options": [
+          "train",
+          "cream",
+          "green",
+          "glass"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "在 Our concerts 口语活动中，想说\"图1中那个男孩正在唱歌\"，应选哪一句",
+        "options": [
+          "In Picture 1, the boy can sing.",
+          "Picture 1 is singing a song.",
+          "In Picture 1, the boy is singing.",
+          "The boy is sing."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "在 Stick and write 写作活动中，介绍自己照片的正确句式是",
+        "options": [
+          "Look! ... is playing ... It is ...",
+          "Look! ... plays ... It is ...",
+          "Look! ... is play ... It is ...",
+          "Look! ... can playing ... It is ..."
+        ],
+        "answer": 0
+      }
+    ],
+    "5": [
+      {
+        "type": "单词",
+        "q": "photo 的中文意思是什么？",
+        "options": [
+          "邮票",
+          "照片",
+          "电话",
+          "通知"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「paper-cut」和「painting」的中文意思分别是？",
+        "options": [
+          "剪纸；绘画",
+          "绘画；剪纸",
+          "剪纸；照片",
+          "照片；绘画"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "circle 的中文意思是什么？",
+        "options": [
+          "三角形",
+          "正方形",
+          "长方形",
+          "圆形"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "triangle 的中文意思是什么？",
+        "options": [
+          "圆形",
+          "三角形",
+          "星形",
+          "矩形"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "square 的中文意思是什么？",
+        "options": [
+          "矩形",
+          "圆形",
+          "正方形",
+          "角"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "star 的中文意思是什么？",
+        "options": [
+          "正方形",
+          "边",
+          "圆形",
+          "星星"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "shape 的中文意思是什么？",
+        "options": [
+          "形状",
+          "颜色",
+          "大小",
+          "照片"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "「长方形；矩形」对应的英文单词是哪一个？",
+        "options": [
+          "circle",
+          "square",
+          "rectangle",
+          "triangle"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "「钟」对应的英文单词是哪一个？",
+        "options": [
+          "photo",
+          "clock",
+          "corner",
+          "shape"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "（图形的）「边」对应的英文单词是哪一个？",
+        "options": [
+          "corner",
+          "body",
+          "star",
+          "side"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「角」对应的英文单词是哪一个？",
+        "options": [
+          "corner",
+          "circle",
+          "side",
+          "square"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "「问」对应的英文单词是哪一个？",
+        "options": [
+          "say",
+          "ask",
+          "stop",
+          "star"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "「老虎」对应的英文单词是哪一个？",
+        "options": [
+          "rabbit",
+          "monkey",
+          "sheep",
+          "tiger"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "「说」对应的英文单词是哪一个？",
+        "options": [
+          "see",
+          "ask",
+          "say",
+          "stand"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "—______ you making a paper-cut? —Yes, I am.",
+        "options": [
+          "Is",
+          "Are",
+          "Do",
+          "Can"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "下列哪一项是「Is she painting a picture?」的正确否定回答？",
+        "options": [
+          "Yes, she is.",
+          "No, she is.",
+          "No, she isn't.",
+          "Yes, she isn't."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Are you ______? —No, I'm not.",
+        "options": [
+          "stand up",
+          "runs around",
+          "to take photos",
+          "taking photos"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "—______ he ______? —Yes, he is.",
+        "options": [
+          "Is, drawing",
+          "Do, drawing",
+          "Is, draw",
+          "Does, draw"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "A triangle ______ three sides and three corners.",
+        "options": [
+          "have",
+          "is",
+          "are",
+          "has"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "______ is a photo of a clock. The clock is a ______.",
+        "options": [
+          "That, corner",
+          "This, circle",
+          "This, side",
+          "It, star"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "The students ______ art with shapes.",
+        "options": [
+          "are making",
+          "is making",
+          "makes",
+          "making"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "—Is Xiaole painting? —Yes. She's ______ circles.",
+        "options": [
+          "paint",
+          "paints",
+          "painting",
+          "to paint"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "—Is she Xinxin? —No, ______.",
+        "options": [
+          "she is",
+          "is she",
+          "isn't she",
+          "she isn't"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "painting",
+        "cn": "绘画；画作"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "rectangle",
+        "cn": "矩形；长方形"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "triangle",
+        "cn": "三角形"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "corner",
+        "cn": "角"
+      },
+      {
+        "type": "语音",
+        "q": "下列单词中，画线部分发音为 /sp/ 的是哪一个？",
+        "options": [
+          "stand",
+          "star",
+          "special",
+          "stop"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "语音",
+        "q": "下列单词中，画线部分发音为 /st/ 的是哪一个？",
+        "options": [
+          "student",
+          "shape",
+          "side",
+          "square"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "你想问同学 Lili 是不是正在做剪纸，应该说：",
+        "options": [
+          "Is Lili making a paper-cut?",
+          "Do you like paper-cuts?",
+          "Are you making a paper-cut?",
+          "What is Lili doing?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "Jim 在艺术俱乐部被问到 \"Are you painting?\"，可他正在做剪纸，他应回答：",
+        "options": [
+          "Yes, I am.",
+          "No, I'm not. I'm making a paper-cut.",
+          "OK, I am.",
+          "No, he isn't."
+        ],
+        "answer": 1
+      }
+    ],
+    "6": [
+      {
+        "type": "单词",
+        "q": "单词 \"hour\" 的中文意思是什么？",
+        "options": [
+          "秒",
+          "天",
+          "分钟",
+          "小时"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "单词 \"second\" 的中文意思是什么？",
+        "options": [
+          "秒",
+          "年",
+          "月",
+          "小时"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "单词 \"month\" 的中文意思是什么？",
+        "options": [
+          "天",
+          "夜晚",
+          "月；月份",
+          "分钟"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "单词 \"year\" 的中文意思是什么？",
+        "options": [
+          "小时",
+          "年",
+          "秒",
+          "白天"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "单词 \"day\" 的中文意思是什么？",
+        "options": [
+          "夜晚",
+          "分钟",
+          "白天；日",
+          "月"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "单词 \"night\" 的中文意思是什么？",
+        "options": [
+          "晚上；夜晚",
+          "白天",
+          "小时",
+          "年"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"分钟\" 用英语怎么说？",
+        "options": [
+          "hour",
+          "second",
+          "minute",
+          "day"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "\"秒\" 用英语怎么说？",
+        "options": [
+          "second",
+          "month",
+          "night",
+          "year"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"年\" 用英语怎么说？",
+        "options": [
+          "month",
+          "minute",
+          "hour",
+          "year"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "\"小时\" 用英语怎么说？",
+        "options": [
+          "hour",
+          "day",
+          "second",
+          "dream"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "\"月；月份\" 用英语怎么说？",
+        "options": [
+          "year",
+          "month",
+          "night",
+          "minute"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "\"白天；日\" 用英语怎么说？",
+        "options": [
+          "night",
+          "hour",
+          "day",
+          "month"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "— What time is it? — ____ seven o'clock in the morning.",
+        "options": [
+          "It's",
+          "He's",
+          "They're",
+          "That's"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "A day has ____ hours.",
+        "options": [
+          "12",
+          "24",
+          "60",
+          "7"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "你想问对方\"你正在做什么？\"，应该怎么说？",
+        "options": [
+          "What do you doing?",
+          "Where are you doing?",
+          "Who are you doing?",
+          "What are you doing?"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "妈妈正在帮你，你可以说：",
+        "options": [
+          "She is helping me.",
+          "He is helping me.",
+          "They help me.",
+          "It is helping me."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "早上八点了，你正在吃早饭，你会说：",
+        "options": [
+          "I'm having lunch.",
+          "I'm having breakfast.",
+          "I had breakfast.",
+          "I have breakfast."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "晚上九点，豆豆正在刷牙，你会说：",
+        "options": [
+          "He's brushing her teeth.",
+          "She's brushing his teeth.",
+          "He's brushing his teeth.",
+          "He brush his teeth."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "你想问\"伦敦现在几点了？\"，应该怎么说？",
+        "options": [
+          "What time is it now in London?",
+          "Where is London now?",
+          "How old is London?",
+          "What are you in London?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "\"一分钟有60秒。\" 用英语怎么说？",
+        "options": [
+          "One minute has 60 hours.",
+          "One hour has 60 minutes.",
+          "One minute has 60 seconds.",
+          "One second has 60 minutes."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "北京早上七点，一些人正去公园锻炼，可以说：",
+        "options": [
+          "Some people are going to the park to do exercise.",
+          "Some people go to school.",
+          "Some people are sleeping.",
+          "Some people are having dinner."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "伦敦夜里十一点，许多人正在睡觉，可以说：",
+        "options": [
+          "Many people is sleeping.",
+          "Many people are eating.",
+          "Many people are working.",
+          "Many people are sleeping."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "hour",
+        "cn": "小时"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "minute",
+        "cn": "分钟"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "night",
+        "cn": "夜晚；晚上"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "month",
+        "cn": "月；月份"
+      },
+      {
+        "type": "语音",
+        "q": "下列哪个单词中字母组合发 /tr/ 的音？",
+        "options": [
+          "dream",
+          "travel",
+          "dress",
+          "drink"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "下列哪个单词中字母组合发 /dr/ 的音？",
+        "options": [
+          "train",
+          "tree",
+          "travel",
+          "dress"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "交际",
+        "q": "你想问连线的外国网友现在正在做什么，你应该说：",
+        "options": [
+          "What do you do?",
+          "What are you doing now?",
+          "Where are you from?",
+          "What time is it?"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "交际",
+        "q": "晚上，你想对准备睡觉的弟弟说\"晚安，好梦！\"，你应该说：",
+        "options": [
+          "Good morning!",
+          "Hello!",
+          "Good night! Sweet dreams!",
+          "One second."
+        ],
+        "answer": 2
+      }
+    ],
+    "7": [
+      {
+        "type": "单词",
+        "q": "liquid 的中文意思是什么？",
+        "options": [
+          "气体",
+          "液体",
+          "固体",
+          "混合物"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "solid 的中文意思是什么？",
+        "options": [
+          "液体",
+          "气体",
+          "固体",
+          "粉末"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "gas 的中文意思是什么？",
+        "options": [
+          "空气",
+          "液体",
+          "固体",
+          "气体"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "melt 的中文意思是什么？",
+        "options": [
+          "(使)熔化；融化",
+          "结冰；冻住",
+          "加热",
+          "摇动"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "mixture 的中文意思是什么？",
+        "options": [
+          "冰柜",
+          "混合物",
+          "塑料袋",
+          "门"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "freezer 的中文意思是什么？",
+        "options": [
+          "水壶",
+          "炉子",
+          "冰箱门",
+          "冰柜"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "steam 的中文意思是什么？",
+        "options": [
+          "水蒸气",
+          "奶油",
+          "食糖",
+          "盐"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "食糖（的英文）是？",
+        "options": [
+          "salt",
+          "soup",
+          "sugar",
+          "cream"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "盐；食盐（的英文）是？",
+        "options": [
+          "sugar",
+          "cream",
+          "snack",
+          "salt"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "奶油（的英文）是？",
+        "options": [
+          "cream",
+          "juice",
+          "chocolate",
+          "sugar"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "门（的英文）是？",
+        "options": [
+          "bag",
+          "door",
+          "wall",
+          "lid"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "塑料的（的英文）是？",
+        "options": [
+          "solid",
+          "liquid",
+          "plastic",
+          "freezing"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "放（的英文）是？",
+        "options": [
+          "cut",
+          "wash",
+          "put",
+          "mix"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "摇动（的英文）是？",
+        "options": [
+          "sleep",
+          "sing",
+          "show",
+          "shake"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "— ______ we make some more ice cream? — Sure!",
+        "options": [
+          "Shall",
+          "Do",
+          "Does",
+          "Is"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "完形填空：Look! The ice ______ the mixture now.",
+        "options": [
+          "freeze",
+          "is freezing",
+          "freezing",
+          "are freezing"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "完形填空：The ______ is in the freezer. Let's get it for the party.",
+        "options": [
+          "steam",
+          "salt",
+          "ice cream",
+          "plastic bag"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "— Shall we cut the oranges first? — ______",
+        "options": [
+          "Not at all",
+          "Sure",
+          "Thank you",
+          "You're welcome"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "— Let's add some chocolate. — ______!",
+        "options": [
+          "Good idea",
+          "Done",
+          "Sorry",
+          "Don't worry"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "The freezer ______ is open. Now there's no ice cream for the party.",
+        "options": [
+          "bag",
+          "lid",
+          "door",
+          "box"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Water can change ______ ice and steam.",
+        "options": [
+          "into",
+          "in",
+          "on",
+          "at"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "— Is the ice cream ready? — ______! Here it is.",
+        "options": [
+          "Don't worry",
+          "Sorry",
+          "Thank you",
+          "Done"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "— Are you ______? — Yes. Let's eat some cake.",
+        "options": [
+          "thirsty",
+          "full",
+          "open",
+          "hungry"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "______ the sugar and the cream. Then put the mixture in a small bag.",
+        "options": [
+          "Melt",
+          "Mix",
+          "Make",
+          "Miss"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "heat",
+        "cn": "加热"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "hungry",
+        "cn": "感到饿的"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "party",
+        "cn": "聚会；派对"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "chocolate",
+        "cn": "巧克力"
+      },
+      {
+        "type": "语音",
+        "q": "下列哪个单词中含有字母组合 fr？",
+        "options": [
+          "bread",
+          "freezer",
+          "drink",
+          "flower"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "语音",
+        "q": "下列哪个单词中不含字母组合 fr？",
+        "options": [
+          "fresh",
+          "freeze",
+          "flame",
+          "freezing"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "交际",
+        "q": "做 My mixture book 时，你想建议大家一起做草莓冰饮，你会说（ ）。",
+        "options": [
+          "Shall we make a strawberry ice drink?",
+          "How do you make a strawberry ice drink?",
+          "I like strawberry ice drinks.",
+          "Where are the strawberries?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "交际",
+        "q": "在 Think and write 中介绍自己做的西红柿蛋汤，你会说（ ）。",
+        "options": [
+          "It is red and yellow, but I don't like it.",
+          "Let's make some soup.",
+          "This is tomato and egg soup. It looks nice and smells good.",
+          "Shall we wash some carrots?"
+        ],
+        "answer": 2
+      }
+    ],
+    "8": [
+      {
+        "type": "单词",
+        "q": "polite",
+        "options": [
+          "有礼貌的",
+          "健康的",
+          "害怕的",
+          "困倦的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "knock",
+        "options": [
+          "分享",
+          "等待",
+          "敲击",
+          "跳跃"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "until",
+        "options": [
+          "在……之后",
+          "直到……为止",
+          "在……之前",
+          "在……里面"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "behind",
+        "options": [
+          "在……之前",
+          "在……旁边",
+          "在……里面",
+          "在……之后"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "whatever",
+        "options": [
+          "无论什么",
+          "什么时候",
+          "谁的",
+          "多少"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "honey",
+        "options": [
+          "牛奶",
+          "果汁",
+          "冰激凌",
+          "蜂蜜"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "May I come in?",
+        "options": [
+          "我可以进来吗？",
+          "我可以出去吗？",
+          "我可以坐下吗？",
+          "我可以走了吗？"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "单词",
+        "q": "take turns",
+        "options": [
+          "take off",
+          "take turns",
+          "put on",
+          "take out"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "joke",
+        "options": [
+          "job",
+          "joke",
+          "jump",
+          "juice"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "maybe",
+        "options": [
+          "many",
+          "may",
+          "maybe",
+          "more"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "cry",
+        "options": [
+          "fly",
+          "cry",
+          "dry",
+          "say"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "单词",
+        "q": "kind",
+        "options": [
+          "kite",
+          "king",
+          "kind",
+          "wind"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "单词",
+        "q": "helpful",
+        "options": [
+          "healthy",
+          "heavy",
+          "hungry",
+          "helpful"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "单词",
+        "q": "way",
+        "options": [
+          "may",
+          "day",
+          "way",
+          "say"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "—What does May do on Sundays? —She often （ ） to the park.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "is going"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "Look! The ox （ ） at the door now.",
+        "options": [
+          "knock",
+          "knocks",
+          "is knocking",
+          "knocked"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "—May I use your coloured pencils? —I'm drawing a picture now. You （ ） use my paints.",
+        "options": [
+          "can",
+          "can't",
+          "do",
+          "are"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "The ox always knocks on the door. He waits to go in ____ someone invites him.",
+        "options": [
+          "when",
+          "until",
+          "before",
+          "after"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "—What is May doing now? —She ____ after her brother, Jay.",
+        "options": [
+          "look",
+          "looks",
+          "is looking",
+          "looking"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "—Is she playing now? —No, （ ）.",
+        "options": [
+          "she isn't",
+          "she doesn't",
+          "she is",
+          "it isn't"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "句型",
+        "q": "How kind （ ） him!",
+        "options": [
+          "to",
+          "for",
+          "in",
+          "of"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "Be polite （ ） others at school.",
+        "options": [
+          "at",
+          "to",
+          "for",
+          "of"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "句型",
+        "q": "The bears always share a joke. They think （ ） funny.",
+        "options": [
+          "its",
+          "they're",
+          "he's",
+          "it's"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "句型",
+        "q": "（ ） does the ox always do? —He always knocks.",
+        "options": [
+          "How",
+          "Why",
+          "What",
+          "Who"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "句型",
+        "q": "Do you say \"please\" and \"thank you\"? These things （ ） your day!",
+        "options": [
+          "make",
+          "makes",
+          "making",
+          "made"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "ox",
+        "cn": "公牛"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "invite",
+        "cn": "邀请"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "someone",
+        "cn": "某人"
+      },
+      {
+        "type": "听写",
+        "q": "仔细听单词，拼写出它的英文",
+        "word": "another",
+        "cn": "另一个"
+      },
+      {
+        "type": "交际",
+        "q": "—May I use your coloured pencils? —____",
+        "options": [
+          "Thank you.",
+          "You can use my paints. Here you are.",
+          "Excuse me.",
+          "Not at all."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "交际",
+        "q": "—Which poem do you like? —____",
+        "options": [
+          "I like honey.",
+          "Yes, I do.",
+          "I like \"The ox always knocks\".",
+          "No, I don't."
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

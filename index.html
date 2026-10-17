@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-title" content="英语伴学">
+<title>英语伴学</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Segoe UI',Arial,sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);min-height:100vh;display:flex;justify-content:center;align-items:center;padding:20px;padding-left:max(20px,env(safe-area-inset-left));padding-right:max(20px,env(safe-area-inset-right));-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%}
+button,.option,.card{touch-action:manipulation}
+#app{width:100%;max-width:500px;background:#fff;border-radius:20px;box-shadow:0 20px 60px rgba(0,0,0,.3);overflow:hidden}
+/* 顶部导航 */
+.header{background:linear-gradient(135deg,#4facfe,#00f2fe);padding:20px 20px 15px;text-align:center;position:relative}
+.header h1{color:#fff;font-size:20px;font-weight:700;text-shadow:0 2px 4px rgba(0,0,0,.2)}
+.header .sub{color:#e8f4ff;font-size:12px;margin-top:5px}
+.progress-wrap{background:rgba(255,255,255,.3);border-radius:10px;height:10px;margin-top:12px;overflow:hidden}
+.progress-bar{background:linear-gradient(90deg,#ffd700,#ff8c00);height:100%;border-radius:10px;transition:width .5s ease}
+.progress-text{color:#fff;font-size:11px;margin-top:6px;font-weight:600}
+/* 主界面 */
+.main{padding:20px}
+.loading{padding:40px 20px;text-align:center;color:#888;font-size:14px}
+.load-error{padding:24px 20px;text-align:center;color:#c62828;font-size:14px;line-height:1.8}
+/* 关卡地图 */
+.map-title{font-size:16px;font-weight:700;color:#333;margin-bottom:15px;text-align:center}
+.map-sub{font-size:12px;color:#888;margin:-8px 0 15px;text-align:center}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.card{background:#f8f9ff;border:2px solid #e0e3ff;border-radius:15px;padding:15px;text-align:center;cursor:pointer;transition:all .3s;position:relative}
+.card:hover{transform:translateY(-3px);box-shadow:0 8px 20px rgba(0,0,0,.1)}
+.card.locked{opacity:.4;cursor:not-allowed;background:#f0f0f0;border-color:#ddd}
+.card.completed{border-color:#4caf50;background:#e8f5e9}
+.card.current{border-color:#ff9800;background:#fff3e0;animation:pulse 2s infinite}
+.card .icon{font-size:32px;display:block;margin-bottom:8px}
+.card .name{font-size:13px;font-weight:700;color:#333}
+.card .unit-en{font-size:11px;color:#4facfe;margin-top:3px;line-height:1.4;font-style:italic}
+.card .status{font-size:11px;color:#999;margin-top:6px}
+.card .stars{color:#ffd700;font-size:14px;margin-top:4px}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(255,152,0,.4)}50%{box-shadow:0 0 0 8px rgba(255,152,0,0)}}
+/* 答题界面 */
+.quiz-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:15px}
+.quiz-title{font-size:15px;font-weight:700;color:#333}
+.quiz-unit-en{font-size:12px;font-weight:400;color:#4facfe;margin-top:2px;font-style:italic;line-height:1.3}
+.quiz-count{font-size:13px;color:#666}
+.question-box{background:#f8f9ff;border-radius:15px;padding:20px;margin-bottom:15px;border:2px solid #e0e3ff}
+.question-text{font-size:16px;font-weight:600;color:#333;line-height:1.5}
+.question-type{display:inline-block;background:#4facfe;color:#fff;font-size:11px;padding:3px 10px;border-radius:20px;margin-bottom:10px}
+/* 听写题型 */
+.dict-hint{font-size:13px;color:#777;margin:2px 0 12px}
+.dict-input{width:100%;padding:12px 15px;font-size:16px;border:2px solid #e0e3ff;border-radius:12px;outline:none;font-family:inherit;color:#333}
+.dict-input:focus{border-color:#4facfe;background:#f0f7ff}
+.dict-result{margin-top:14px;padding:12px 15px;border-radius:12px;font-size:15px;font-weight:600;line-height:1.5}
+.dict-result.ok{background:#e8f5e9;color:#2e7d32;border:2px solid #4caf50}
+.dict-result.no{background:#ffebee;color:#c62828;border:2px solid #f44336}
+/* 课文跟读 */
+.mode-grid-3{grid-template-columns:1fr 1fr 1fr}
+.mode-grid-3 .mode-card{padding:16px 6px}
+.mode-grid-3 .mode-icon{font-size:28px}
+.mode-grid-3 .mode-name{font-size:13px}
+.mode-grid-3 .mode-desc{font-size:10px}
+.read-progress{text-align:center;font-size:15px;color:#555;margin-bottom:8px}
+.read-progress b{color:#ff9800;font-size:20px}
+.read-sec-tag{display:inline-block;background:#fff3e0;color:#e65100;border:1px solid #ffcc80;font-size:11px;font-weight:600;padding:2px 8px;border-radius:10px;margin-left:6px;vertical-align:middle}
+.read-progress-bar{background:#eef1ff;border-radius:10px;height:8px;overflow:hidden;margin-bottom:14px}
+.read-progress-fill{background:linear-gradient(90deg,#4caf50,#8bc34a);height:100%;border-radius:10px;transition:width .3s}
+.read-box{text-align:left}
+.read-speaker{font-size:12px;color:#ff9800;font-weight:700;margin-bottom:4px}
+.read-en{font-size:17px;font-weight:600;color:#333;line-height:1.6}
+.read-cn{font-size:13px;color:#888;margin-top:8px;line-height:1.6}
+.read-tip{text-align:center;font-size:13px;color:#4facfe;margin:4px 0 2px}
+/* 字幕滚播 */
+.read-subs{position:relative;max-height:48vh;overflow-y:auto;border:2px solid #e0e3ff;border-radius:14px;background:#0f1830;padding:10px 12px;scroll-behavior:smooth;-webkit-overflow-scrolling:touch}
+.sub-head{font-size:12px;font-weight:700;color:#ffd54f;margin:12px 2px 6px;padding-bottom:4px;border-bottom:1px dashed rgba(255,213,79,.35)}
+.sub-head:first-child{margin-top:2px}
+.sub-page{font-weight:400;color:#90caf9;font-size:11px;margin-left:6px}
+.sub-row{padding:8px 10px;border-radius:10px;margin:4px 0;cursor:pointer;transition:background .25s;border:1px solid transparent}
+.sub-row.cur{background:rgba(79,172,254,.22);border-color:rgba(79,172,254,.6)}
+.sub-row:not(.cur):hover{background:rgba(255,255,255,.06)}
+.sub-line{font-size:14.5px;line-height:1.55;color:#cfd8ea}
+.sub-row.cur .sub-line{color:#fff}
+.sub-speaker{color:#ffb74d;font-weight:700;margin-right:6px}
+.sub-row.cur .sub-speaker{color:#ffd54f}
+.sub-cn{font-size:11.5px;color:#8fa0bd;margin-top:2px;line-height:1.5}
+.sub-row.cur .sub-cn{color:#b9e4ff}
+.read-ctrl-row{display:flex;gap:8px}
+.read-ctrl{margin-top:10px;flex:1;font-size:14px;padding:12px 4px}
+.read-ctrl:disabled{opacity:.4}
+/* 面包屑导航（固定顶部） */
+.crumb-wrap{position:sticky;top:0;z-index:50;background:linear-gradient(135deg,#3d8bd9,#00c6fb);box-shadow:0 2px 8px rgba(0,0,0,.18);padding:8px 14px;display:none;align-items:center;gap:6px;flex-wrap:wrap;font-size:12px}
+.crumb-wrap.show{display:flex}
+.crumb-item{color:#eaf6ff;cursor:pointer;font-weight:600;padding:3px 8px;border-radius:8px;white-space:nowrap}
+.crumb-item:hover{background:rgba(255,255,255,.18)}
+.crumb-item.cur{background:rgba(255,255,255,.92);color:#1976d2;cursor:default}
+.crumb-sep{color:rgba(255,255,255,.7);font-weight:700}
+/* 跟读自动模式 */
+.read-auto-row{display:flex;align-items:center;gap:8px;margin-top:10px;flex-wrap:wrap;justify-content:center}
+.read-auto-label{font-size:12px;color:#666}
+.auto-seg{display:flex;border:2px solid #e0e3ff;border-radius:12px;overflow:hidden}
+.auto-seg button{border:none;background:#fff;color:#666;font-size:12px;font-weight:600;padding:7px 10px;cursor:pointer}
+.auto-seg button.on{background:#4facfe;color:#fff}
+.auto-state{font-size:12px;color:#4facfe;font-weight:700;min-width:52px;text-align:center}
+.read-auto-btn{width:auto;flex:0 0 auto;margin-top:0;padding:8px 16px;font-size:13px}
+/* 单元模式选择 */
+.mode-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:15px}
+.mode-card{background:#f8f9ff;border:2px solid #e0e3ff;border-radius:15px;padding:22px 12px;text-align:center;cursor:pointer;transition:all .3s}
+.mode-card:hover{transform:translateY(-3px);box-shadow:0 8px 20px rgba(0,0,0,.1)}
+.mode-card.disabled{opacity:.4;cursor:not-allowed}
+.mode-icon{font-size:36px;display:block;margin-bottom:8px}
+.mode-name{font-size:15px;font-weight:700;color:#333}
+.mode-desc{font-size:11px;color:#888;margin-top:6px;line-height:1.5}
+.mode-foot{font-size:12px;color:#888;text-align:center;margin-top:14px}
+.mode-foot a{color:#4facfe}
+/* 听写模式 */
+.dict-setup-label{font-size:13px;color:#666;margin:12px 0 8px;text-align:center}
+.interval-row{display:flex;gap:10px;justify-content:center;margin-bottom:5px}
+.interval-btn{flex:1;max-width:110px;padding:10px;border:2px solid #e0e3ff;border-radius:12px;background:#fff;font-size:14px;font-weight:600;color:#666;cursor:pointer}
+.interval-btn.selected{border-color:#4facfe;background:#e3f2fd;color:#1976d2}
+.dict-stage{text-align:center}
+.dict-progress{font-size:22px;color:#333;margin-bottom:10px}
+.dict-progress b{color:#ff9800;font-size:28px}
+.dict-tip{font-size:14px;color:#777;line-height:1.8}
+.dict-rep{color:#4facfe;font-weight:600}
+.dict-note{font-size:11px;color:#aaa;text-align:center;margin-top:10px;line-height:1.6}
+.dict-nav-row{display:flex;gap:10px;margin-top:10px}
+.dict-nav{margin-top:0;flex:1;font-size:14px;padding:12px}
+.check-list{max-height:46vh;overflow-y:auto;border:1px solid #e0e3ff;border-radius:12px;background:#fff}
+.check-row{display:flex;align-items:center;gap:8px;padding:9px 12px;border-bottom:1px solid #f0f2ff;font-size:13px}
+.check-row:last-child{border-bottom:none}
+.check-no{width:24px;color:#aaa;font-weight:700;flex-shrink:0}
+.check-en{flex:1;font-weight:600;color:#333}
+.check-cn{flex:1;color:#777;font-size:12px}
+.check-box{width:22px;height:22px;accent-color:#4caf50;flex-shrink:0}
+/* 听写记录 */
+.rec-summary{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+.rec-unit{background:#f0f7ff;border:1px solid #d6eaff;border-radius:10px;padding:6px 10px;font-size:12px;color:#345}
+.rec-list{border:1px solid #e0e3ff;border-radius:12px;overflow:hidden}
+.rec-row{display:flex;gap:8px;align-items:center;padding:9px 12px;border-bottom:1px solid #f0f2ff;font-size:12px}
+.rec-row:last-child{border-bottom:none}
+.rec-date{color:#888;flex-shrink:0}
+.rec-unit-name{flex:1;font-weight:600;color:#333}
+.rec-score{color:#ff9800;font-weight:700}
+.rec-int{color:#aaa;font-size:11px}
+/* 朗读 */
+.speak-btn{display:inline-block;background:#fff;border:1px solid #c5cae9;border-radius:50%;width:28px;height:28px;line-height:26px;text-align:center;font-size:13px;cursor:pointer;margin-left:8px;color:#5c6bc0;vertical-align:middle;user-select:none}
+.speak-btn:hover{background:#e8eaf6;transform:scale(1.1)}
+.auto-toggle{background:rgba(255,255,255,.25);border:1px solid rgba(255,255,255,.6);color:#fff;border-radius:20px;font-size:11px;padding:4px 10px;cursor:pointer;margin-left:6px}
+.auto-toggle.on{background:#ffd700;color:#7a4f00;border-color:#ffd700}
+.options{display:flex;flex-direction:column;gap:10px}
+.option{background:#fff;border:2px solid #e0e3ff;border-radius:12px;padding:12px 15px;font-size:14px;color:#333;cursor:pointer;transition:all .2s;text-align:left}
+.option:hover{border-color:#4facfe;background:#f0f7ff}
+.option.selected{border-color:#4facfe;background:#e3f2fd}
+.option.correct{border-color:#4caf50;background:#e8f5e9}
+.option.wrong{border-color:#f44336;background:#ffebee}
+.btn{display:block;width:100%;padding:14px;border:none;border-radius:12px;font-size:15px;font-weight:600;cursor:pointer;transition:all .2s;margin-top:15px}
+.btn-next{background:linear-gradient(135deg,#4facfe,#00f2fe);color:#fff}
+.btn-next:hover{opacity:.9}
+.btn-next:disabled{opacity:.5;cursor:not-allowed}
+.btn-primary{background:linear-gradient(135deg,#ffd700,#ff8c00);color:#fff}
+.btn-primary:hover{opacity:.9}
+.btn-reset{background:transparent;color:#999;font-size:12px;padding:8px;margin-top:10px;cursor:pointer;border:none}
+/* 结果界面 */
+.result-box{text-align:center;padding:30px 20px}
+.result-icon{font-size:64px;margin-bottom:15px}
+.result-title{font-size:20px;font-weight:700;color:#333;margin-bottom:10px}
+.result-score{font-size:28px;font-weight:800;color:#ff9800;margin-bottom:15px}
+.result-msg{font-size:14px;color:#666;line-height:1.6;margin-bottom:20px}
+/* 反馈 */
+.feedback{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);font-size:48px;z-index:100;opacity:0;pointer-events:none;transition:all .5s;text-shadow:0 2px 8px rgba(0,0,0,.3)}
+.feedback.show{opacity:1;transform:translate(-50%,-50%) scale(1.2)}
+.feedback.correct{color:#4caf50}
+.feedback.wrong{color:#f44336}
+/* 底部 */
+.footer{padding:10px 20px;text-align:center;font-size:11px;color:#999;border-top:1px solid #eee}
+.btn-reset-wrap{text-align:center;padding:0 0 15px}
+</style>
+</head>
+<body>
+
+<div id="app">
+  <!-- 顶部导航 -->
+  <div class="header">
+    <h1 id="headerTitle">🎓 英语伴学</h1>
+    <div class="sub" id="headerSub"></div>
+    <div class="progress-wrap" id="progressWrap"><div class="progress-bar" id="progressBar" style="width:0%"></div></div>
+    <div class="progress-text" id="progressText"></div>
+  </div>
+
+  <!-- 面包屑导航（固定顶部） -->
+  <div class="crumb-wrap" id="crumb"></div>
+
+  <!-- 内容区 -->
+  <div class="main" id="content"><div class="loading">加载中…</div></div>
+
+  <!-- 底部 -->
+  <div class="footer" id="footerText"></div>
+</div>
+
+<div class="feedback" id="feedback"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
